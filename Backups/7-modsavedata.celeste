@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<ModSaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LevelSets>
+    <LevelSetStats Name="Celeste">
+      <Areas />
+      <Poem />
+      <UnlockedAreas>4</UnlockedAreas>
+      <TotalStrawberries>0</TotalStrawberries>
+    </LevelSetStats>
+    <LevelSetStats Name="Madhunt">
+      <Areas>
+        <AreaStats ID="11" Cassette="false" SID="Madhunt/01_Forsaken_City">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="12" Cassette="false" SID="Madhunt/02_Old_Site">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="13" Cassette="false" SID="Madhunt/03_Celestial_Resort">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+      </Areas>
+      <Poem />
+      <UnlockedAreas>2</UnlockedAreas>
+      <TotalStrawberries>0</TotalStrawberries>
+    </LevelSetStats>
+    <LevelSetStats Name="muntheory/partnership">
+      <Areas>
+        <AreaStats ID="14" Cassette="false" SID="muntheory/partnership/0">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+      </Areas>
+      <Poem />
+      <UnlockedAreas>0</UnlockedAreas>
+      <TotalStrawberries>0</TotalStrawberries>
+    </LevelSetStats>
+  </LevelSets>
+  <LevelSetRecycleBin />
+  <LastArea_Safe ID="4" Mode="Normal" SID="Celeste/4-GoldenRidge" />
+</ModSaveData>

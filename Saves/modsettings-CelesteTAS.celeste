@@ -1,0 +1,196 @@
+EnableInfoHudFirstTime: true
+Enabled: false
+ShowHitboxes: false
+ShowTriggerHitboxes: true
+ShowUnloadedRoomsHitboxes: true
+ShowCameraHitboxes: true
+SimplifiedHitboxes: true
+ShowActualCollideHitboxes: Off
+UnCollidableHitboxesOpacity: 5
+EntityHitboxColor:
+  B: 0
+  G: 0
+  R: 255
+  A: 255
+  PackedValue: 4278190335
+TriggerHitboxColor:
+  B: 219
+  G: 112
+  R: 147
+  A: 255
+  PackedValue: 4292571283
+PlatformHitboxColor:
+  B: 80
+  G: 127
+  R: 255
+  A: 255
+  PackedValue: 4283465727
+KeyStart:
+  Buttons: []
+  Keys:
+  - RightControl
+  MouseButtons: []
+KeyRestart:
+  Buttons: []
+  Keys:
+  - OemPlus
+  MouseButtons: []
+KeyFastForward:
+  Buttons: []
+  Keys:
+  - RightShift
+  MouseButtons: []
+KeyFastForwardComment:
+  Buttons: []
+  Keys:
+  - RightAlt
+  - RightShift
+  MouseButtons: []
+KeySlowForward:
+  Buttons: []
+  Keys:
+  - G
+  MouseButtons: []
+KeyFrameAdvance:
+  Buttons: []
+  Keys:
+  - OemOpenBrackets
+  MouseButtons: []
+KeyPause:
+  Buttons: []
+  Keys:
+  - OemCloseBrackets
+  MouseButtons: []
+KeyHitboxes:
+  Buttons: []
+  Keys:
+  - LeftControl
+  - B
+  MouseButtons: []
+KeyTriggerHitboxes:
+  Buttons: []
+  Keys:
+  - LeftAlt
+  - T
+  MouseButtons: []
+KeyGraphics:
+  Buttons: []
+  Keys:
+  - LeftControl
+  - N
+  MouseButtons: []
+KeyCamera:
+  Buttons: []
+  Keys:
+  - LeftControl
+  - M
+  MouseButtons: []
+KeySaveState:
+  Buttons: []
+  Keys:
+  - RightAlt
+  - OemMinus
+  MouseButtons: []
+KeyClearState:
+  Buttons: []
+  Keys:
+  - RightAlt
+  - Back
+  MouseButtons: []
+KeyInfoHud:
+  Buttons: []
+  Keys:
+  - LeftControl
+  MouseButtons: []
+KeyFreeCamera:
+  Buttons: []
+  Keys:
+  - LeftAlt
+  MouseButtons: []
+SimplifiedGraphics: false
+ShowGameplay: true
+SimplifiedLighting: 10
+SimplifiedBloomBase: 0
+SimplifiedBloomStrength: 1
+SimplifiedSpinnerColor:
+  Name: Rainbow
+  Value: '#FFFFFF'
+  Color:
+    B: 255
+    G: 255
+    R: 255
+    A: 255
+    PackedValue: 4294967295
+SimplifiedDustSpriteEdge: true
+SimplifiedScreenWipe: true
+SimplifiedColorGrade: true
+SimplifiedSolidTilesStyle:
+  Name: 
+  Value: "\0"
+SimplifiedBackgroundTiles: false
+SimplifiedBackdrop: true
+SimplifiedDecal: true
+SimplifiedParticle: true
+SimplifiedDistort: true
+SimplifiedMiniTextbox: true
+SimplifiedLightningStrike: true
+SimplifiedClutteredEntity: true
+SimplifiedHud: true
+SimplifiedWavedEdge: true
+SimplifiedSpikes: true
+InfoHud: true
+InfoGame: true
+InfoTasInput: true
+InfoSubpixelIndicator: true
+InfoCustom: Off
+InfoWatchEntity: Both
+InfoWatchEntityType: Position
+InfoCustomTemplate: >-
+  Wind: {Level.Wind}
+
+  AutoJump: {Player.AutoJump} {Player.AutoJumpTimer.toFrame()}
+
+  ForceMoveX: {Player.forceMoveX} {Player.forceMoveXTimer.toFrame()}
+
+  Theo: {TheoCrystal.ExactPosition}
+
+  TheoCantGrab: {TheoCrystal.Hold.cannotHoldTimer.toFrame()}
+InfoPosition:
+  X: 12
+  Y: 12
+InfoTextSize: 10
+InfoSubpixelIndicatorSize: 10
+InfoOpacity: 6
+InfoMaskedOpacity: 4
+PositionDecimals: 2
+SpeedDecimals: 2
+VelocityDecimals: 2
+CustomInfoDecimals: 2
+SubpixelIndicatorDecimals: 2
+SpeedUnit: PixelPerSecond
+SlowForwardSpeeds:
+- 0.00999999978
+- 0.0199999996
+- 0.0299999993
+- 0.0399999991
+- 0.0500000007
+- 0.0599999987
+- 0.0700000003
+- 0.0799999982
+- 0.0900000036
+- 0.100000001
+- 0.200000003
+- 0.300000012
+- 0.400000006
+- 0.5
+- 0.600000024
+- 0.699999988
+- 0.800000012
+- 0.899999976
+FastForwardSpeed: 10
+SlowForwardSpeed: 0.100000001
+CenterCamera: false
+RestoreSettings: false
+LaunchStudioAtBoot: false
+Mod9DLighting: false
+IgnoreGcCollect: true

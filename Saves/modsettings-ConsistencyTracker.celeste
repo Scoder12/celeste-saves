@@ -1,0 +1,81 @@
+Enabled: true
+PauseDeathTracking: false
+OnlyTrackWithGoldenBerry: false
+RecordPath: false
+WipeChapter: false
+CreateSummary: false
+SummarySelectedAttemptCount: 20
+LiveData: false
+LiveDataFileOutputEnabled: false
+LiveDataDecimalPlaces: 2
+LiveDataSelectedAttemptCount: 20
+LiveDataRoomNameDisplayType: AbbreviationAndRoomNumberInCP
+LiveDataListOutputFormat: Json
+LiveDataHideFormatsWithoutPath: false
+LiveDataIgnoreUnplayedRooms: false
+ExternalOverlay: false
+ExternalOverlayRefreshTimeSeconds: 2
+ExternalOverlayAttemptsCount: 20
+ExternalOverlayTextOutlineSize: 10
+ExternalOverlayColorblindMode: false
+ExternalOverlayFontFamily: Renogare
+ExternalOverlayTextDisplayEnabled: true
+ExternalOverlayTextDisplayPreset: Default
+ExternalOverlayTextDisplayLeftEnabled: true
+ExternalOverlayTextDisplayMiddleEnabled: true
+ExternalOverlayTextDisplayRightEnabled: true
+ExternalOverlayRoomAttemptsDisplayEnabled: true
+ExternalOverlayGoldenShareDisplayEnabled: true
+ExternalOverlayGoldenShareDisplayShowSession: true
+ExternalOverlayGoldenPBDisplayEnabled: true
+ExternalOverlayChapterBarEnabled: true
+ExternalOverlayChapterBarLightGreenPercent: 95
+ExternalOverlayChapterBarGreenPercent: 80
+ExternalOverlayChapterBarYellowPercent: 50
+ExternalOverlayChapterBorderWidthMultiplier: 2
+IngameOverlay: false
+IngameOverlayTextEnabled: false
+IngameOverlayText1Enabled: true
+IngameOverlayText1Position: TopLeft
+IngameOverlayText1Format: success-rate
+IngameOverlayText1FormatGolden: <same>
+IngameOverlayText1HideWithGolden: false
+IngameOverlayText1Size: 100
+IngameOverlayText1OffsetX: 5
+IngameOverlayText1OffsetY: 0
+IngameOverlayText2Enabled: true
+IngameOverlayText2Position: TopRight
+IngameOverlayText2Format: success-rate
+IngameOverlayText2FormatGolden: <same>
+IngameOverlayText2HideWithGolden: false
+IngameOverlayText2Size: 100
+IngameOverlayText2OffsetX: 5
+IngameOverlayText2OffsetY: 0
+IngameOverlayText3Enabled: false
+IngameOverlayText3Position: BottomLeft
+IngameOverlayText3Format: success-rate
+IngameOverlayText3FormatGolden: <same>
+IngameOverlayText3HideWithGolden: false
+IngameOverlayText3Size: 100
+IngameOverlayText3OffsetX: 5
+IngameOverlayText3OffsetY: 0
+IngameOverlayText4Enabled: false
+IngameOverlayText4Position: BottomRight
+IngameOverlayText4Format: success-rate
+IngameOverlayText4FormatGolden: <same>
+IngameOverlayText4HideWithGolden: false
+IngameOverlayText4Size: 100
+IngameOverlayText4OffsetX: 5
+IngameOverlayText4OffsetY: 0
+IngameOverlayTestStyle: 1
+IngameOverlayTextDebugPositionEnabled: false
+ButtonTogglePauseDeathTracking:
+  Buttons: []
+  Keys:
+  - P
+  MouseButtons: []
+ButtonToggleTextOverlayEnabled:
+  Buttons: []
+  Keys:
+  - O
+  MouseButtons: []

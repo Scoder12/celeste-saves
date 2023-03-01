@@ -1,0 +1,19 @@
+hasGrapple: false
+HasCryoDash: false
+CryoDashActive: false
+CryoRadius: 25
+PowerDashActive: false
+HasPowerDash: false
+lastBird: 0
+lastAltBird: 0
+color:
+  B: 16
+  G: 0
+  R: 187
+  A: 204
+  PackedValue: 3423600827
+dashQueue: false
+grappleStored: false
+inStaminaZone: false
+regrabTimer: 0.200000003
+currentHBNodes: 

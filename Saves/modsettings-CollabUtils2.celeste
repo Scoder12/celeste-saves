@@ -1,0 +1,5 @@
+SpeedBerryTimerPosition: TopLeft
+HideSpeedBerryTimerDuringGameplay: false
+DisplayEndScreenForAllMaps: false
+BestTimeToDisplayInJournal: SpeedBerry
+SaveByDefaultWhenReturningToLobby: true

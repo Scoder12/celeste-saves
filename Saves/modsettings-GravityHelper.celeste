@@ -1,0 +1,11 @@
+AllowInAllMaps: false
+ControlScheme: Absolute
+FeatherControlScheme: Absolute
+VvvvvvMode: Default
+VvvvvvFlipSound: Default
+VvvvvvAllowGrabbing: Default
+VvvvvvAllowDashing: Default
+ToggleInvertGravity:
+  Buttons: []
+  Keys: []
+  MouseButtons: []

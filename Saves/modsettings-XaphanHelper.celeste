@@ -1,0 +1,80 @@
+ShowMiniMap: true
+MiniMapOpacity: 10
+ShowHeatLevel: true
+SpaceJumpIndicator: Large
+OpenMap:
+  Buttons:
+  - Back
+  Keys:
+  - Tab
+  MouseButtons: []
+SelectItem:
+  Buttons:
+  - Y
+  Keys:
+  - A
+  MouseButtons: []
+UseBagItemSlot:
+  Buttons:
+  - LeftShoulder
+  Keys:
+  - S
+  MouseButtons: []
+UseMiscItemSlot:
+  Buttons:
+  - RightShoulder
+  Keys:
+  - D
+  MouseButtons: []
+MapScreenShowProgressDisplay:
+  Buttons:
+  - LeftTrigger
+  Keys:
+  - Z
+  MouseButtons: []
+MapScreenShowMapOrWorldMap:
+  Buttons:
+  - Y
+  Keys:
+  - A
+  MouseButtons: []
+MapScreenShowHints:
+  Buttons:
+  - A
+  Keys:
+  - C
+  MouseButtons: []
+PowerGrip: true
+ClimbingKit: true
+SpiderMagnet: false
+DroneTeleport: false
+JumpBoost: false
+Bombs: false
+MegaBombs: false
+RemoteDrone: false
+GoldenFeather: false
+Binoculars: false
+EtherealDash: false
+PortableStation: false
+PulseRadar: false
+DashBoots: true
+HoverJet: false
+LightningDash: false
+MissilesModule: false
+SuperMissilesModule: false
+Spazer: false
+PlasmaBeam: false
+MorphingBall: false
+MorphBombs: false
+SpringBall: false
+HighJumpBoots: false
+SpeedBooster: false
+LongBeam: false
+IceBeam: false
+WaveBeam: false
+VariaJacket: false
+GravityJacket: false
+ScrewAttack: false
+SpaceJump: 1
+SpeedrunModeUnlocked: false
+SpeedrunMode: false

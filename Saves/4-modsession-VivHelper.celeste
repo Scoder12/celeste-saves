@@ -1,0 +1,285 @@
+AlwaysBreakDashBlockDash: 0
+Blackout: false
+CollectedCoins: {}
+customDashState: 
+CurrentBooster: 
+savedCBDController: 
+savedHBController: 
+HasSpeedPower: false
+CanAddSpeed: false
+StoredSpeed: &o0
+  X: 0
+  Y: 0
+Facing: Right
+dashCount: 0
+staminaCount: 0
+ShowIndicator: true
+PreviousLevel: 
+lockCamera: 0
+LevelInfoCache:
+  a-00:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-00b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-00c:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-00d:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-00x:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-01:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-02:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-03:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-04:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-05:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-06:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-07:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-08:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-09:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-10:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-11:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-12:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-13:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-14:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  a-15:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-00:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-01:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-01b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-01c:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-02:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-03:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-04:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-05:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-06:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-07:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-08:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-09:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-10:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-11:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-12:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-13:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-14:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-15:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-16:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-17:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-18:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-19:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-20:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-21:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-22:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  c-00:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  c-01:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  c-01b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  c-01c:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  c-07:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  c-08:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  c-08b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  c-09:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  c-10:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  c-11:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  c-12:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  c-13:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  d-00:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  d-01:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  d-02:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  d-03:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  d-04:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  d-05:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  d-06:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  d-07:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  d-09:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  d-10:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  d-13:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  d-15:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  d-19:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  d-19b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  d-20:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  e-00:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  e-01:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  e-02:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  e-03:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  e-04:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  e-05:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  e-06:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  e-07:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  e-08:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  e-09:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  e-10:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  e-11:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  void:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+DebrisLimiter: 0
+TeleportState: false
+PausedRetryCheck: false
+EnableRefillCancelSpaceIndicator: true
+DisableMapViewArbitrarySpawn: false
+currentRainbowInfo:
+  Colors: 
+  GradientSize: 0
+  GradientSpeed: 0
+  LoopColors: false
+  Center: *o0

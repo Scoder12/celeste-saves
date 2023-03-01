@@ -1,0 +1,69 @@
+Enabled: true
+RoomTimerType: Off
+NumberOfRooms: 1
+EndPointStyle: Flag
+TimeSummitFlag: true
+TimeHeartCassette: true
+AutoResetRoomTimer: true
+AutoLoadStateAfterDeath: true
+AutoClearStateOnScreenTransition: false
+FreezeAfterLoadStateType: On
+NoGcAfterLoadState: false
+SaveTimeAndDeaths: false
+SaveExtendedVariants: true
+DeathStatistics: false
+MaxNumberOfDeathData: 2
+TeleportRoomCategory: Any
+RespawnSpeed: 1
+RestartChapterSpeed: 1
+SkipRestartChapterScreenWipe: false
+AllowPauseDuringDeath: false
+MuteInBackground: false
+FixCoreRefillDashAfterTeleport: true
+PopupMessageStyle: Tooltip
+AreaCompleteEnableTimerType: Off
+Hotkeys: true
+KeyboardToggleHotkeys: []
+KeyboardSaveState:
+- OemSemicolon
+KeyboardLoadState:
+- F8
+KeyboardClearState:
+- F4
+KeyboardOpenDebugMap: []
+KeyboardResetRoomTimerPb:
+- F9
+KeyboardSwitchRoomTimer: []
+KeyboardIncreaseTimedRooms: []
+KeyboardDecreaseTimedRooms: []
+KeyboardSetEndPoint:
+- F11
+KeyboardSetAdditionalEndPoint: []
+KeyboardCheckDeathStatistics: []
+KeyboardTeleportToPreviousRoom:
+- PageUp
+KeyboardTeleportToNextRoom:
+- PageDown
+KeyboardSwitchAutoLoadState: []
+KeyboardSpawnTowerViewer:
+- F10
+KeyboardToggleFullscreen: []
+ControllerToggleHotkeys: []
+ControllerSaveState: []
+ControllerLoadState: []
+ControllerClearState: []
+ControllerOpenDebugMap: []
+ControllerResetRoomTimerPb: []
+ControllerSwitchRoomTimer: []
+ControllerIncreaseTimedRooms: []
+ControllerDecreaseTimedRooms: []
+ControllerSetEndPoint: []
+ControllerSetAdditionalEndPoint: []
+ControllerSetRoomIdEndPoint: []
+ControllerClearRoomIdEndPoint: []
+ControllerCheckDeathStatistics: []
+ControllerTeleportToPreviousRoom: []
+ControllerTeleportToNextRoom: []
+ControllerSwitchAutoLoadState: []
+ControllerSpawnTowerViewer: []
+ControllerToggleFullscreen: []

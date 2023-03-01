@@ -1,0 +1,44 @@
+WantsToBeConnected: true
+AutoReconnect: true
+Server: celeste.0x0a.de
+Name: '#804be8a04fe94e84'
+ConnectionType: Auto
+DevLogLevel: INF
+Interactions: false
+Sounds: ON
+SoundVolume: 8
+Entities: ON
+PlayerListMode: Channels
+ShowPlayerListLocations: ON
+PlayerListShortenRandomizer: true
+PlayerListAllowSplit: true
+PlayerListShowPing: true
+ShowNewMessages: All
+PlayerOpacity: 4
+NameOpacity: 4
+ShowOwnName: true
+ChatLogLength: 8
+UISize: 2
+UIScaleOverride: 0
+UIBlur: MEDIUM
+EmoteWheel: true
+ButtonPlayerList:
+  Buttons:
+  - Back
+  Keys:
+  - Tab
+  MouseButtons: []
+ButtonChat:
+  Buttons: []
+  Keys:
+  - T
+  MouseButtons: []
+Emotes:
+- i:collectables/heartgem/0/spin
+- i:collectables/strawberry
+- Hi!
+- Too slow!
+- p:madeline/normal04
+- p:ghost/scoff03
+- p:theo/yolo03 theo/yolo02 theo/yolo01 theo/yolo02 END
+- p:granny/laugh

@@ -1,0 +1,279 @@
+AlwaysBreakDashBlockDash: 0
+Blackout: false
+CollectedCoins: {}
+customDashState: 
+CurrentBooster: 
+savedCBDController: 
+savedHBController: 
+HasSpeedPower: false
+CanAddSpeed: false
+StoredSpeed:
+  X: 0
+  Y: 0
+Facing: Right
+dashCount: 0
+staminaCount: 110
+ShowIndicator: true
+PreviousLevel: Furniture Movers
+lockCamera: 0
+LevelInfoCache:
+  6Jumps Free TBH:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  A Very Good Place To Start:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Alleyway:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  And I'm Mad At The Jail:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Autobahn:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Beat Drops:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Break In:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Bringing The Heat:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Can You Tell I Named These Rooms During A Long Car Ride:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Clearing:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Columns:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Connecting Back:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Core B Wants Its Room Back:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Cramped Quarters:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Crooked Ladder:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Crystalless Enigma:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Cul De Sac:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Darker Side:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Delving Deep:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Detour:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Doing Things The Hard Way:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Dome:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Don't Fix It:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Drunk Driving:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Forgot To Feed My Pet~:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Foundation:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Furniture Movers:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Gatekeeping:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Ground Level:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Here We Are:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Hideout:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Hitch A Ride:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Hop On:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Hot Potato:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Hot Water:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Hotshot:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  In The Rafters:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Inverted Super:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Jevil:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Jump Up, Jump Up And Get Down:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Jumping Rope:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Keep Out!:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Moving On Down:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Moving On Up:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Need a Lift?:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  No Outlet:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Obelisk:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  On Top Of The World:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Open Faced Sandwiches:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Opening Moves:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Outpost:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Paradox:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Queueing:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Rainfall:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Rapid Boil:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Ring Toss:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Row By Row:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Scaffolding:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Scenic Pond:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Security Scan:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Ski Lift:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Slither:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Sparse Supports:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Spider Dance:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Swimming Upstream:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Switching Drivers:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  The Tower:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Toolshed:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Two Lane Road:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  United Airlines:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Upstairs:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Watch For Falling Rocks:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Weaving:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Where People Gather:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Z_FalsePeak:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Zfiller00:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  ZsoImadethisroomsbecause:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Zthisbitwasbotheringme:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  extra-OLD:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  extra00:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  extra01:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  extra02:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  extra03:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  extra04:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  out-of-the-weeds:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+DebrisLimiter: 0
+TeleportState: false
+PausedRetryCheck: false
+EnableRefillCancelSpaceIndicator: true
+DisableMapViewArbitrarySpawn: false

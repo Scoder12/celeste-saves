@@ -1,0 +1,42 @@
+AlwaysBreakDashBlockDash: 0
+Blackout: false
+CollectedCoins: {}
+customDashState: 
+CurrentBooster: 
+savedCBDController: 
+savedHBController: 
+HasSpeedPower: false
+CanAddSpeed: false
+StoredSpeed: &o0
+  X: 0
+  Y: 0
+Facing: Right
+dashCount: 0
+staminaCount: 110
+ShowIndicator: true
+PreviousLevel: 
+lockCamera: 0
+LevelInfoCache:
+  bridge:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  inside:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  outside:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  secret:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+DebrisLimiter: 0
+TeleportState: false
+PausedRetryCheck: false
+EnableRefillCancelSpaceIndicator: true
+DisableMapViewArbitrarySpawn: false
+currentRainbowInfo:
+  Colors: 
+  GradientSize: 0
+  GradientSpeed: 0
+  LoopColors: false
+  Center: *o0
