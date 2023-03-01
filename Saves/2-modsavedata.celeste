@@ -123,7 +123,7 @@
         </AreaStats>
         <AreaStats ID="17" Cassette="false" SID="nameguysdsidespack/0/4-Ridge">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1491" TimePlayed="137189320000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1765" TimePlayed="165209060000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints>
                 <string>b-01s</string>
@@ -4379,7 +4379,7 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="17" Mode="Normal" SID="nameguysdsidespack/0/4-Ridge" />
-  <CurrentSession_Safe Level="c-08" Time="9343540000" StartedFromBeginning="false" Deaths="106" Dashes="66" DashesAtLevelStart="66" DeathsInCurrentLevel="47" InArea="true" StartCheckpoint="c-01n" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
+  <CurrentSession_Safe Level="c-08" Time="37351040000" StartedFromBeginning="false" Deaths="380" Dashes="66" DashesAtLevelStart="66" DeathsInCurrentLevel="321" InArea="true" StartCheckpoint="c-01n" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
     <Area ID="17" Mode="Normal" SID="nameguysdsidespack/0/4-Ridge" />
     <RespawnPoint>
       <X>15592</X>

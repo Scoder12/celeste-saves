@@ -1,15 +1,15 @@
 MasterSwitch: true
-AutoResetVariantsOnFirstStartup: false
-OptionsOutOfModOptionsMenuEnabled: true
-SubmenusForEachCategoryEnabled: true
-AutomaticallyResetVariants: true
-Gravity: 1
-FallSpeed: 1
-JumpHeight: 1
-JumpDuration: 1
-SpeedX: 1
-Stamina: 110
-DashSpeed: 1
+EnabledVariants: {}
+ChangeVariantsRandomly: false
+VariantSet: 3
+ChangeVariantsInterval: 0
+RandomizerEnabledVariants: {}
+RerollMode: false
+MaxEnabledVariants: 10
+RandoSetSeed: 
+Vanillafy: 0
+DisplayEnabledVariantsToScreen: false
+ashSpeed: 1
 LegacyDashSpeedBehavior: false
 DashCount: -1
 CornerCorrection: 4

@@ -1,6 +1,9 @@
 AlwaysBreakDashBlockDash: 0
 Blackout: false
 CollectedCoins: {}
+FFDistance: 5
+FPDistance: 30
+MakeClose: false
 customDashState: 
 CurrentBooster: 
 savedCBDController: 
