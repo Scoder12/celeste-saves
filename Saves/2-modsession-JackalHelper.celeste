@@ -8,10 +8,10 @@ lastBird: 0
 lastAltBird: 0
 color:
   B: 0
-  G: 6
+  G: 91
   R: 204
   A: 204
-  PackedValue: 3422553804
+  PackedValue: 3422575564
 dashQueue: false
 grappleStored: false
 inStaminaZone: false
