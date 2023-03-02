@@ -2,7 +2,7 @@
 <SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>7637054160000</Time>
+  <Time>7662513530000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>66040</TotalDeaths>
+  <TotalDeaths>66154</TotalDeaths>
   <TotalStrawberries>188</TotalStrawberries>
   <TotalGoldenStrawberries>12</TotalGoldenStrawberries>
-  <TotalJumps>213786</TotalJumps>
-  <TotalWallJumps>70095</TotalWallJumps>
-  <TotalDashes>264089</TotalDashes>
+  <TotalJumps>214624</TotalJumps>
+  <TotalWallJumps>70300</TotalWallJumps>
+  <TotalDashes>264487</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -787,10 +787,11 @@
         </AreaStats>
         <AreaStats ID="26" Cassette="false" SID="SpringCollab2020/1-Beginner/Cookie">
           <Modes>
-            <AreaModeStats TotalStrawberries="2" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="78" TimePlayed="18730430000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="3" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="192" TimePlayed="44189800000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries>
                 <EntityID Key=" CookieBeg_Strawberry1:133" />
                 <EntityID Key=" CookieBeg_Strawberry2:158" />
+                <EntityID Key=" CookieBeg_Strawberry3:334" />
               </Strawberries>
               <Checkpoints />
             </AreaModeStats>
@@ -1033,7 +1034,7 @@
       </Areas>
       <Poem />
       <UnlockedAreas>14</UnlockedAreas>
-      <TotalStrawberries>3</TotalStrawberries>
+      <TotalStrawberries>4</TotalStrawberries>
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/2-Intermediate">
       <Areas>
@@ -4906,10 +4907,10 @@
   </LevelSetRecycleBin>
   <HasModdedSaveData>true</HasModdedSaveData>
   <LastArea_Safe ID="26" Mode="Normal" SID="SpringCollab2020/1-Beginner/Cookie" />
-  <CurrentSession_Safe Level=" CookieBeg_3" Time="18578280000" StartedFromBeginning="true" Deaths="77" Dashes="57" DashesAtLevelStart="55" DeathsInCurrentLevel="18" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
+  <CurrentSession_Safe Level=" CookieBeg_5" Time="44031530000" StartedFromBeginning="true" Deaths="191" Dashes="84" DashesAtLevelStart="84" DeathsInCurrentLevel="22" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
     <Area ID="26" Mode="Normal" SID="SpringCollab2020/1-Beginner/Cookie" />
     <RespawnPoint>
-      <X>1704</X>
+      <X>2128</X>
       <Y>-408</Y>
     </RespawnPoint>
     <Audio>
@@ -4949,6 +4950,9 @@
       <string>torch_ CookieBeg_Strawberry2:405</string>
       <string>torch_ CookieBeg_3:135</string>
       <string>torch_ CookieBeg_3:139</string>
+      <string>torch_ CookieBeg_3:143</string>
+      <string>torch_ CookieBeg_3:134</string>
+      <string>torch_ CookieBeg_5:409</string>
     </Flags>
     <LevelFlags>
       <string> CookieBeg_intro</string>
@@ -4958,10 +4962,13 @@
       <string> CookieBeg_Strawberry1</string>
       <string> CookieBeg_3</string>
       <string> CookieBeg_Strawberry2</string>
+      <string> CookieBeg_5</string>
+      <string> CookieBeg_Strawberry3</string>
     </LevelFlags>
     <Strawberries>
       <EntityID Key=" CookieBeg_Strawberry1:133" />
       <EntityID Key=" CookieBeg_Strawberry2:158" />
+      <EntityID Key=" CookieBeg_Strawberry3:334" />
     </Strawberries>
     <DoNotLoad>
       <EntityID Key=" CookieBeg_2:10000114" />
@@ -4972,6 +4979,8 @@
       <EntityID Key=" CookieBeg_Strawberry2:158" />
       <EntityID Key=" CookieBeg_3:10000076" />
       <EntityID Key=" CookieBeg_3:10000077" />
+      <EntityID Key=" CookieBeg_5:338" />
+      <EntityID Key=" CookieBeg_Strawberry3:334" />
     </DoNotLoad>
     <Keys />
     <Counters>
@@ -5002,7 +5011,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel> CookieBeg_Strawberry2</FurthestSeenLevel>
+    <FurthestSeenLevel> CookieBeg_Strawberry3</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </SaveData>
