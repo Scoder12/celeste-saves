@@ -2,7 +2,7 @@
 <SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>7726478070000</Time>
+  <Time>7757713360000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>66563</TotalDeaths>
+  <TotalDeaths>66762</TotalDeaths>
   <TotalStrawberries>188</TotalStrawberries>
   <TotalGoldenStrawberries>12</TotalGoldenStrawberries>
-  <TotalJumps>216447</TotalJumps>
-  <TotalWallJumps>70635</TotalWallJumps>
-  <TotalDashes>266399</TotalDashes>
+  <TotalJumps>217410</TotalJumps>
+  <TotalWallJumps>70724</TotalWallJumps>
+  <TotalDashes>267185</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -636,7 +636,7 @@
         </AreaStats>
         <AreaStats ID="17" Cassette="false" SID="SpringCollab2020/0-Lobbies/1-Beginner">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1" TimePlayed="3280150000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1" TimePlayed="5116830000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -739,7 +739,7 @@
         </AreaStats>
         <AreaStats ID="23" Cassette="false" SID="SpringCollab2020/1-Beginner/Bissy">
           <Modes>
-            <AreaModeStats TotalStrawberries="3" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="71" TimePlayed="4521830000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="3" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="75" TimePlayed="5814510000" BestTime="5776090000" BestFullClearTime="0" BestDashes="56" BestDeaths="75" HeartGem="true">
               <Strawberries>
                 <EntityID Key="Bissy_01B:1802" />
                 <EntityID Key="Bissy_03B:1211" />
@@ -814,7 +814,7 @@
         </AreaStats>
         <AreaStats ID="27" Cassette="false" SID="SpringCollab2020/1-Beginner/Cruor">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="74" TimePlayed="6586820000" BestTime="6554520000" BestFullClearTime="0" BestDashes="56" BestDeaths="74" HeartGem="true">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -830,8 +830,11 @@
         </AreaStats>
         <AreaStats ID="28" Cassette="false" SID="SpringCollab2020/1-Beginner/DanTKO">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-              <Strawberries />
+            <AreaModeStats TotalStrawberries="2" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="39" TimePlayed="4956520000" BestTime="4924220000" BestFullClearTime="0" BestDashes="92" BestDeaths="39" HeartGem="true">
+              <Strawberries>
+                <EntityID Key="DanTKO_01:103" />
+                <EntityID Key="DanTKO_05:33" />
+              </Strawberries>
               <Checkpoints />
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
@@ -846,7 +849,7 @@
         </AreaStats>
         <AreaStats ID="29" Cassette="false" SID="SpringCollab2020/1-Beginner/Flagpole1up">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="3" TimePlayed="5870610000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -862,8 +865,10 @@
         </AreaStats>
         <AreaStats ID="30" Cassette="false" SID="SpringCollab2020/1-Beginner/Ghajestis">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-              <Strawberries />
+            <AreaModeStats TotalStrawberries="1" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="21" TimePlayed="2087940000" BestTime="1964860000" BestFullClearTime="0" BestDashes="55" BestDeaths="19" HeartGem="true">
+              <Strawberries>
+                <EntityID Key="Ghaj_2:0" />
+              </Strawberries>
               <Checkpoints />
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
@@ -966,8 +971,12 @@
         </AreaStats>
         <AreaStats ID="36" Cassette="false" SID="SpringCollab2020/1-Beginner/Rue">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-              <Strawberries />
+            <AreaModeStats TotalStrawberries="3" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="58" TimePlayed="8604040000" BestTime="8565620000" BestFullClearTime="0" BestDashes="1" BestDeaths="58" HeartGem="true">
+              <Strawberries>
+                <EntityID Key="Rue_01_Berry_01:364" />
+                <EntityID Key="Rue_05:379" />
+                <EntityID Key="Rue_Outro:380" />
+              </Strawberries>
               <Checkpoints />
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
@@ -1049,7 +1058,7 @@
       </Areas>
       <Poem />
       <UnlockedAreas>16</UnlockedAreas>
-      <TotalStrawberries>14</TotalStrawberries>
+      <TotalStrawberries>20</TotalStrawberries>
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/2-Intermediate">
       <Areas>
@@ -4921,24 +4930,24 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <HasModdedSaveData>true</HasModdedSaveData>
-  <LastArea_Safe ID="23" Mode="Normal" SID="SpringCollab2020/1-Beginner/Bissy" />
-  <CurrentSession_Safe Level="Bissy_04" Time="4489530000" StartedFromBeginning="true" Deaths="71" Dashes="45" DashesAtLevelStart="45" DeathsInCurrentLevel="27" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="feelingdown" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
-    <Area ID="23" Mode="Normal" SID="SpringCollab2020/1-Beginner/Bissy" />
+  <LastArea_Safe ID="29" Mode="Normal" SID="SpringCollab2020/1-Beginner/Flagpole1up" />
+  <CurrentSession_Safe Level="Flagpole1up_03" Time="5856330000" StartedFromBeginning="true" Deaths="3" Dashes="39" DashesAtLevelStart="39" DeathsInCurrentLevel="2" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+    <Area ID="29" Mode="Normal" SID="SpringCollab2020/1-Beginner/Flagpole1up" />
     <RespawnPoint>
-      <X>2344</X>
-      <Y>-1856</Y>
+      <X>1120</X>
+      <Y>-472</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/collab2020/bissy_beginner">
+      <Music Event="event:/Collab2020/Flagpole1Up">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
-          <MEP Key="layer3" Value="0" />
+          <MEP Key="layer3" Value="1" />
           <MEP Key="layer4" Value="1" />
           <MEP Key="layer6" Value="0" />
         </Parameters>
       </Music>
-      <Ambience Event="event:/env/amb/01_main">
+      <Ambience Event="event:/env/amb/03_pico8_closeup">
         <Parameters />
       </Ambience>
     </Audio>
@@ -4948,26 +4957,24 @@
       <Backpack>true</Backpack>
       <NoRefills>false</NoRefills>
     </Inventory>
-    <Flags />
+    <Flags>
+      <string>1up2020Collab_Lamps</string>
+      <string>1up2020CollabRoom_00_LaserActivate</string>
+      <string>1up2020CollabRoom_00_Gate01</string>
+      <string>1up2020CollabRoom_00_Gate03</string>
+      <string>1up2020CollabRoom_00_Gate02</string>
+      <string>1up2020CollabRoom_01_Gate</string>
+      <string>1up2020CollabRoom_01_Gate2</string>
+      <string>1up2020CollabRoom_02_GateOn</string>
+    </Flags>
     <LevelFlags>
-      <string>Bissy_00</string>
-      <string>Bissy_01</string>
-      <string>Bissy_02</string>
-      <string>Bissy_01B</string>
-      <string>Bissy_03</string>
-      <string>Bissy_03B</string>
-      <string>Bissy_04</string>
+      <string>Flagpole1up_00_Intro</string>
+      <string>Flagpole1up_01</string>
+      <string>Flagpole1up_02</string>
+      <string>Flagpole1up_03</string>
     </LevelFlags>
-    <Strawberries>
-      <EntityID Key="Bissy_01B:1802" />
-      <EntityID Key="Bissy_03B:1211" />
-      <EntityID Key="Bissy_04:1738" />
-    </Strawberries>
-    <DoNotLoad>
-      <EntityID Key="Bissy_01B:1802" />
-      <EntityID Key="Bissy_03B:1211" />
-      <EntityID Key="Bissy_04:1738" />
-    </DoNotLoad>
+    <Strawberries />
+    <DoNotLoad />
     <Keys />
     <Counters>
       <Counter key="pushBlocksHit" value="0" />
@@ -4980,7 +4987,7 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="23" Cassette="false" SID="SpringCollab2020/1-Beginner/Bissy">
+    <OldStats ID="29" Cassette="false" SID="SpringCollab2020/1-Beginner/Flagpole1up">
       <Modes>
         <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
@@ -4997,7 +5004,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>Bissy_04</FurthestSeenLevel>
+    <FurthestSeenLevel>Flagpole1up_03</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </SaveData>
