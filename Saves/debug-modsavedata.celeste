@@ -489,7 +489,7 @@
         </AreaStats>
         <AreaStats ID="40" Cassette="false" SID="SpringCollab2020/1-Beginner/ZZ-HeartSide">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="28" TimePlayed="2080630000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="67" TimePlayed="5490660000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4352,11 +4352,11 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="40" Mode="Normal" SID="SpringCollab2020/1-Beginner/ZZ-HeartSide" />
-  <CurrentSession_Safe Level="beg_heart_04" Time="2068390000" StartedFromBeginning="false" Deaths="28" Dashes="43" DashesAtLevelStart="43" DeathsInCurrentLevel="1" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="reflection" LightingAlphaAdd="0.115" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="true">
+  <CurrentSession_Safe Level="beg_heart_06" Time="5421470000" StartedFromBeginning="false" Deaths="67" Dashes="50" DashesAtLevelStart="50" DeathsInCurrentLevel="1" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="40" Mode="Normal" SID="SpringCollab2020/1-Beginner/ZZ-HeartSide" />
     <RespawnPoint>
-      <X>5660</X>
-      <Y>-4280</Y>
+      <X>8648</X>
+      <Y>-5712</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/collab2020/heartside_beginner">
@@ -4385,6 +4385,13 @@
       <string>SpeedrunTool_SavedSate</string>
       <string>summit_checkpoint_5</string>
       <string>summit_checkpoint_4</string>
+      <string>heartbegrue</string>
+      <string>2020COLLAB_BEGINNERHEARTSIDE_LAMPS</string>
+      <string>gate4</string>
+      <string>summit_checkpoint_3</string>
+      <string>gate2</string>
+      <string>gate1</string>
+      <string>summit_checkpoint_1</string>
     </Flags>
     <LevelFlags>
       <string>beg_heart_00</string>
@@ -4392,11 +4399,15 @@
       <string>beg_heart_02</string>
       <string>beg_heart_03</string>
       <string>beg_heart_04</string>
+      <string>beg_heart_05</string>
+      <string>beg_heart_06</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
     <Keys />
-    <Counters />
+    <Counters>
+      <Counter key="pushBlocksHit" value="0" />
+    </Counters>
     <SummitGems>
       <boolean>false</boolean>
       <boolean>false</boolean>
@@ -4422,7 +4433,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>beg_heart_04</FurthestSeenLevel>
+    <FurthestSeenLevel>beg_heart_06</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </ModSaveData>

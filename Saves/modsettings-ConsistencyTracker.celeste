@@ -34,10 +34,10 @@ ExternalOverlayChapterBarGreenPercent: 80
 ExternalOverlayChapterBarYellowPercent: 50
 ExternalOverlayChapterBorderWidthMultiplier: 2
 IngameOverlay: false
-IngameOverlayTextEnabled: false
+IngameOverlayTextEnabled: true
 IngameOverlayText1Enabled: true
 IngameOverlayText1Position: TopLeft
-IngameOverlayText1Format: success-rate
+IngameOverlayText1Format: full-success-rate
 IngameOverlayText1FormatGolden: <same>
 IngameOverlayText1HideWithGolden: false
 IngameOverlayText1Size: 100
@@ -45,7 +45,7 @@ IngameOverlayText1OffsetX: 5
 IngameOverlayText1OffsetY: 0
 IngameOverlayText2Enabled: true
 IngameOverlayText2Position: TopRight
-IngameOverlayText2Format: success-rate
+IngameOverlayText2Format: full-success-rate
 IngameOverlayText2FormatGolden: <same>
 IngameOverlayText2HideWithGolden: false
 IngameOverlayText2Size: 100
@@ -53,7 +53,7 @@ IngameOverlayText2OffsetX: 5
 IngameOverlayText2OffsetY: 0
 IngameOverlayText3Enabled: false
 IngameOverlayText3Position: BottomLeft
-IngameOverlayText3Format: success-rate
+IngameOverlayText3Format: full-success-rate
 IngameOverlayText3FormatGolden: <same>
 IngameOverlayText3HideWithGolden: false
 IngameOverlayText3Size: 100
@@ -61,7 +61,7 @@ IngameOverlayText3OffsetX: 5
 IngameOverlayText3OffsetY: 0
 IngameOverlayText4Enabled: false
 IngameOverlayText4Position: BottomRight
-IngameOverlayText4Format: success-rate
+IngameOverlayText4Format: full-success-rate
 IngameOverlayText4FormatGolden: <same>
 IngameOverlayText4HideWithGolden: false
 IngameOverlayText4Size: 100

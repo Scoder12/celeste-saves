@@ -1,7 +1,7 @@
-LobbySID: SpringCollab2020/0-Lobbies/1-Beginner
-LobbyRoom: lobby_main
-LobbySpawnPointX: 2192
-LobbySpawnPointY: -80
+LobbySID: 
+LobbyRoom: 
+LobbySpawnPointX: 0
+LobbySpawnPointY: 0
 GymExitMapSID: 
 GymExitSaveAllowed: false
-SaveAndReturnToLobbyAllowed: true
+SaveAndReturnToLobbyAllowed: false
