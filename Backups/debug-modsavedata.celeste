@@ -736,7 +736,7 @@
         </AreaStats>
         <AreaStats ID="55" Cassette="false" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="46" TimePlayed="5833380000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="58" TimePlayed="6413420000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4352,11 +4352,11 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="55" Mode="Normal" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer" />
-  <CurrentSession_Safe Level="room_2" Time="5782720000" StartedFromBeginning="false" Deaths="47" Dashes="18" DashesAtLevelStart="18" DeathsInCurrentLevel="46" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+  <CurrentSession_Safe Level="room_3" Time="6350520000" StartedFromBeginning="false" Deaths="59" Dashes="20" DashesAtLevelStart="18" DeathsInCurrentLevel="58" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="55" Mode="Normal" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer" />
     <RespawnPoint>
-      <X>1320</X>
-      <Y>936</Y>
+      <X>528</X>
+      <Y>1312</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/collab2020/oppen">
@@ -4386,6 +4386,7 @@
     <LevelFlags>
       <string>hub</string>
       <string>room_2</string>
+      <string>room_3</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
@@ -4418,7 +4419,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>room_2</FurthestSeenLevel>
+    <FurthestSeenLevel>room_3</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </ModSaveData>

@@ -790,7 +790,7 @@
         </AreaStats>
         <AreaStats ID="55" Cassette="false" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="223" TimePlayed="36174810000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="392" TimePlayed="57741180000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4429,11 +4429,11 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="55" Mode="Normal" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer" />
-  <CurrentSession_Safe Level="room_3" Time="36124150000" StartedFromBeginning="true" Deaths="223" Dashes="375" DashesAtLevelStart="375" DeathsInCurrentLevel="8" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+  <CurrentSession_Safe Level="room_4" Time="57678280000" StartedFromBeginning="true" Deaths="392" Dashes="473" DashesAtLevelStart="466" DeathsInCurrentLevel="131" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="55" Mode="Normal" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer" />
     <RespawnPoint>
-      <X>184</X>
-      <Y>1488</Y>
+      <X>1376</X>
+      <Y>1400</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/collab2020/oppen">
@@ -4467,12 +4467,17 @@
       <string>global_group_switch384</string>
       <string>global_group_switch297</string>
       <string>global_group_switch410</string>
+      <string>global_group_switch405</string>
+      <string>global_group_switch423</string>
+      <string>global_group_switch460</string>
+      <string>global_group_switch533</string>
     </Flags>
     <LevelFlags>
       <string>hub</string>
       <string>room_3</string>
       <string>room_2</string>
       <string>room_1</string>
+      <string>room_4</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad>
@@ -4510,7 +4515,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>room_1</FurthestSeenLevel>
+    <FurthestSeenLevel>room_4</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </ModSaveData>
