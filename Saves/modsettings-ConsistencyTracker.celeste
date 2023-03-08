@@ -34,7 +34,7 @@ ExternalOverlayChapterBarGreenPercent: 80
 ExternalOverlayChapterBarYellowPercent: 50
 ExternalOverlayChapterBorderWidthMultiplier: 2
 IngameOverlay: false
-IngameOverlayTextEnabled: true
+IngameOverlayTextEnabled: false
 IngameOverlayText1Enabled: true
 IngameOverlayText1Position: TopLeft
 IngameOverlayText1Format: full-success-rate
