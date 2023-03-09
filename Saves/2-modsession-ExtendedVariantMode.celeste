@@ -1,7 +1,7 @@
 VariantsEnabledViaTrigger: {}
 VariantsOverridenByUser: []
 ExtendedVariantsWereUsed: false
-DashCountOnLatestRespawn: 1
+DashCountOnLatestRespawn: 2
 ExtendedVariantsDisplayedOnScreenViaTrigger: false
 OverriddenVariantsInRoom: {}
-OverriddenVariantsInRoomRevertOnLeave: {}
+RevertOnLeaveVariantsActive: {}

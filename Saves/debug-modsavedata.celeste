@@ -736,7 +736,7 @@
         </AreaStats>
         <AreaStats ID="55" Cassette="false" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="58" TimePlayed="6413420000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="61" TimePlayed="7864030000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4352,11 +4352,11 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="55" Mode="Normal" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer" />
-  <CurrentSession_Safe Level="room_3" Time="6350520000" StartedFromBeginning="false" Deaths="59" Dashes="20" DashesAtLevelStart="18" DeathsInCurrentLevel="58" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+  <CurrentSession_Safe Level="bosses" Time="7788890000" StartedFromBeginning="false" Deaths="62" Dashes="47" DashesAtLevelStart="47" DeathsInCurrentLevel="61" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="55" Mode="Normal" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer" />
     <RespawnPoint>
-      <X>528</X>
-      <Y>1312</Y>
+      <X>2376</X>
+      <Y>752</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/collab2020/oppen">
@@ -4382,15 +4382,21 @@
       <string>StopFastRestartFlag</string>
       <string>SpeedrunTool_SavedSate</string>
       <string>global_group_switch442</string>
+      <string>torch_bosses:0</string>
     </Flags>
     <LevelFlags>
       <string>hub</string>
       <string>room_2</string>
       <string>room_3</string>
+      <string>bosses</string>
     </LevelFlags>
     <Strawberries />
-    <DoNotLoad />
-    <Keys />
+    <DoNotLoad>
+      <EntityID Key="bosses:876" />
+    </DoNotLoad>
+    <Keys>
+      <EntityID Key="bosses:876" />
+    </Keys>
     <Counters>
       <Counter key="pushBlocksHit" value="0" />
     </Counters>
@@ -4419,7 +4425,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>room_3</FurthestSeenLevel>
+    <FurthestSeenLevel>bosses</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </ModSaveData>
