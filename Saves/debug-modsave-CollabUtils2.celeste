@@ -77,8 +77,87 @@ SessionsPerLevel:
       <FurthestSeenLevel>05</FurthestSeenLevel>
       <BeatBestTime>false</BeatBestTime>
     </Session>
+  SpringCollab2020/2-Intermediate/Oppen_Heimer: >-
+    <?xml version="1.0"?>
+
+    <Session xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Level="bosses" Time="7821020000" StartedFromBeginning="false" Deaths="63" Dashes="47" DashesAtLevelStart="47" DeathsInCurrentLevel="62" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+      <Area ID="55" Mode="Normal" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer" />
+      <RespawnPoint>
+        <X>2376</X>
+        <Y>752</Y>
+      </RespawnPoint>
+      <Audio>
+        <Music Event="event:/collab2020/oppen">
+          <Parameters>
+            <MEP Key="layer1" Value="1" />
+            <MEP Key="layer2" Value="1" />
+            <MEP Key="layer3" Value="1" />
+            <MEP Key="layer4" Value="1" />
+            <MEP Key="layer6" Value="0" />
+          </Parameters>
+        </Music>
+        <Ambience Event="event:/env/amb/01_main">
+          <Parameters />
+        </Ambience>
+      </Audio>
+      <Inventory>
+        <Dashes>1</Dashes>
+        <DreamDash>true</DreamDash>
+        <Backpack>true</Backpack>
+        <NoRefills>false</NoRefills>
+      </Inventory>
+      <Flags>
+        <string>StopFastRestartFlag</string>
+        <string>SpeedrunTool_SavedSate</string>
+        <string>global_group_switch442</string>
+        <string>torch_bosses:0</string>
+      </Flags>
+      <LevelFlags>
+        <string>hub</string>
+        <string>room_2</string>
+        <string>room_3</string>
+        <string>bosses</string>
+      </LevelFlags>
+      <Strawberries />
+      <DoNotLoad>
+        <EntityID Key="bosses:876" />
+        <EntityID Key="bosses:721" />
+      </DoNotLoad>
+      <Keys />
+      <Counters>
+        <Counter key="pushBlocksHit" value="0" />
+      </Counters>
+      <SummitGems>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+      </SummitGems>
+      <OldStats ID="74" Cassette="false" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer">
+        <Modes>
+          <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <Strawberries />
+            <Checkpoints />
+          </AreaModeStats>
+          <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <Strawberries />
+            <Checkpoints />
+          </AreaModeStats>
+          <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <Strawberries />
+            <Checkpoints />
+          </AreaModeStats>
+        </Modes>
+      </OldStats>
+      <UnlockedCSide>false</UnlockedCSide>
+      <FurthestSeenLevel>bosses</FurthestSeenLevel>
+      <BeatBestTime>false</BeatBestTime>
+    </Session>
 ModSessionsPerLevel:
   SpringCollab2020/1-Beginner/CANADIAN: {}
+  SpringCollab2020/2-Intermediate/Oppen_Heimer: {}
 ModSessionsPerLevelBinary:
   SpringCollab2020/1-Beginner/CANADIAN:
     Everest: V2hhdGV2ZXJFbHNlQ291bnQ6IDEzMzcKQXR0YWNoZWREZWNhbHM6IFtdCg==
@@ -89,6 +168,17 @@ ModSessionsPerLevelBinary:
     MoreDasheline: T3ZlcnJpZGVIYWlyQ29sb3JzOiB7fQo=
     FrostHelper: TGlnaHRuaW5nQ29sb3JBOiAKTGlnaHRuaW5nQ29sb3JCOiAKTGlnaHRuaW5nRmlsbENvbG9yOiBmZmZmZmYKTGlnaHRuaW5nRmlsbENvbG9yTXVsdGlwbGllcjogCkJsb29tQ29sb3I6CiAgQjogMjU1CiAgRzogMjU1CiAgUjogMjU1CiAgQTogMjU1CiAgUGFja2VkVmFsdWU6IDQyOTQ5NjcyOTUKUmFpbmJvd0Jsb29tOiBmYWxzZQpTb2Z0RG9Ob3RMb2FkOiBbXQo=
     IsaGrabBag: VmFyaWFudHNfU2F2ZToKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAK
+    MaxHelpingHand: QWN0aXZlU3BlZWRCYXNlZE11c2ljUGFyYW1zOiB7fQpCbG9vbVN0cmVndGg6IApSYWluYm93U3Bpbm5lckN1cnJlbnRDb2xvcnM6IApTZWVrZXJCYXJyaWVyQ3VycmVudENvbG9yczogCkdsYXNzQmxvY2tDdXJyZW50U2V0dGluZ3M6IApHcmFkaWVudER1c3RJbWFnZVBhdGg6IApHcmFkaWVudER1c3RTY3JvbGxTcGVlZDogMApDYW1lcmFDYXRjaHVwU3BlZWQ6IApNYWRlbGluZUlzU2lsaG91ZXR0ZTogZmFsc2UKQW1iaWVuY2VWb2x1bWU6IDEKSWNlUGh5c2ljc0Rpc2FibGVkOiBmYWxzZQpDb2xsZWN0ZWRNdWx0aVJvb21TdHJhd2JlcnJ5U2VlZHM6IFtdClBpY2tlZFVwRmxhZ1BpY2t1cHM6IFtdCk1hZGVsaW5lSGFzUG9ueXRhaWw6IGZhbHNlCg==
+    SpringCollab2020: QWN0aXZlU3BlZWRCYXNlZE11c2ljUGFyYW1zOiB7fQpJY2VQaHlzaWNzRGlzYWJsZWQ6IGZhbHNlCkNvbGxlY3RlZE11bHRpUm9vbVN0cmF3YmVycnlTZWVkczogW10KTWFkZWxpbmVJc1NpbGhvdWV0dGU6IGZhbHNlCkxpZ2h0U291cmNlc0Rpc2FibGVkOiBmYWxzZQpTcGlrZUp1bXBUaHJvdWdoSG9va2VkOiBmYWxzZQo=
+  SpringCollab2020/2-Intermediate/Oppen_Heimer:
+    Everest: V2hhdGV2ZXJFbHNlQ291bnQ6IDEzMzcKQXR0YWNoZWREZWNhbHM6IFtdCg==
+    AdventureHelper: RHJlYW1CbG9ja3NUb0NvbWJpbmU6IFtdCkRyZWFtQmxvY2tzTm90VG9Db21iaW5lOiBbXQo=
+    DJMapHelper: TGFzdE5vUmVmaWxsczogCkxhc3RPdmVycmlkZUhhaXJDb2xvcjogCkJhZGVsaW5lUHJvdGVjdG9yQ29uZmlnOiAKRGVmZWF0ZWRCb3NzOiBmYWxzZQo=
+    FactoryHelper: QmF0dGVyaWVzOiBbXQpQZXJtYW5lbnRseVJlbW92ZWRBY3RpdmF0b3JEYXNoQmxvY2tzOiBbXQpTcGVjaWFsQm94UG9zaXRpb246IApPcmlnaW5hbFNlc3Npb246IApTcGVjaWFsQm94TGV2ZWw6IAo=
+    MoreDasheline: T3ZlcnJpZGVIYWlyQ29sb3JzOiB7fQo=
+    IsaGrabBag: VmFyaWFudHNfU2F2ZToKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAK
+    ExtendedVariantMode: VmFyaWFudHNFbmFibGVkVmlhVHJpZ2dlcjoge30KVmFyaWFudHNPdmVycmlkZW5CeVVzZXI6IFtdCkV4dGVuZGVkVmFyaWFudHNXZXJlVXNlZDogZmFsc2UKRGFzaENvdW50T25MYXRlc3RSZXNwYXduOiAxCkV4dGVuZGVkVmFyaWFudHNEaXNwbGF5ZWRPblNjcmVlblZpYVRyaWdnZXI6IGZhbHNlCk92ZXJyaWRkZW5WYXJpYW50c0luUm9vbToge30KUmV2ZXJ0T25MZWF2ZVZhcmlhbnRzQWN0aXZlOiB7fQo=
+    FrostHelper: TGlnaHRuaW5nQ29sb3JBOiAKTGlnaHRuaW5nQ29sb3JCOiAKTGlnaHRuaW5nRmlsbENvbG9yOiBmZmZmZmYKTGlnaHRuaW5nRmlsbENvbG9yTXVsdGlwbGllcjogCkJsb29tQ29sb3I6CiAgQjogMjU1CiAgRzogMjU1CiAgUjogMjU1CiAgQTogMjU1CiAgUGFja2VkVmFsdWU6IDQyOTQ5NjcyOTUKUmFpbmJvd0Jsb29tOiBmYWxzZQpTb2Z0RG9Ob3RMb2FkOiBbXQo=
     MaxHelpingHand: QWN0aXZlU3BlZWRCYXNlZE11c2ljUGFyYW1zOiB7fQpCbG9vbVN0cmVndGg6IApSYWluYm93U3Bpbm5lckN1cnJlbnRDb2xvcnM6IApTZWVrZXJCYXJyaWVyQ3VycmVudENvbG9yczogCkdsYXNzQmxvY2tDdXJyZW50U2V0dGluZ3M6IApHcmFkaWVudER1c3RJbWFnZVBhdGg6IApHcmFkaWVudER1c3RTY3JvbGxTcGVlZDogMApDYW1lcmFDYXRjaHVwU3BlZWQ6IApNYWRlbGluZUlzU2lsaG91ZXR0ZTogZmFsc2UKQW1iaWVuY2VWb2x1bWU6IDEKSWNlUGh5c2ljc0Rpc2FibGVkOiBmYWxzZQpDb2xsZWN0ZWRNdWx0aVJvb21TdHJhd2JlcnJ5U2VlZHM6IFtdClBpY2tlZFVwRmxhZ1BpY2t1cHM6IFtdCk1hZGVsaW5lSGFzUG9ueXRhaWw6IGZhbHNlCg==
     SpringCollab2020: QWN0aXZlU3BlZWRCYXNlZE11c2ljUGFyYW1zOiB7fQpJY2VQaHlzaWNzRGlzYWJsZWQ6IGZhbHNlCkNvbGxlY3RlZE11bHRpUm9vbVN0cmF3YmVycnlTZWVkczogW10KTWFkZWxpbmVJc1NpbGhvdWV0dGU6IGZhbHNlCkxpZ2h0U291cmNlc0Rpc2FibGVkOiBmYWxzZQpTcGlrZUp1bXBUaHJvdWdoSG9va2VkOiBmYWxzZQo=
 VisitedLobbyPositions: {}

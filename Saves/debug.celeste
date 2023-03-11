@@ -2,7 +2,7 @@
 <SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>317027220000</Time>
+  <Time>319090340000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>4070</TotalDeaths>
+  <TotalDeaths>4098</TotalDeaths>
   <TotalStrawberries>0</TotalStrawberries>
   <TotalGoldenStrawberries>0</TotalGoldenStrawberries>
-  <TotalJumps>6963</TotalJumps>
-  <TotalWallJumps>1640</TotalWallJumps>
-  <TotalDashes>8125</TotalDashes>
+  <TotalJumps>6986</TotalJumps>
+  <TotalWallJumps>1642</TotalWallJumps>
+  <TotalDashes>8144</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -380,7 +380,7 @@
         </AreaStats>
         <AreaStats ID="18" Cassette="false" SID="SpringCollab2020/0-Lobbies/2-Intermediate">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="935170000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="1099900000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -986,7 +986,7 @@
         </AreaStats>
         <AreaStats ID="55" Cassette="false" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="61" TimePlayed="7864030000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="62" TimePlayed="7902280000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1066,7 +1066,7 @@
         </AreaStats>
         <AreaStats ID="60" Cassette="false" SID="SpringCollab2020/2-Intermediate/Skeleton">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="27" TimePlayed="1860140000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4602,20 +4602,21 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <HasModdedSaveData>true</HasModdedSaveData>
-  <LastArea_Safe ID="55" Mode="Normal" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer" />
-  <CurrentSession_Safe Level="bosses" Time="7788890000" StartedFromBeginning="false" Deaths="62" Dashes="47" DashesAtLevelStart="47" DeathsInCurrentLevel="61" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
-    <Area ID="55" Mode="Normal" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer" />
+  <LastArea_Safe ID="60" Mode="Normal" SID="SpringCollab2020/2-Intermediate/Skeleton" />
+  <CurrentSession_Safe Level="skeleton_03" Time="1794180000" StartedFromBeginning="false" Deaths="28" Dashes="10" DashesAtLevelStart="0" DeathsInCurrentLevel="28" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="true" LightingAlphaAdd="0.25" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
+    <Area ID="60" Mode="Normal" SID="SpringCollab2020/2-Intermediate/Skeleton" />
     <RespawnPoint>
-      <X>2376</X>
-      <Y>752</Y>
+      <X>2704</X>
+      <Y>152</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/collab2020/oppen">
+      <Music Event="event:/SC2020_Collab_Skeleton_Intermediate-3.5">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
-          <MEP Key="layer3" Value="1" />
+          <MEP Key="layer3" Value="0" />
           <MEP Key="layer4" Value="1" />
+          <MEP Key="progress" Value="1" />
           <MEP Key="layer6" Value="0" />
         </Parameters>
       </Music>
@@ -4632,25 +4633,18 @@
     <Flags>
       <string>StopFastRestartFlag</string>
       <string>SpeedrunTool_SavedSate</string>
-      <string>global_group_switch442</string>
-      <string>torch_bosses:0</string>
     </Flags>
     <LevelFlags>
-      <string>hub</string>
-      <string>room_2</string>
-      <string>room_3</string>
-      <string>bosses</string>
+      <string>skeleton_00_start</string>
+      <string>skeleton_01</string>
+      <string>skeleton_02</string>
+      <string>skeleton_03</string>
+      <string>skeleton_04</string>
     </LevelFlags>
     <Strawberries />
-    <DoNotLoad>
-      <EntityID Key="bosses:876" />
-    </DoNotLoad>
-    <Keys>
-      <EntityID Key="bosses:876" />
-    </Keys>
-    <Counters>
-      <Counter key="pushBlocksHit" value="0" />
-    </Counters>
+    <DoNotLoad />
+    <Keys />
+    <Counters />
     <SummitGems>
       <boolean>false</boolean>
       <boolean>false</boolean>
@@ -4659,7 +4653,7 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="74" Cassette="false" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer">
+    <OldStats ID="60" Cassette="false" SID="SpringCollab2020/2-Intermediate/Skeleton">
       <Modes>
         <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
@@ -4676,7 +4670,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>bosses</FurthestSeenLevel>
+    <FurthestSeenLevel>skeleton_04</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </SaveData>
