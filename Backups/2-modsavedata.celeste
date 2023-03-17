@@ -465,7 +465,7 @@
         </AreaStats>
         <AreaStats ID="37" Cassette="false" SID="SpringCollab2020/0-Lobbies/2-Intermediate">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="6" TimePlayed="12955020000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="7" TimePlayed="12955020000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -890,9 +890,10 @@
       <Areas>
         <AreaStats ID="60" Cassette="false" SID="SpringCollab2020/2-Intermediate/aleph_null">
           <Modes>
-            <AreaModeStats TotalStrawberries="1" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="84" TimePlayed="10992370000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="2" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="161" TimePlayed="17432990000" BestTime="17409020000" BestFullClearTime="0" BestDashes="131" BestDeaths="161" HeartGem="true">
               <Strawberries>
                 <EntityID Key="aleph_main:567" />
+                <EntityID Key="aleph_right:880" />
               </Strawberries>
               <Checkpoints />
             </AreaModeStats>
@@ -1292,7 +1293,7 @@
       </Areas>
       <Poem />
       <UnlockedAreas>22</UnlockedAreas>
-      <TotalStrawberries>19</TotalStrawberries>
+      <TotalStrawberries>20</TotalStrawberries>
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/3-Advanced">
       <Areas>
@@ -4447,22 +4448,21 @@
       <TotalStrawberries>0</TotalStrawberries>
     </LevelSetStats>
   </LevelSetRecycleBin>
-  <LastArea_Safe ID="60" Mode="Normal" SID="SpringCollab2020/2-Intermediate/aleph_null" />
-  <CurrentSession_Safe Level="aleph_main" Time="10974520000" StartedFromBeginning="true" Deaths="84" Dashes="78" DashesAtLevelStart="75" DeathsInCurrentLevel="7" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="-0.1" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
-    <Area ID="60" Mode="Normal" SID="SpringCollab2020/2-Intermediate/aleph_null" />
+  <LastArea_Safe ID="37" Mode="Normal" SID="SpringCollab2020/0-Lobbies/2-Intermediate" />
+  <CurrentSession_Safe Level="Biggo_1" Time="0" StartedFromBeginning="false" Deaths="1" Dashes="0" DashesAtLevelStart="0" DeathsInCurrentLevel="1" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="true" ColorGrade="none" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="false">
+    <Area ID="37" Mode="Normal" SID="SpringCollab2020/0-Lobbies/2-Intermediate" />
     <RespawnPoint>
-      <X>432</X>
+      <X>2240</X>
       <Y>920</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/SC2020_aleph_int">
+      <Music Event="event:/SC2020_Int_Lobby">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
-          <MEP Key="layer3" Value="1" />
+          <MEP Key="layer3" Value="0" />
           <MEP Key="layer4" Value="1" />
           <MEP Key="layer6" Value="0" />
-          <MEP Key="progress" Value="2" />
         </Parameters>
       </Music>
       <Ambience Event="event:/env/amb/01_main">
@@ -4476,28 +4476,35 @@
       <NoRefills>false</NoRefills>
     </Inventory>
     <Flags>
-      <string>oshiro_clutter_door_open</string>
-      <string>oshiro_clutter_cleared_2</string>
-      <string>oshiro_clutter_cleared_0</string>
+      <string>CollabUtils2_MapCompleted_aleph_null</string>
+      <string>CollabUtils2_MapCompleted_Bissy</string>
+      <string>CollabUtils2_MapCompleted_Clover</string>
+      <string>CollabUtils2_MapCompleted_Donker19</string>
+      <string>CollabUtils2_MapCompleted_Evilleafy</string>
+      <string>CollabUtils2_MapCompleted_GG19</string>
+      <string>CollabUtils2_MapCompleted_Goat</string>
+      <string>CollabUtils2_MapCompleted_Hallow</string>
+      <string>CollabUtils2_MapCompleted_hennyburgr</string>
+      <string>CollabUtils2_MapCompleted_iamdadbod</string>
+      <string>CollabUtils2_MapCompleted_Lichtbaulb</string>
+      <string>CollabUtils2_MapCompleted_Noax</string>
+      <string>CollabUtils2_MapCompleted_Oppen_Heimer</string>
+      <string>CollabUtils2_MapCompleted_phant</string>
+      <string>CollabUtils2_MapCompleted_ProXas</string>
+      <string>CollabUtils2_MapCompleted_Rocketguy2</string>
+      <string>CollabUtils2_MapCompleted_SilverStar</string>
+      <string>CollabUtils2_MapCompleted_Skeleton</string>
+      <string>CollabUtils2_MapCompleted_TheAdvertisement</string>
+      <string>CollabUtils2_MapCompleted_Thegur90</string>
+      <string>aleph_null_petals</string>
     </Flags>
     <LevelFlags>
-      <string>aleph_start</string>
-      <string>aleph_entrance</string>
-      <string>aleph_main</string>
-      <string>aleph_left</string>
-      <string>aleph_down</string>
+      <string>Biggo_1</string>
     </LevelFlags>
-    <Strawberries>
-      <EntityID Key="aleph_main:567" />
-    </Strawberries>
-    <DoNotLoad>
-      <EntityID Key="aleph_entrance:1374" />
-      <EntityID Key="aleph_main:567" />
-    </DoNotLoad>
+    <Strawberries />
+    <DoNotLoad />
     <Keys />
-    <Counters>
-      <Counter key="pushBlocksHit" value="0" />
-    </Counters>
+    <Counters />
     <SummitGems>
       <boolean>false</boolean>
       <boolean>false</boolean>
@@ -4506,9 +4513,9 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="60" Cassette="false" SID="SpringCollab2020/2-Intermediate/aleph_null">
+    <OldStats ID="37" Cassette="false" SID="SpringCollab2020/0-Lobbies/2-Intermediate">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="6" TimePlayed="12955020000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
           <Checkpoints />
         </AreaModeStats>
@@ -4523,7 +4530,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>aleph_down</FurthestSeenLevel>
+    <FurthestSeenLevel>Biggo_1</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </ModSaveData>
