@@ -1,7 +1,7 @@
-LobbySID: 
-LobbyRoom: 
-LobbySpawnPointX: 0
-LobbySpawnPointY: 0
+LobbySID: SpringCollab2020/0-Lobbies/2-Intermediate
+LobbyRoom: Biggo_1
+LobbySpawnPointX: 2096
+LobbySpawnPointY: 2464
 GymExitMapSID: 
 GymExitSaveAllowed: false
-SaveAndReturnToLobbyAllowed: false
+SaveAndReturnToLobbyAllowed: true
