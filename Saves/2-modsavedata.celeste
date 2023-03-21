@@ -146,7 +146,7 @@
         </AreaStats>
         <AreaStats ID="19" Cassette="false" SID="SpringCollab2020/0-Lobbies/3-Advanced">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="37" TimePlayed="15198510000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="38" TimePlayed="16440700000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1006,7 +1006,7 @@
         </AreaStats>
         <AreaStats ID="66" Cassette="false" SID="SpringCollab2020/3-Advanced/Bissy">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="126" TimePlayed="5979070000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1214,7 +1214,7 @@
         </AreaStats>
         <AreaStats ID="79" Cassette="false" SID="SpringCollab2020/3-Advanced/Rufus">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="395" TimePlayed="33780870000" BestTime="30575180000" BestFullClearTime="0" BestDashes="55" BestDeaths="357" HeartGem="true">
+            <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="449" TimePlayed="50623280000" BestTime="19923150000" BestFullClearTime="0" BestDashes="47" BestDeaths="91" HeartGem="true">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4454,15 +4454,15 @@
       <TotalStrawberries>0</TotalStrawberries>
     </LevelSetStats>
   </LevelSetRecycleBin>
-  <LastArea_Safe ID="79" Mode="Normal" SID="SpringCollab2020/3-Advanced/Rufus" />
-  <CurrentSession_Safe Level="Rufus_02" Time="3086860000" StartedFromBeginning="true" Deaths="37" Dashes="9" DashesAtLevelStart="9" DeathsInCurrentLevel="23" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="rufustoxic" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="false">
-    <Area ID="79" Mode="Normal" SID="SpringCollab2020/3-Advanced/Rufus" />
+  <LastArea_Safe ID="66" Mode="Normal" SID="SpringCollab2020/3-Advanced/Bissy" />
+  <CurrentSession_Safe Level="Bissy_02" Time="5763680000" StartedFromBeginning="true" Deaths="124" Dashes="27" DashesAtLevelStart="27" DeathsInCurrentLevel="34" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="reflection" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+    <Area ID="66" Mode="Normal" SID="SpringCollab2020/3-Advanced/Bissy" />
     <RespawnPoint>
-      <X>1152</X>
-      <Y>-120</Y>
+      <X>176</X>
+      <Y>-688</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/SC2020_Rufus">
+      <Music Event="event:/SC2020_Collab_Bissy_Advanced-3">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
@@ -4483,14 +4483,12 @@
     </Inventory>
     <Flags />
     <LevelFlags>
-      <string>Intro</string>
-      <string>Rufus_01</string>
-      <string>Rufus_02</string>
+      <string>Bissy_00</string>
+      <string>Bissy_01</string>
+      <string>Bissy_02</string>
     </LevelFlags>
     <Strawberries />
-    <DoNotLoad>
-      <EntityID Key="Intro:449" />
-    </DoNotLoad>
+    <DoNotLoad />
     <Keys />
     <Counters>
       <Counter key="pushBlocksHit" value="0" />
@@ -4503,9 +4501,9 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="79" Cassette="false" SID="SpringCollab2020/3-Advanced/Rufus">
+    <OldStats ID="66" Cassette="false" SID="SpringCollab2020/3-Advanced/Bissy">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="357" TimePlayed="30619720000" BestTime="30575180000" BestFullClearTime="0" BestDashes="55" BestDeaths="357" HeartGem="true">
+        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
           <Checkpoints />
         </AreaModeStats>
@@ -4520,7 +4518,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>Rufus_02</FurthestSeenLevel>
+    <FurthestSeenLevel>Bissy_02</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </ModSaveData>
