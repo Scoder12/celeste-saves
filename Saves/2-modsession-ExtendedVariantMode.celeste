@@ -4,4 +4,4 @@ ExtendedVariantsWereUsed: false
 DashCountOnLatestRespawn: 0
 ExtendedVariantsDisplayedOnScreenViaTrigger: false
 OverriddenVariantsInRoom: {}
-OverriddenVariantsInRoomRevertOnLeave: {}
+RevertOnLeaveVariantsActive: {}
