@@ -1,7 +1,8 @@
-VariantsEnabledViaTrigger: {}
+VariantsEnabledViaTrigger:
+  DisableNeutralJumping: bool:True
 VariantsOverridenByUser: []
 ExtendedVariantsWereUsed: false
-DashCountOnLatestRespawn: 0
+DashCountOnLatestRespawn: 1
 ExtendedVariantsDisplayedOnScreenViaTrigger: false
 OverriddenVariantsInRoom: {}
 RevertOnLeaveVariantsActive: {}
