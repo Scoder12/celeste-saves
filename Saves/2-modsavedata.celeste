@@ -146,7 +146,7 @@
         </AreaStats>
         <AreaStats ID="19" Cassette="false" SID="SpringCollab2020/0-Lobbies/3-Advanced">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="43" TimePlayed="21159220000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="44" TimePlayed="21778360000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1088,9 +1088,10 @@
         </AreaStats>
         <AreaStats ID="71" Cassette="false" SID="SpringCollab2020/3-Advanced/Holly">
           <Modes>
-            <AreaModeStats TotalStrawberries="1" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="37" TimePlayed="41359300000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="2" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="120" TimePlayed="67473000000" BestTime="35003340000" BestFullClearTime="0" BestDashes="431" BestDeaths="95" HeartGem="true">
               <Strawberries>
                 <EntityID Key="Holly_01b:276" />
+                <EntityID Key="Holly_04:295" />
               </Strawberries>
               <Checkpoints />
             </AreaModeStats>
@@ -1170,8 +1171,10 @@
         </AreaStats>
         <AreaStats ID="76" Cassette="false" SID="SpringCollab2020/3-Advanced/orbittwz">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="199" TimePlayed="37725040000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-              <Strawberries />
+            <AreaModeStats TotalStrawberries="1" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="290" TimePlayed="51244290000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries>
+                <EntityID Key="06:474" />
+              </Strawberries>
               <Checkpoints />
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
@@ -1323,7 +1326,7 @@
       </Areas>
       <Poem />
       <UnlockedAreas>20</UnlockedAreas>
-      <TotalStrawberries>9</TotalStrawberries>
+      <TotalStrawberries>11</TotalStrawberries>
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/4-Expert">
       <Areas>
@@ -4462,46 +4465,50 @@
       <TotalStrawberries>0</TotalStrawberries>
     </LevelSetStats>
   </LevelSetRecycleBin>
-  <LastArea_Safe ID="71" Mode="Normal" SID="SpringCollab2020/3-Advanced/Holly" />
-  <CurrentSession_Safe Level="Holly_01" Time="8901880000" StartedFromBeginning="true" Deaths="12" Dashes="117" DashesAtLevelStart="98" DeathsInCurrentLevel="1" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="rust" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
-    <Area ID="71" Mode="Normal" SID="SpringCollab2020/3-Advanced/Holly" />
+  <LastArea_Safe ID="76" Mode="Normal" SID="SpringCollab2020/3-Advanced/orbittwz" />
+  <CurrentSession_Safe Level="06" Time="12721440000" StartedFromBeginning="true" Deaths="83" Dashes="38" DashesAtLevelStart="38" DeathsInCurrentLevel="43" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="hot" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="false">
+    <Area ID="76" Mode="Normal" SID="SpringCollab2020/3-Advanced/orbittwz" />
     <RespawnPoint>
-      <X>376</X>
-      <Y>-384</Y>
+      <X>2264</X>
+      <Y>-1120</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/collab2020/holly">
+      <Music Event="event:/music/lvl9/main">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="0" />
-          <MEP Key="layer3" Value="0" />
-          <MEP Key="layer4" Value="0" />
+          <MEP Key="layer3" Value="1" />
+          <MEP Key="layer4" Value="1" />
           <MEP Key="layer6" Value="0" />
+          <MEP Key="progress" Value="1" />
         </Parameters>
       </Music>
-      <Ambience Event="event:/env/amb/01_main">
+      <Ambience Event="event:/env/amb/09_main">
         <Parameters />
       </Ambience>
     </Audio>
     <Inventory>
-      <Dashes>1</Dashes>
+      <Dashes>2</Dashes>
       <DreamDash>true</DreamDash>
       <Backpack>true</Backpack>
-      <NoRefills>false</NoRefills>
+      <NoRefills>true</NoRefills>
     </Inventory>
     <Flags>
-      <string>collected_seeds_of_Holly_01b:276</string>
+      <string>DoNotLoad01:411</string>
     </Flags>
     <LevelFlags>
-      <string>Holly_00</string>
-      <string>Holly_01</string>
-      <string>Holly_01b</string>
+      <string>01</string>
+      <string>02</string>
+      <string>03</string>
+      <string>05</string>
+      <string>06</string>
     </LevelFlags>
     <Strawberries>
-      <EntityID Key="Holly_01b:276" />
+      <EntityID Key="06:474" />
     </Strawberries>
     <DoNotLoad>
-      <EntityID Key="Holly_01b:276" />
+      <EntityID Key="05:10000412" />
+      <EntityID Key="06:474" />
     </DoNotLoad>
     <Keys />
     <Counters>
@@ -4515,9 +4522,9 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="71" Cassette="false" SID="SpringCollab2020/3-Advanced/Holly">
+    <OldStats ID="76" Cassette="false" SID="SpringCollab2020/3-Advanced/orbittwz">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="25" TimePlayed="32445180000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="199" TimePlayed="37725040000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
           <Checkpoints />
         </AreaModeStats>
@@ -4532,7 +4539,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>Holly_01b</FurthestSeenLevel>
+    <FurthestSeenLevel>06</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </ModSaveData>
