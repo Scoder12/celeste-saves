@@ -2,7 +2,7 @@
 <SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>402863620000</Time>
+  <Time>434594290000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>5880</TotalDeaths>
+  <TotalDeaths>6547</TotalDeaths>
   <TotalStrawberries>0</TotalStrawberries>
   <TotalGoldenStrawberries>0</TotalGoldenStrawberries>
-  <TotalJumps>8428</TotalJumps>
-  <TotalWallJumps>2240</TotalWallJumps>
-  <TotalDashes>10395</TotalDashes>
+  <TotalJumps>8718</TotalJumps>
+  <TotalWallJumps>2349</TotalWallJumps>
+  <TotalDashes>10766</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -396,7 +396,7 @@
         </AreaStats>
         <AreaStats ID="19" Cassette="false" SID="SpringCollab2020/0-Lobbies/3-Advanced">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="11" TimePlayed="3273520000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="11" TimePlayed="4106860000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1285,7 +1285,7 @@
         </AreaStats>
         <AreaStats ID="73" Cassette="false" SID="SpringCollab2020/3-Advanced/JaThePlayer">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="66" TimePlayed="2896970000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="66" TimePlayed="2931480000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1301,7 +1301,7 @@
         </AreaStats>
         <AreaStats ID="74" Cassette="false" SID="SpringCollab2020/3-Advanced/LinjKarma">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="18" TimePlayed="2202180000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1461,7 +1461,7 @@
         </AreaStats>
         <AreaStats ID="84" Cassette="false" SID="SpringCollab2020/3-Advanced/ZZ-HeartSide">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="649" TimePlayed="28660640000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4606,22 +4606,21 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <HasModdedSaveData>true</HasModdedSaveData>
-  <LastArea_Safe ID="73" Mode="Normal" SID="SpringCollab2020/3-Advanced/JaThePlayer" />
-  <CurrentSession_Safe Level="JaThePlayer_6" Time="2869770000" StartedFromBeginning="false" Deaths="68" Dashes="22" DashesAtLevelStart="22" DeathsInCurrentLevel="1" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="hot" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="false">
-    <Area ID="73" Mode="Normal" SID="SpringCollab2020/3-Advanced/JaThePlayer" />
+  <LastArea_Safe ID="84" Mode="Normal" SID="SpringCollab2020/3-Advanced/ZZ-HeartSide" />
+  <CurrentSession_Safe Level="Heartside_2" Time="28642280000" StartedFromBeginning="false" Deaths="651" Dashes="98" DashesAtLevelStart="97" DeathsInCurrentLevel="106" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="-0.65" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+    <Area ID="84" Mode="Normal" SID="SpringCollab2020/3-Advanced/ZZ-HeartSide" />
     <RespawnPoint>
-      <X>464</X>
-      <Y>-5136</Y>
+      <X>5536</X>
+      <Y>-1944</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/music/lvl9/main">
+      <Music Event="event:/SC2020_Lobby_advanced">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
-          <MEP Key="layer3" Value="1" />
-          <MEP Key="layer4" Value="1" />
+          <MEP Key="layer3" Value="0" />
+          <MEP Key="layer4" Value="0" />
           <MEP Key="layer6" Value="0" />
-          <MEP Key="progress" Value="3" />
         </Parameters>
       </Music>
       <Ambience Event="event:/env/amb/01_main">
@@ -4635,22 +4634,22 @@
       <NoRefills>false</NoRefills>
     </Inventory>
     <Flags>
+      <string>summit_checkpoint_4</string>
       <string>StopFastRestartFlag</string>
       <string>SpeedrunTool_SavedSate</string>
+      <string>adv_heart_bissy_1</string>
+      <string>summit_checkpoint_3</string>
     </Flags>
     <LevelFlags>
-      <string>JaThePlayer_0</string>
-      <string>JaThePlayer_1</string>
-      <string>JaThePlayer_2</string>
-      <string>JaThePlayer_3</string>
-      <string>JaThePlayer_4</string>
-      <string>JaThePlayer_5</string>
-      <string>JaThePlayer_6</string>
+      <string>Heartside_0</string>
+      <string>Heartside_1</string>
+      <string>Heartside_2</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
     <Keys />
     <Counters>
+      <Counter key="blackhole_strength" value="1" />
       <Counter key="pushBlocksHit" value="0" />
     </Counters>
     <SummitGems>
@@ -4661,7 +4660,7 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="73" Cassette="false" SID="SpringCollab2020/3-Advanced/JaThePlayer">
+    <OldStats ID="84" Cassette="false" SID="SpringCollab2020/3-Advanced/ZZ-HeartSide">
       <Modes>
         <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
@@ -4678,7 +4677,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>JaThePlayer_6</FurthestSeenLevel>
+    <FurthestSeenLevel>Heartside_2</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </SaveData>
