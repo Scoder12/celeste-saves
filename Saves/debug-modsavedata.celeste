@@ -1211,7 +1211,7 @@
         </AreaStats>
         <AreaStats ID="84" Cassette="false" SID="SpringCollab2020/3-Advanced/ZZ-HeartSide">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="649" TimePlayed="28660640000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1219" TimePlayed="56428780000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4356,19 +4356,19 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="84" Mode="Normal" SID="SpringCollab2020/3-Advanced/ZZ-HeartSide" />
-  <CurrentSession_Safe Level="Heartside_2" Time="28642280000" StartedFromBeginning="false" Deaths="651" Dashes="98" DashesAtLevelStart="97" DeathsInCurrentLevel="106" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="-0.65" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+  <CurrentSession_Safe Level="Heartside_4" Time="56336980000" StartedFromBeginning="false" Deaths="1221" Dashes="241" DashesAtLevelStart="241" DeathsInCurrentLevel="39" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="-0.65" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="84" Mode="Normal" SID="SpringCollab2020/3-Advanced/ZZ-HeartSide" />
     <RespawnPoint>
-      <X>5536</X>
-      <Y>-1944</Y>
+      <X>13768</X>
+      <Y>-3640</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/SC2020_Lobby_advanced">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
-          <MEP Key="layer3" Value="0" />
-          <MEP Key="layer4" Value="0" />
+          <MEP Key="layer3" Value="0.007142842" />
+          <MEP Key="layer4" Value="0.007142842" />
           <MEP Key="layer6" Value="0" />
         </Parameters>
       </Music>
@@ -4388,17 +4388,22 @@
       <string>SpeedrunTool_SavedSate</string>
       <string>adv_heart_bissy_1</string>
       <string>summit_checkpoint_3</string>
+      <string>summit_checkpoint_2</string>
+      <string>summit_checkpoint_1</string>
     </Flags>
     <LevelFlags>
       <string>Heartside_0</string>
       <string>Heartside_1</string>
       <string>Heartside_2</string>
+      <string>Heartside_3</string>
+      <string>Heartside_4</string>
+      <string>Heartside_5</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
     <Keys />
     <Counters>
-      <Counter key="blackhole_strength" value="1" />
+      <Counter key="blackhole_strength" value="0" />
       <Counter key="pushBlocksHit" value="0" />
     </Counters>
     <SummitGems>
@@ -4426,7 +4431,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>Heartside_2</FurthestSeenLevel>
+    <FurthestSeenLevel>Heartside_5</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </ModSaveData>

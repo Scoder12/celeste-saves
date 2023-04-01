@@ -1313,7 +1313,7 @@
         </AreaStats>
         <AreaStats ID="84" Cassette="false" SID="SpringCollab2020/3-Advanced/ZZ-HeartSide">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="298" TimePlayed="31238860000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="781" TimePlayed="102342380000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4470,11 +4470,11 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="84" Mode="Normal" SID="SpringCollab2020/3-Advanced/ZZ-HeartSide" />
-  <CurrentSession_Safe Level="Heartside_3" Time="31214380000" StartedFromBeginning="true" Deaths="298" Dashes="90" DashesAtLevelStart="90" DeathsInCurrentLevel="1" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="hot" LightingAlphaAdd="-0.65" BloomBaseAdd="0.25" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+  <CurrentSession_Safe Level="Heartside_4" Time="102281180000" StartedFromBeginning="true" Deaths="781" Dashes="121" DashesAtLevelStart="121" DeathsInCurrentLevel="139" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="-0.65" BloomBaseAdd="0.25" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="84" Mode="Normal" SID="SpringCollab2020/3-Advanced/ZZ-HeartSide" />
     <RespawnPoint>
-      <X>5976</X>
-      <Y>-2024</Y>
+      <X>9226</X>
+      <Y>-2696</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/SC2020_Lobby_advanced">
@@ -4503,18 +4503,21 @@
       <string>summit_checkpoint_3</string>
       <string>adv_heart_bissy_1</string>
       <string>summit_checkpoint_2</string>
+      <string>summit_checkpoint_1</string>
+      <string>adv_neokat_1</string>
     </Flags>
     <LevelFlags>
       <string>Heartside_0</string>
       <string>Heartside_1</string>
       <string>Heartside_2</string>
       <string>Heartside_3</string>
+      <string>Heartside_4</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
     <Keys />
     <Counters>
-      <Counter key="blackhole_strength" value="1" />
+      <Counter key="blackhole_strength" value="3" />
       <Counter key="Heartside_0:460DialogCounter" value="0" />
       <Counter key="pushBlocksHit" value="0" />
     </Counters>
@@ -4543,7 +4546,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>Heartside_3</FurthestSeenLevel>
+    <FurthestSeenLevel>Heartside_4</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </ModSaveData>
