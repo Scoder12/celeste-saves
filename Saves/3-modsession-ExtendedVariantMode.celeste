@@ -1,5 +1,8 @@
 VariantsEnabledViaTrigger:
   RestoreDashesOnRespawn: bool:True
+VariantsOverridenByUser: []
 ExtendedVariantsWereUsed: false
 DashCountOnLatestRespawn: 0
 ExtendedVariantsDisplayedOnScreenViaTrigger: false
+OverriddenVariantsInRoom: {}
+RevertOnLeaveVariantsActive: {}
