@@ -1,7 +1,1 @@
-OverrideHairColors:
-  3:
-    B: 255
-    G: 87
-    R: 61
-    A: 255
-    PackedValue: 4294924093
+OverrideHairColors: {}

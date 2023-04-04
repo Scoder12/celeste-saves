@@ -162,7 +162,7 @@
         </AreaStats>
         <AreaStats ID="20" Cassette="false" SID="SpringCollab2020/0-Lobbies/4-Expert">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="547740000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="2" TimePlayed="768570000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1387,7 +1387,7 @@
         </AreaStats>
         <AreaStats ID="88" Cassette="false" SID="SpringCollab2020/4-Expert/dahlukeh">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="515" TimePlayed="34038250000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1483,7 +1483,7 @@
         </AreaStats>
         <AreaStats ID="94" Cassette="false" SID="SpringCollab2020/4-Expert/LethargicDoggo">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="217" TimePlayed="12315820000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="729" TimePlayed="49186100000" BestTime="49129320000" BestFullClearTime="0" BestDashes="98" BestDeaths="729" HeartGem="true">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1595,7 +1595,7 @@
         </AreaStats>
       </Areas>
       <Poem />
-      <UnlockedAreas>0</UnlockedAreas>
+      <UnlockedAreas>10</UnlockedAreas>
       <TotalStrawberries>0</TotalStrawberries>
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/5-Grandmaster">
@@ -4472,21 +4472,20 @@
       <TotalStrawberries>0</TotalStrawberries>
     </LevelSetStats>
   </LevelSetRecycleBin>
-  <LastArea_Safe ID="94" Mode="Normal" SID="SpringCollab2020/4-Expert/LethargicDoggo" />
-  <CurrentSession_Safe Level="5" Time="12277400000" StartedFromBeginning="true" Deaths="217" Dashes="45" DashesAtLevelStart="45" DeathsInCurrentLevel="47" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0.1" BloomBaseAdd="0.4" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
-    <Area ID="94" Mode="Normal" SID="SpringCollab2020/4-Expert/LethargicDoggo" />
+  <LastArea_Safe ID="88" Mode="Normal" SID="SpringCollab2020/4-Expert/dahlukeh" />
+  <CurrentSession_Safe Level="dahlukeh_04" Time="30391410000" StartedFromBeginning="true" Deaths="452" Dashes="30" DashesAtLevelStart="30" DeathsInCurrentLevel="75" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="cold" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Cold" GrabbedGolden="false" HitCheckpoint="true">
+    <Area ID="88" Mode="Normal" SID="SpringCollab2020/4-Expert/dahlukeh" />
     <RespawnPoint>
-      <X>5184</X>
-      <Y>120</Y>
+      <X>1552</X>
+      <Y>-264</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/SC2020_LethargicDoggo">
+      <Music Event="event:/new_content/music/lvl10/part03">
         <Parameters>
           <MEP Key="layer1" Value="1" />
-          <MEP Key="layer2" Value="0" />
-          <MEP Key="layer3" Value="0" />
-          <MEP Key="layer4" Value="0" />
-          <MEP Key="progress" Value="1" />
+          <MEP Key="layer2" Value="1" />
+          <MEP Key="layer3" Value="1" />
+          <MEP Key="layer4" Value="1" />
           <MEP Key="layer6" Value="0" />
         </Parameters>
       </Music>
@@ -4500,13 +4499,14 @@
       <Backpack>true</Backpack>
       <NoRefills>false</NoRefills>
     </Inventory>
-    <Flags />
+    <Flags>
+      <string>cold</string>
+    </Flags>
     <LevelFlags>
-      <string>1</string>
-      <string>2</string>
-      <string>3</string>
-      <string>4</string>
-      <string>5</string>
+      <string>dahlukeh_01</string>
+      <string>dahlukeh_02</string>
+      <string>dahlukeh_03</string>
+      <string>dahlukeh_04</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
@@ -4522,7 +4522,7 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="94" Cassette="false" SID="SpringCollab2020/4-Expert/LethargicDoggo">
+    <OldStats ID="88" Cassette="false" SID="SpringCollab2020/4-Expert/dahlukeh">
       <Modes>
         <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
@@ -4539,7 +4539,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>5</FurthestSeenLevel>
+    <FurthestSeenLevel>dahlukeh_04</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </ModSaveData>

@@ -2,7 +2,7 @@
 <SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>467526180000</Time>
+  <Time>468257690000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>7172</TotalDeaths>
+  <TotalDeaths>7180</TotalDeaths>
   <TotalStrawberries>0</TotalStrawberries>
   <TotalGoldenStrawberries>0</TotalGoldenStrawberries>
-  <TotalJumps>8904</TotalJumps>
+  <TotalJumps>8919</TotalJumps>
   <TotalWallJumps>2420</TotalWallJumps>
-  <TotalDashes>11308</TotalDashes>
+  <TotalDashes>11347</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -412,7 +412,7 @@
         </AreaStats>
         <AreaStats ID="20" Cassette="false" SID="SpringCollab2020/0-Lobbies/4-Expert">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="168300000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1461,7 +1461,7 @@
         </AreaStats>
         <AreaStats ID="84" Cassette="false" SID="SpringCollab2020/3-Advanced/ZZ-HeartSide">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1274" TimePlayed="61592530000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1274" TimePlayed="61642680000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1628,7 +1628,7 @@
         </AreaStats>
         <AreaStats ID="94" Cassette="false" SID="SpringCollab2020/4-Expert/LethargicDoggo">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="8" TimePlayed="513060000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4606,20 +4606,21 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <HasModdedSaveData>true</HasModdedSaveData>
-  <LastArea_Safe ID="84" Mode="Normal" SID="SpringCollab2020/3-Advanced/ZZ-HeartSide" />
-  <CurrentSession_Safe Level="Heartside_4" Time="61494610000" StartedFromBeginning="false" Deaths="1276" Dashes="253" DashesAtLevelStart="241" DeathsInCurrentLevel="94" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="-0.65" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="true">
-    <Area ID="84" Mode="Normal" SID="SpringCollab2020/3-Advanced/ZZ-HeartSide" />
+  <LastArea_Safe ID="94" Mode="Normal" SID="SpringCollab2020/4-Expert/LethargicDoggo" />
+  <CurrentSession_Safe Level="6" Time="480760000" StartedFromBeginning="false" Deaths="9" Dashes="33" DashesAtLevelStart="33" DeathsInCurrentLevel="9" InArea="true" FirstLevel="true" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0.38809523" BloomBaseAdd="0.4" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+    <Area ID="94" Mode="Normal" SID="SpringCollab2020/4-Expert/LethargicDoggo" />
     <RespawnPoint>
-      <X>9226</X>
-      <Y>-2696</Y>
+      <X>9312</X>
+      <Y>216</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/SC2020_Lobby_advanced">
+      <Music Event="event:/SC2020_LethargicDoggo">
         <Parameters>
           <MEP Key="layer1" Value="1" />
-          <MEP Key="layer2" Value="1" />
-          <MEP Key="layer3" Value="1" />
-          <MEP Key="layer4" Value="1" />
+          <MEP Key="layer2" Value="0" />
+          <MEP Key="layer3" Value="0" />
+          <MEP Key="layer4" Value="0" />
+          <MEP Key="progress" Value="1" />
           <MEP Key="layer6" Value="0" />
         </Parameters>
       </Music>
@@ -4634,29 +4635,21 @@
       <NoRefills>false</NoRefills>
     </Inventory>
     <Flags>
-      <string>summit_checkpoint_4</string>
       <string>StopFastRestartFlag</string>
       <string>SpeedrunTool_SavedSate</string>
-      <string>adv_heart_bissy_1</string>
-      <string>summit_checkpoint_3</string>
-      <string>summit_checkpoint_2</string>
-      <string>summit_checkpoint_1</string>
     </Flags>
     <LevelFlags>
-      <string>Heartside_0</string>
-      <string>Heartside_1</string>
-      <string>Heartside_2</string>
-      <string>Heartside_3</string>
-      <string>Heartside_4</string>
-      <string>Heartside_5</string>
+      <string>1</string>
+      <string>2</string>
+      <string>3</string>
+      <string>4</string>
+      <string>5</string>
+      <string>6</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
     <Keys />
-    <Counters>
-      <Counter key="blackhole_strength" value="3" />
-      <Counter key="pushBlocksHit" value="0" />
-    </Counters>
+    <Counters />
     <SummitGems>
       <boolean>false</boolean>
       <boolean>false</boolean>
@@ -4665,7 +4658,7 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="84" Cassette="false" SID="SpringCollab2020/3-Advanced/ZZ-HeartSide">
+    <OldStats ID="94" Cassette="false" SID="SpringCollab2020/4-Expert/LethargicDoggo">
       <Modes>
         <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
@@ -4682,7 +4675,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>Heartside_5</FurthestSeenLevel>
+    <FurthestSeenLevel>6</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </SaveData>
