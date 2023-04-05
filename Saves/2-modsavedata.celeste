@@ -1387,8 +1387,10 @@
         </AreaStats>
         <AreaStats ID="88" Cassette="false" SID="SpringCollab2020/4-Expert/dahlukeh">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="949" TimePlayed="60896040000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-              <Strawberries />
+            <AreaModeStats TotalStrawberries="1" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1218" TimePlayed="92298100000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries>
+                <EntityID Key="dahlukeh_05_berry:270" />
+              </Strawberries>
               <Checkpoints />
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
@@ -1596,7 +1598,7 @@
       </Areas>
       <Poem />
       <UnlockedAreas>10</UnlockedAreas>
-      <TotalStrawberries>0</TotalStrawberries>
+      <TotalStrawberries>1</TotalStrawberries>
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/5-Grandmaster">
       <Areas>
@@ -4473,11 +4475,11 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="88" Mode="Normal" SID="SpringCollab2020/4-Expert/dahlukeh" />
-  <CurrentSession_Safe Level="dahlukeh_05" Time="57236960000" StartedFromBeginning="true" Deaths="886" Dashes="42" DashesAtLevelStart="42" DeathsInCurrentLevel="317" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="hot" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="true">
+  <CurrentSession_Safe Level="dahlukeh_06" Time="88620660000" StartedFromBeginning="true" Deaths="1155" Dashes="94" DashesAtLevelStart="94" DeathsInCurrentLevel="48" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="hot" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="88" Mode="Normal" SID="SpringCollab2020/4-Expert/dahlukeh" />
     <RespawnPoint>
-      <X>3152</X>
-      <Y>-256</Y>
+      <X>4984</X>
+      <Y>-272</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/new_content/music/lvl10/part03">
@@ -4506,9 +4508,17 @@
       <string>dahlukeh_03</string>
       <string>dahlukeh_04</string>
       <string>dahlukeh_05</string>
+      <string>dahlukeh_05_berry</string>
+      <string>dahlukeh_06</string>
     </LevelFlags>
-    <Strawberries />
-    <DoNotLoad />
+    <Strawberries>
+      <EntityID Key="dahlukeh_05_berry:270" />
+    </Strawberries>
+    <DoNotLoad>
+      <EntityID Key="dahlukeh_05_berry:1074" />
+      <EntityID Key="dahlukeh_05_berry:77" />
+      <EntityID Key="dahlukeh_05_berry:270" />
+    </DoNotLoad>
     <Keys />
     <Counters>
       <Counter key="pushBlocksHit" value="0" />
@@ -4538,7 +4548,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>dahlukeh_05</FurthestSeenLevel>
+    <FurthestSeenLevel>dahlukeh_06</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </ModSaveData>

@@ -1282,7 +1282,7 @@
         </AreaStats>
         <AreaStats ID="88" Cassette="false" SID="SpringCollab2020/4-Expert/dahlukeh">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="60" TimePlayed="3292220000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="114" TimePlayed="6860180000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4356,7 +4356,7 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="88" Mode="Normal" SID="SpringCollab2020/4-Expert/dahlukeh" />
-  <CurrentSession_Safe Level="dahlukeh_05_berry" Time="2384080000" StartedFromBeginning="false" Deaths="40" Dashes="18" DashesAtLevelStart="18" DeathsInCurrentLevel="19" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="cold" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Cold" GrabbedGolden="false" HitCheckpoint="false">
+  <CurrentSession_Safe Level="dahlukeh_05_berry" Time="5939800000" StartedFromBeginning="false" Deaths="94" Dashes="36" DashesAtLevelStart="18" DeathsInCurrentLevel="73" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="cold" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Cold" GrabbedGolden="false" HitCheckpoint="false">
     <Area ID="88" Mode="Normal" SID="SpringCollab2020/4-Expert/dahlukeh" />
     <RespawnPoint>
       <X>4752</X>
