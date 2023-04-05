@@ -2,7 +2,7 @@
 <SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>9110161450000</Time>
+  <Time>9137019240000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>78073</TotalDeaths>
+  <TotalDeaths>78507</TotalDeaths>
   <TotalStrawberries>188</TotalStrawberries>
   <TotalGoldenStrawberries>12</TotalGoldenStrawberries>
-  <TotalJumps>257095</TotalJumps>
-  <TotalWallJumps>85351</TotalWallJumps>
-  <TotalDashes>327372</TotalDashes>
+  <TotalJumps>258377</TotalJumps>
+  <TotalWallJumps>85655</TotalWallJumps>
+  <TotalDashes>329525</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -1909,7 +1909,7 @@
         </AreaStats>
         <AreaStats ID="88" Cassette="false" SID="SpringCollab2020/4-Expert/dahlukeh">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="515" TimePlayed="34038250000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="949" TimePlayed="60896040000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4996,11 +4996,11 @@
   </LevelSetRecycleBin>
   <HasModdedSaveData>true</HasModdedSaveData>
   <LastArea_Safe ID="88" Mode="Normal" SID="SpringCollab2020/4-Expert/dahlukeh" />
-  <CurrentSession_Safe Level="dahlukeh_04" Time="30391410000" StartedFromBeginning="true" Deaths="452" Dashes="30" DashesAtLevelStart="30" DeathsInCurrentLevel="75" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="cold" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Cold" GrabbedGolden="false" HitCheckpoint="true">
+  <CurrentSession_Safe Level="dahlukeh_05" Time="57236960000" StartedFromBeginning="true" Deaths="886" Dashes="42" DashesAtLevelStart="42" DeathsInCurrentLevel="317" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="hot" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="88" Mode="Normal" SID="SpringCollab2020/4-Expert/dahlukeh" />
     <RespawnPoint>
-      <X>1552</X>
-      <Y>-264</Y>
+      <X>3152</X>
+      <Y>-256</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/new_content/music/lvl10/part03">
@@ -5022,14 +5022,13 @@
       <Backpack>true</Backpack>
       <NoRefills>false</NoRefills>
     </Inventory>
-    <Flags>
-      <string>cold</string>
-    </Flags>
+    <Flags />
     <LevelFlags>
       <string>dahlukeh_01</string>
       <string>dahlukeh_02</string>
       <string>dahlukeh_03</string>
       <string>dahlukeh_04</string>
+      <string>dahlukeh_05</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
@@ -5062,7 +5061,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>dahlukeh_04</FurthestSeenLevel>
+    <FurthestSeenLevel>dahlukeh_05</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </SaveData>

@@ -1,5 +1,5 @@
 ActiveSpeedBasedMusicParams: {}
-IcePhysicsDisabled: false
+IcePhysicsDisabled: true
 CollectedMultiRoomStrawberrySeeds: []
 MadelineIsSilhouette: false
 LightSourcesDisabled: false
