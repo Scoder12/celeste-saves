@@ -2,7 +2,7 @@
 <SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>9168421300000</Time>
+  <Time>9341745480000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>78776</TotalDeaths>
-  <TotalStrawberries>188</TotalStrawberries>
-  <TotalGoldenStrawberries>12</TotalGoldenStrawberries>
-  <TotalJumps>258871</TotalJumps>
-  <TotalWallJumps>85906</TotalWallJumps>
-  <TotalDashes>331174</TotalDashes>
+  <TotalDeaths>79999</TotalDeaths>
+  <TotalStrawberries>189</TotalStrawberries>
+  <TotalGoldenStrawberries>13</TotalGoldenStrawberries>
+  <TotalJumps>265025</TotalJumps>
+  <TotalWallJumps>87518</TotalWallJumps>
+  <TotalDashes>338294</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -81,7 +81,7 @@
     </AreaStats>
     <AreaStats ID="1" Cassette="true" SID="Celeste/1-ForsakenCity">
       <Modes>
-        <AreaModeStats TotalStrawberries="22" Completed="true" SingleRunCompleted="true" FullClear="true" Deaths="2707" TimePlayed="389693380000" BestTime="847450000" BestFullClearTime="4036650000" BestDashes="1" BestDeaths="0" HeartGem="true">
+        <AreaModeStats TotalStrawberries="22" Completed="true" SingleRunCompleted="true" FullClear="true" Deaths="2710" TimePlayed="390678360000" BestTime="847450000" BestFullClearTime="4036650000" BestDashes="1" BestDeaths="0" HeartGem="true">
           <Strawberries>
             <EntityID Key="2:11" />
             <EntityID Key="3:9" />
@@ -130,7 +130,7 @@
     </AreaStats>
     <AreaStats ID="2" Cassette="true" SID="Celeste/2-OldSite">
       <Modes>
-        <AreaModeStats TotalStrawberries="19" Completed="true" SingleRunCompleted="true" FullClear="true" Deaths="890" TimePlayed="160735850000" BestTime="1532720000" BestFullClearTime="5247730000" BestDashes="130" BestDeaths="0" HeartGem="true">
+        <AreaModeStats TotalStrawberries="19" Completed="true" SingleRunCompleted="true" FullClear="true" Deaths="931" TimePlayed="165905720000" BestTime="1465740000" BestFullClearTime="5247730000" BestDashes="130" BestDeaths="0" HeartGem="true">
           <Strawberries>
             <EntityID Key="d3:10" />
             <EntityID Key="d0:6" />
@@ -176,7 +176,7 @@
     </AreaStats>
     <AreaStats ID="3" Cassette="true" SID="Celeste/3-CelestialResort">
       <Modes>
-        <AreaModeStats TotalStrawberries="25" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="5728" TimePlayed="792611230000" BestTime="4196450000" BestFullClearTime="0" BestDashes="270" BestDeaths="4" HeartGem="true">
+        <AreaModeStats TotalStrawberries="26" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="6491" TimePlayed="924895370000" BestTime="3929380000" BestFullClearTime="0" BestDashes="270" BestDeaths="0" HeartGem="true">
           <Strawberries>
             <EntityID Key="s2:18" />
             <EntityID Key="s2:6" />
@@ -203,6 +203,7 @@
             <EntityID Key="04-c:40" />
             <EntityID Key="roof03:97" />
             <EntityID Key="roof06:276" />
+            <EntityID Key="s0:7" />
           </Strawberries>
           <Checkpoints>
             <string>08-a</string>
@@ -210,7 +211,7 @@
             <string>00-d</string>
           </Checkpoints>
         </AreaModeStats>
-        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="1592" TimePlayed="131957910000" BestTime="16325780000" BestFullClearTime="0" BestDashes="102" BestDeaths="105" HeartGem="true">
+        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="1615" TimePlayed="134312240000" BestTime="16325780000" BestFullClearTime="0" BestDashes="102" BestDeaths="105" HeartGem="true">
           <Strawberries />
           <Checkpoints>
             <string>06</string>
@@ -527,7 +528,7 @@
       <Areas />
       <Poem />
       <UnlockedAreas>10</UnlockedAreas>
-      <TotalStrawberries>188</TotalStrawberries>
+      <TotalStrawberries>189</TotalStrawberries>
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/0-Gyms">
       <Areas>
@@ -684,7 +685,7 @@
         </AreaStats>
         <AreaStats ID="20" Cassette="false" SID="SpringCollab2020/0-Lobbies/4-Expert">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="2" TimePlayed="768570000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="19" TimePlayed="3382830000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1909,7 +1910,7 @@
         </AreaStats>
         <AreaStats ID="88" Cassette="false" SID="SpringCollab2020/4-Expert/dahlukeh">
           <Modes>
-            <AreaModeStats TotalStrawberries="1" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1218" TimePlayed="92298100000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="1" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="1251" TimePlayed="95327500000" BestTime="91631700000" BestFullClearTime="0" BestDashes="104" BestDeaths="1188" HeartGem="true">
               <Strawberries>
                 <EntityID Key="dahlukeh_05_berry:270" />
               </Strawberries>
@@ -1991,7 +1992,7 @@
         </AreaStats>
         <AreaStats ID="93" Cassette="false" SID="SpringCollab2020/4-Expert/Kube">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="24" TimePlayed="2442220000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -2055,8 +2056,10 @@
         </AreaStats>
         <AreaStats ID="97" Cassette="false" SID="SpringCollab2020/4-Expert/RadleyMcTuneston">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-              <Strawberries />
+            <AreaModeStats TotalStrawberries="1" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="146" TimePlayed="11104230000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries>
+                <EntityID Key="?3:702" />
+              </Strawberries>
               <Checkpoints />
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
@@ -2071,8 +2074,10 @@
         </AreaStats>
         <AreaStats ID="98" Cassette="false" SID="SpringCollab2020/4-Expert/Thegur90">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-              <Strawberries />
+            <AreaModeStats TotalStrawberries="1" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="173" TimePlayed="13340750000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries>
+                <EntityID Key="thegur90_FAB_1:315" />
+              </Strawberries>
               <Checkpoints />
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
@@ -2120,7 +2125,7 @@
       </Areas>
       <Poem />
       <UnlockedAreas>10</UnlockedAreas>
-      <TotalStrawberries>1</TotalStrawberries>
+      <TotalStrawberries>3</TotalStrawberries>
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/5-Grandmaster">
       <Areas>
@@ -4997,15 +5002,15 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <HasModdedSaveData>true</HasModdedSaveData>
-  <LastArea_Safe ID="88" Mode="Normal" SID="SpringCollab2020/4-Expert/dahlukeh" />
-  <CurrentSession_Safe Level="dahlukeh_06" Time="88620660000" StartedFromBeginning="true" Deaths="1155" Dashes="94" DashesAtLevelStart="94" DeathsInCurrentLevel="48" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="hot" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="true">
-    <Area ID="88" Mode="Normal" SID="SpringCollab2020/4-Expert/dahlukeh" />
+  <LastArea_Safe ID="98" Mode="Normal" SID="SpringCollab2020/4-Expert/Thegur90" />
+  <CurrentSession_Safe Level="thegur90_FAB_4" Time="12969980000" StartedFromBeginning="true" Deaths="166" Dashes="69" DashesAtLevelStart="69" DeathsInCurrentLevel="1" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="reflection" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+    <Area ID="98" Mode="Normal" SID="SpringCollab2020/4-Expert/Thegur90" />
     <RespawnPoint>
-      <X>4984</X>
-      <Y>-272</Y>
+      <X>2928</X>
+      <Y>-1448</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/new_content/music/lvl10/part03">
+      <Music Event="event:/SC2020_Thejank90_Expert">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
@@ -5014,7 +5019,7 @@
           <MEP Key="layer6" Value="0" />
         </Parameters>
       </Music>
-      <Ambience Event="event:/env/amb/01_main">
+      <Ambience Event="event:/env/amb/03_pico8_closeup">
         <Parameters />
       </Ambience>
     </Audio>
@@ -5026,21 +5031,18 @@
     </Inventory>
     <Flags />
     <LevelFlags>
-      <string>dahlukeh_01</string>
-      <string>dahlukeh_02</string>
-      <string>dahlukeh_03</string>
-      <string>dahlukeh_04</string>
-      <string>dahlukeh_05</string>
-      <string>dahlukeh_05_berry</string>
-      <string>dahlukeh_06</string>
+      <string>thegur90_FAB_0</string>
+      <string>thegur90_FAB_1</string>
+      <string>thegur90_FAB_2</string>
+      <string>thegur90_FAB_3</string>
+      <string>thegur90_FAB_4</string>
+      <string>thegur90_FAB_5</string>
     </LevelFlags>
     <Strawberries>
-      <EntityID Key="dahlukeh_05_berry:270" />
+      <EntityID Key="thegur90_FAB_1:315" />
     </Strawberries>
     <DoNotLoad>
-      <EntityID Key="dahlukeh_05_berry:1074" />
-      <EntityID Key="dahlukeh_05_berry:77" />
-      <EntityID Key="dahlukeh_05_berry:270" />
+      <EntityID Key="thegur90_FAB_1:315" />
     </DoNotLoad>
     <Keys />
     <Counters>
@@ -5054,7 +5056,7 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="88" Cassette="false" SID="SpringCollab2020/4-Expert/dahlukeh">
+    <OldStats ID="98" Cassette="false" SID="SpringCollab2020/4-Expert/Thegur90">
       <Modes>
         <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
@@ -5071,7 +5073,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>dahlukeh_06</FurthestSeenLevel>
+    <FurthestSeenLevel>thegur90_FAB_5</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </SaveData>
