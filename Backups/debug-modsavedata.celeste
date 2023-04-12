@@ -162,7 +162,7 @@
         </AreaStats>
         <AreaStats ID="20" Cassette="false" SID="SpringCollab2020/0-Lobbies/4-Expert">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="3" TimePlayed="2420970000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="15" TimePlayed="4099040000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1234,7 +1234,7 @@
       <Areas>
         <AreaStats ID="85" Cassette="false" SID="SpringCollab2020/4-Expert/Bissy">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="73" TimePlayed="1931710000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4355,24 +4355,24 @@
       <TotalStrawberries>0</TotalStrawberries>
     </LevelSetStats>
   </LevelSetRecycleBin>
-  <LastArea_Safe ID="20" Mode="Normal" SID="SpringCollab2020/0-Lobbies/4-Expert" />
-  <CurrentSession_Safe Level="1" Time="1999200000" StartedFromBeginning="false" Deaths="1" Dashes="0" DashesAtLevelStart="0" DeathsInCurrentLevel="1" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="true" ColorGrade="credits" LightingAlphaAdd="0.2" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="false">
-    <Area ID="20" Mode="Normal" SID="SpringCollab2020/0-Lobbies/4-Expert" />
+  <LastArea_Safe ID="85" Mode="Normal" SID="SpringCollab2020/4-Expert/Bissy" />
+  <CurrentSession_Safe Level="Bissy_01" Time="469710000" StartedFromBeginning="false" Deaths="14" Dashes="15" DashesAtLevelStart="15" DeathsInCurrentLevel="74" InArea="true" FirstLevel="true" Cassette="false" HeartGem="false" Dreaming="true" ColorGrade="cold" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+    <Area ID="85" Mode="Normal" SID="SpringCollab2020/4-Expert/Bissy" />
     <RespawnPoint>
-      <X>1096</X>
-      <Y>1128</Y>
+      <X>-32</X>
+      <Y>96</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/collab2020/expert_lobby">
+      <Music Event="event:/SC2020_Bissy_Expert">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
-          <MEP Key="layer3" Value="0" />
+          <MEP Key="layer3" Value="1" />
           <MEP Key="layer4" Value="1" />
           <MEP Key="layer6" Value="0" />
         </Parameters>
       </Music>
-      <Ambience Event="event:/new_content/env/10_voidspiral">
+      <Ambience Event="event:/env/amb/01_main">
         <Parameters />
       </Ambience>
     </Audio>
@@ -4383,15 +4383,32 @@
       <NoRefills>false</NoRefills>
     </Inventory>
     <Flags>
-      <string>expertkube</string>
+      <string>torch_Bissy_01:1225</string>
+      <string>torch_Bissy_01:1829</string>
+      <string>torch_Bissy_01:1833</string>
+      <string>torch_Bissy_01:10</string>
+      <string>torch_Bissy_01:1836</string>
+      <string>StopFastRestartFlag</string>
+      <string>SpeedrunTool_SavedSate</string>
+      <string>torch_Bissy_01:1837</string>
+      <string>torch_Bissy_01:148</string>
+      <string>torch_Bissy_01:1841</string>
+      <string>torch_Bissy_01:209</string>
+      <string>torch_Bissy_01:272</string>
+      <string>torch_Bissy_01:476</string>
+      <string>torch_Bissy_01:1843</string>
+      <string>torch_Bissy_01:1840</string>
     </Flags>
     <LevelFlags>
-      <string>1</string>
+      <string>Bissy_00</string>
+      <string>Bissy_01</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
     <Keys />
-    <Counters />
+    <Counters>
+      <Counter key="pushBlocksHit" value="0" />
+    </Counters>
     <SummitGems>
       <boolean>false</boolean>
       <boolean>false</boolean>
@@ -4400,9 +4417,9 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="20" Cassette="false" SID="SpringCollab2020/0-Lobbies/4-Expert">
+    <OldStats ID="85" Cassette="false" SID="SpringCollab2020/4-Expert/Bissy">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="2" TimePlayed="421770000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
           <Checkpoints />
         </AreaModeStats>
@@ -4417,7 +4434,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>1</FurthestSeenLevel>
+    <FurthestSeenLevel>Bissy_01</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </ModSaveData>
