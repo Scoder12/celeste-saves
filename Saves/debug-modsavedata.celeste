@@ -491,7 +491,7 @@
         </AreaStats>
         <AreaStats ID="39" Cassette="false" SID="SpringCollab2020/0-Lobbies/4-Expert">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="15" TimePlayed="4099040000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="15" TimePlayed="7005020000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1563,7 +1563,7 @@
       <Areas>
         <AreaStats ID="104" Cassette="false" SID="SpringCollab2020/4-Expert/Bissy">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="672" TimePlayed="22437450000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="943" TimePlayed="32009300000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4356,11 +4356,11 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="104" Mode="Normal" SID="SpringCollab2020/4-Expert/Bissy" />
-  <CurrentSession_Safe Level="Bissy_04" Time="20957090000" StartedFromBeginning="false" Deaths="613" Dashes="61" DashesAtLevelStart="49" DeathsInCurrentLevel="134" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="true" ColorGrade="cold" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+  <CurrentSession_Safe Level="Bissy_05" Time="30498340000" StartedFromBeginning="false" Deaths="884" Dashes="92" DashesAtLevelStart="92" DeathsInCurrentLevel="1" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="true" ColorGrade="cold" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="104" Mode="Normal" SID="SpringCollab2020/4-Expert/Bissy" />
     <RespawnPoint>
-      <X>1784</X>
-      <Y>-240</Y>
+      <X>1664</X>
+      <Y>-704</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/SC2020_Bissy_Expert">
@@ -4444,6 +4444,19 @@
       <string>torch_Bissy_04:1357</string>
       <string>torch_Bissy_04:1358</string>
       <string>torch_Bissy_04:1367</string>
+      <string>torch_Bissy_04:1360</string>
+      <string>torch_Bissy_04:1370</string>
+      <string>torch_Bissy_04:1368</string>
+      <string>torch_Bissy_04:1364</string>
+      <string>torch_Bissy_04:1361</string>
+      <string>torch_Bissy_04:1453</string>
+      <string>torch_Bissy_04:1468</string>
+      <string>torch_Bissy_04:1454</string>
+      <string>torch_Bissy_04:1455</string>
+      <string>torch_Bissy_04:1467</string>
+      <string>torch_Bissy_04:1374</string>
+      <string>torch_Bissy_04:1375</string>
+      <string>torch_Bissy_05:2224</string>
     </Flags>
     <LevelFlags>
       <string>Bissy_00</string>
@@ -4451,6 +4464,7 @@
       <string>Bissy_02</string>
       <string>Bissy_03</string>
       <string>Bissy_04</string>
+      <string>Bissy_05</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
@@ -4483,7 +4497,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>Bissy_04</FurthestSeenLevel>
+    <FurthestSeenLevel>Bissy_05</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </ModSaveData>

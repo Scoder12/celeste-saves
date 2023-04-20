@@ -2,7 +2,7 @@
 <SaveData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>9418042840000</Time>
+  <Time>9432268610000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>80798</TotalDeaths>
+  <TotalDeaths>80953</TotalDeaths>
   <TotalStrawberries>189</TotalStrawberries>
   <TotalGoldenStrawberries>13</TotalGoldenStrawberries>
-  <TotalJumps>266701</TotalJumps>
-  <TotalWallJumps>88237</TotalWallJumps>
-  <TotalDashes>341915</TotalDashes>
+  <TotalJumps>267197</TotalJumps>
+  <TotalWallJumps>88381</TotalWallJumps>
+  <TotalDashes>342732</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -1020,7 +1020,7 @@
         </AreaStats>
         <AreaStats ID="39" Cassette="false" SID="SpringCollab2020/0-Lobbies/4-Expert">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="21" TimePlayed="3584620000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="30" TimePlayed="4417110000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -2197,7 +2197,7 @@
       <Areas>
         <AreaStats ID="104" Cassette="false" SID="SpringCollab2020/4-Expert/Bissy">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="770" TimePlayed="71786070000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="831" TimePlayed="79600290000" BestTime="78536770000" BestFullClearTime="0" BestDashes="84" BestDeaths="814" HeartGem="true">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -2359,7 +2359,7 @@
         </AreaStats>
         <AreaStats ID="114" Cassette="false" SID="SpringCollab2020/4-Expert/Mineman">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="85" TimePlayed="5579060000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -5002,15 +5002,15 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <HasModdedSaveData>true</HasModdedSaveData>
-  <LastArea_Safe ID="104" Mode="Normal" SID="SpringCollab2020/4-Expert/Bissy" />
-  <CurrentSession_Safe Level="Bissy_04" Time="70760120000" StartedFromBeginning="true" Deaths="753" Dashes="64" DashesAtLevelStart="64" DeathsInCurrentLevel="289" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="true" ColorGrade="cold" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
-    <Area ID="104" Mode="Normal" SID="SpringCollab2020/4-Expert/Bissy" />
+  <LastArea_Safe ID="114" Mode="Normal" SID="SpringCollab2020/4-Expert/Mineman" />
+  <CurrentSession_Safe Level="mineman_1" Time="1067430000" StartedFromBeginning="true" Deaths="23" Dashes="10" DashesAtLevelStart="10" DeathsInCurrentLevel="22" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+    <Area ID="114" Mode="Normal" SID="SpringCollab2020/4-Expert/Mineman" />
     <RespawnPoint>
-      <X>1784</X>
-      <Y>-240</Y>
+      <X>1368</X>
+      <Y>1952</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/SC2020_Bissy_Expert">
+      <Music Event="event:/music/lvl7/final_ascent">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
@@ -5019,7 +5019,7 @@
           <MEP Key="layer6" Value="0" />
         </Parameters>
       </Music>
-      <Ambience Event="event:/env/amb/01_main">
+      <Ambience Event="event:/env/amb/05_mirror_sequence">
         <Parameters />
       </Ambience>
     </Audio>
@@ -5029,108 +5029,10 @@
       <Backpack>true</Backpack>
       <NoRefills>false</NoRefills>
     </Inventory>
-    <Flags>
-      <string>torch_Bissy_00:888</string>
-      <string>torch_Bissy_00:891</string>
-      <string>torch_Bissy_00:892</string>
-      <string>torch_Bissy_00:1005</string>
-      <string>torch_Bissy_00:611</string>
-      <string>torch_Bissy_00:1130</string>
-      <string>torch_Bissy_00:1136</string>
-      <string>torch_Bissy_01:1237</string>
-      <string>torch_Bissy_01:1225</string>
-      <string>torch_Bissy_01:1829</string>
-      <string>torch_Bissy_01:1831</string>
-      <string>torch_Bissy_01:1833</string>
-      <string>torch_Bissy_01:10</string>
-      <string>torch_Bissy_01:1836</string>
-      <string>torch_Bissy_01:1835</string>
-      <string>torch_Bissy_01:1837</string>
-      <string>torch_Bissy_01:148</string>
-      <string>torch_Bissy_01:1841</string>
-      <string>torch_Bissy_01:209</string>
-      <string>torch_Bissy_01:272</string>
-      <string>torch_Bissy_01:476</string>
-      <string>torch_Bissy_01:1843</string>
-      <string>torch_Bissy_01:1840</string>
-      <string>torch_Bissy_01:1834</string>
-      <string>torch_Bissy_01:1838</string>
-      <string>torch_Bissy_02:2088</string>
-      <string>torch_Bissy_02:2089</string>
-      <string>torch_Bissy_02:2090</string>
-      <string>torch_Bissy_02:2091</string>
-      <string>torch_Bissy_02:2097</string>
-      <string>torch_Bissy_02:2099</string>
-      <string>torch_Bissy_02:2098</string>
-      <string>torch_Bissy_02:2100</string>
-      <string>torch_Bissy_02:2102</string>
-      <string>torch_Bissy_02:2101</string>
-      <string>torch_Bissy_02:2104</string>
-      <string>torch_Bissy_02:2103</string>
-      <string>torch_Bissy_02:2105</string>
-      <string>torch_Bissy_02:2111</string>
-      <string>torch_Bissy_02:2107</string>
-      <string>torch_Bissy_02:2108</string>
-      <string>torch_Bissy_02:486</string>
-      <string>torch_Bissy_02:487</string>
-      <string>torch_Bissy_02:493</string>
-      <string>torch_Bissy_02:2114</string>
-      <string>torch_Bissy_02:2113</string>
-      <string>torch_Bissy_03:730</string>
-      <string>torch_Bissy_03:1041</string>
-      <string>torch_Bissy_03:1050</string>
-      <string>torch_Bissy_03:1049</string>
-      <string>torch_Bissy_03:1053</string>
-      <string>torch_Bissy_03:1052</string>
-      <string>torch_Bissy_03:1054</string>
-      <string>torch_Bissy_03:1055</string>
-      <string>torch_Bissy_03:1060</string>
-      <string>torch_Bissy_03:1059</string>
-      <string>torch_Bissy_03:1307</string>
-      <string>torch_Bissy_03:1310</string>
-      <string>torch_Bissy_03:1069</string>
-      <string>torch_Bissy_03:1318</string>
-      <string>torch_Bissy_03:1314</string>
-      <string>torch_Bissy_03:1305</string>
-      <string>torch_Bissy_03:1325</string>
-      <string>torch_Bissy_03:1331</string>
-      <string>torch_Bissy_03:1334</string>
-      <string>torch_Bissy_03:1058</string>
-      <string>torch_Bissy_03:1062</string>
-      <string>torch_Bissy_03:1313</string>
-      <string>torch_Bissy_03:1339</string>
-      <string>torch_Bissy_03:1309</string>
-      <string>torch_Bissy_03:1308</string>
-      <string>torch_Bissy_03:1335</string>
-      <string>torch_Bissy_03:1337</string>
-      <string>torch_Bissy_04:1345</string>
-      <string>torch_Bissy_04:1348</string>
-      <string>torch_Bissy_04:1346</string>
-      <string>torch_Bissy_04:1347</string>
-      <string>torch_Bissy_04:1352</string>
-      <string>torch_Bissy_04:1353</string>
-      <string>torch_Bissy_04:1354</string>
-      <string>torch_Bissy_04:1360</string>
-      <string>torch_Bissy_04:1358</string>
-      <string>torch_Bissy_03:1341</string>
-      <string>torch_Bissy_03:1338</string>
-      <string>torch_Bissy_03B:2493</string>
-      <string>torch_Bissy_03B:2499</string>
-      <string>torch_Bissy_04:1357</string>
-      <string>torch_Bissy_04:1367</string>
-      <string>torch_Bissy_04:1370</string>
-      <string>torch_Bissy_04:1368</string>
-      <string>torch_Bissy_04:1366</string>
-      <string>torch_Bissy_04:1344</string>
-      <string>torch_Bissy_04:1343</string>
-    </Flags>
+    <Flags />
     <LevelFlags>
-      <string>Bissy_00</string>
-      <string>Bissy_01</string>
-      <string>Bissy_02</string>
-      <string>Bissy_03</string>
-      <string>Bissy_04</string>
-      <string>Bissy_03B</string>
+      <string>mineman_intro</string>
+      <string>mineman_1</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
@@ -5146,7 +5048,7 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="85" Cassette="false" SID="SpringCollab2020/4-Expert/Bissy">
+    <OldStats ID="114" Cassette="false" SID="SpringCollab2020/4-Expert/Mineman">
       <Modes>
         <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
@@ -5163,7 +5065,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>Bissy_03B</FurthestSeenLevel>
+    <FurthestSeenLevel>mineman_1</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </SaveData>

@@ -6,7 +6,7 @@
   <WindowScale>4</WindowScale>
   <ViewportPadding>0</ViewportPadding>
   <VSync>true</VSync>
-  <DisableFlashes>true</DisableFlashes>
+  <DisableFlashes>false</DisableFlashes>
   <ScreenShake>false</ScreenShake>
   <Rumble>true</Rumble>
   <GrabMode>Hold</GrabMode>
