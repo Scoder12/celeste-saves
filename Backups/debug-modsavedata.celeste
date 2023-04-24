@@ -1723,7 +1723,7 @@
         </AreaStats>
         <AreaStats ID="114" Cassette="false" SID="SpringCollab2020/4-Expert/Mineman">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="255" TimePlayed="7387350000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="344" TimePlayed="13140830000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4356,11 +4356,11 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="114" Mode="Normal" SID="SpringCollab2020/4-Expert/Mineman" />
-  <CurrentSession_Safe Level="mineman_1" Time="7352670000" StartedFromBeginning="false" Deaths="256" Dashes="0" DashesAtLevelStart="0" DeathsInCurrentLevel="256" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
+  <CurrentSession_Safe Level="mineman_3" Time="13093910000" StartedFromBeginning="false" Deaths="345" Dashes="15" DashesAtLevelStart="0" DeathsInCurrentLevel="345" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="credits" LightingAlphaAdd="0.2" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
     <Area ID="114" Mode="Normal" SID="SpringCollab2020/4-Expert/Mineman" />
     <RespawnPoint>
-      <X>1368</X>
-      <Y>1952</Y>
+      <X>3368</X>
+      <Y>712</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/music/lvl7/final_ascent">
@@ -4389,6 +4389,8 @@
     <LevelFlags>
       <string>mineman_intro</string>
       <string>mineman_1</string>
+      <string>mineman_2</string>
+      <string>mineman_3</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
@@ -4421,7 +4423,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>mineman_1</FurthestSeenLevel>
+    <FurthestSeenLevel>mineman_3</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </ModSaveData>
