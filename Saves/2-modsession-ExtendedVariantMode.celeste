@@ -1,4 +1,5 @@
-VariantsEnabledViaTrigger: {}
+VariantsEnabledViaTrigger:
+  GlitchEffect: float:0
 VariantsOverridenByUser: []
 ExtendedVariantsWereUsed: false
 DashCountOnLatestRespawn: 1
