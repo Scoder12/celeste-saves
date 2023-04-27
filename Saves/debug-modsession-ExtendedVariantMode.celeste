@@ -1,7 +1,8 @@
-VariantsEnabledViaTrigger: {}
+VariantsEnabledViaTrigger:
+  ColorGrading: string:none
 VariantsOverridenByUser: []
 ExtendedVariantsWereUsed: false
-DashCountOnLatestRespawn: 1
+DashCountOnLatestRespawn: 0
 ExtendedVariantsDisplayedOnScreenViaTrigger: false
 OverriddenVariantsInRoom: {}
 OverriddenVariantsInRoomRevertOnLeave: {}

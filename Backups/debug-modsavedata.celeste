@@ -1723,8 +1723,10 @@
         </AreaStats>
         <AreaStats ID="114" Cassette="false" SID="SpringCollab2020/4-Expert/Mineman">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="520" TimePlayed="20100120000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-              <Strawberries />
+            <AreaModeStats TotalStrawberries="1" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="621" TimePlayed="27166510000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries>
+                <EntityID Key="mineman_5:1912" />
+              </Strawberries>
               <Checkpoints />
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
@@ -1820,7 +1822,7 @@
       </Areas>
       <Poem />
       <UnlockedAreas>15</UnlockedAreas>
-      <TotalStrawberries>0</TotalStrawberries>
+      <TotalStrawberries>1</TotalStrawberries>
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/5-Grandmaster">
       <Areas>
@@ -4356,11 +4358,11 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="114" Mode="Normal" SID="SpringCollab2020/4-Expert/Mineman" />
-  <CurrentSession_Safe Level="mineman_5" Time="20047080000" StartedFromBeginning="false" Deaths="521" Dashes="42" DashesAtLevelStart="15" DeathsInCurrentLevel="518" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="credits" LightingAlphaAdd="0" BloomBaseAdd="0.5" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
+  <CurrentSession_Safe Level="mineman_outro" Time="4238100000" StartedFromBeginning="false" Deaths="69" Dashes="30" DashesAtLevelStart="30" DeathsInCurrentLevel="1" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0.5" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
     <Area ID="114" Mode="Normal" SID="SpringCollab2020/4-Expert/Mineman" />
     <RespawnPoint>
-      <X>3568</X>
-      <Y>-1240</Y>
+      <X>3584</X>
+      <Y>-2208</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/music/lvl7/final_ascent">
@@ -4388,14 +4390,15 @@
     </Flags>
     <LevelFlags>
       <string>mineman_intro</string>
-      <string>mineman_1</string>
-      <string>mineman_2</string>
-      <string>mineman_3</string>
-      <string>mineman_4</string>
+      <string>mineman_outro</string>
       <string>mineman_5</string>
     </LevelFlags>
-    <Strawberries />
-    <DoNotLoad />
+    <Strawberries>
+      <EntityID Key="mineman_5:1912" />
+    </Strawberries>
+    <DoNotLoad>
+      <EntityID Key="mineman_5:1912" />
+    </DoNotLoad>
     <Keys />
     <Counters>
       <Counter key="pushBlocksHit" value="0" />
@@ -4410,7 +4413,7 @@
     </SummitGems>
     <OldStats ID="114" Cassette="false" SID="SpringCollab2020/4-Expert/Mineman">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="553" TimePlayed="22889990000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
           <Checkpoints />
         </AreaModeStats>
