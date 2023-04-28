@@ -2,7 +2,7 @@
 <SaveData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>9497336280000</Time>
+  <Time>9511380830000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>81640</TotalDeaths>
+  <TotalDeaths>81801</TotalDeaths>
   <TotalStrawberries>189</TotalStrawberries>
   <TotalGoldenStrawberries>13</TotalGoldenStrawberries>
-  <TotalJumps>269586</TotalJumps>
-  <TotalWallJumps>88393</TotalWallJumps>
-  <TotalDashes>346522</TotalDashes>
+  <TotalJumps>269828</TotalJumps>
+  <TotalWallJumps>88403</TotalWallJumps>
+  <TotalDashes>347403</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -2295,8 +2295,10 @@
         </AreaStats>
         <AreaStats ID="110" Cassette="false" SID="SpringCollab2020/4-Expert/iamdadbod">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="216" TimePlayed="16778830000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-              <Strawberries />
+            <AreaModeStats TotalStrawberries="1" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="377" TimePlayed="30823380000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries>
+                <EntityID Key="berry1:1606" />
+              </Strawberries>
               <Checkpoints />
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
@@ -2463,7 +2465,7 @@
       </Areas>
       <Poem />
       <UnlockedAreas>14</UnlockedAreas>
-      <TotalStrawberries>5</TotalStrawberries>
+      <TotalStrawberries>6</TotalStrawberries>
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/5-Grandmaster">
       <Areas>
@@ -5006,10 +5008,10 @@
   </LevelSetRecycleBin>
   <HasModdedSaveData>true</HasModdedSaveData>
   <LastArea_Safe ID="110" Mode="Normal" SID="SpringCollab2020/4-Expert/iamdadbod" />
-  <CurrentSession_Safe Level="dad4" Time="16768460000" StartedFromBeginning="true" Deaths="216" Dashes="6" DashesAtLevelStart="6" DeathsInCurrentLevel="160" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="true" ColorGrade="oldsite" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+  <CurrentSession_Safe Level="dad1" Time="30800770000" StartedFromBeginning="true" Deaths="377" Dashes="48" DashesAtLevelStart="48" DeathsInCurrentLevel="46" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="true" ColorGrade="oldsite" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="110" Mode="Normal" SID="SpringCollab2020/4-Expert/iamdadbod" />
     <RespawnPoint>
-      <X>-4056</X>
+      <X>-2320</X>
       <Y>264</Y>
     </RespawnPoint>
     <Audio>
@@ -5036,9 +5038,15 @@
     <LevelFlags>
       <string>dad intro room</string>
       <string>dad4</string>
+      <string>dad1</string>
+      <string>berry1</string>
     </LevelFlags>
-    <Strawberries />
-    <DoNotLoad />
+    <Strawberries>
+      <EntityID Key="berry1:1606" />
+    </Strawberries>
+    <DoNotLoad>
+      <EntityID Key="berry1:1606" />
+    </DoNotLoad>
     <Keys />
     <Counters>
       <Counter key="pushBlocksHit" value="0" />
@@ -5068,7 +5076,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>dad4</FurthestSeenLevel>
+    <FurthestSeenLevel>berry1</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
   </CurrentSession_Safe>
 </SaveData>
