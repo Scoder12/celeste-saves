@@ -1437,7 +1437,7 @@
         </AreaStats>
         <AreaStats ID="91" Cassette="false" SID="SpringCollab2020/4-Expert/iamdadbod">
           <Modes>
-            <AreaModeStats TotalStrawberries="1" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="580" TimePlayed="56159500000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="1" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="885" TimePlayed="84024710000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries>
                 <EntityID Key="berry1:1606" />
               </Strawberries>
@@ -4484,10 +4484,10 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="91" Mode="Normal" SID="SpringCollab2020/4-Expert/iamdadbod" />
-  <CurrentSession_Safe Level="dad2" Time="56118530000" StartedFromBeginning="true" Deaths="580" Dashes="78" DashesAtLevelStart="78" DeathsInCurrentLevel="100" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="true" ColorGrade="oldsite" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+  <CurrentSession_Safe Level="dad3" Time="83971500000" StartedFromBeginning="true" Deaths="885" Dashes="108" DashesAtLevelStart="108" DeathsInCurrentLevel="178" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="true" ColorGrade="oldsite" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="91" Mode="Normal" SID="SpringCollab2020/4-Expert/iamdadbod" />
     <RespawnPoint>
-      <X>-744</X>
+      <X>804</X>
       <Y>184</Y>
     </RespawnPoint>
     <Audio>
@@ -4520,6 +4520,7 @@
       <string>dad1</string>
       <string>berry1</string>
       <string>dad2</string>
+      <string>dad3</string>
     </LevelFlags>
     <Strawberries>
       <EntityID Key="berry1:1606" />
@@ -4556,7 +4557,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>dad2</FurthestSeenLevel>
+    <FurthestSeenLevel>dad3</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
     <RestartedFromGolden>false</RestartedFromGolden>
   </CurrentSession_Safe>
