@@ -5,6 +5,7 @@ EndPointStyle: Flag
 TimeSummitFlag: true
 TimeHeartCassette: true
 AutoResetRoomTimer: true
+DisplayRoomGold: true
 AutoLoadStateAfterDeath: true
 AutoClearStateOnScreenTransition: false
 FreezeAfterLoadStateType: On
@@ -48,6 +49,7 @@ KeyboardSwitchAutoLoadState: []
 KeyboardSpawnTowerViewer:
 - F10
 KeyboardToggleFullscreen: []
+KeyboardExportRoomTimes: []
 ControllerToggleHotkeys: []
 ControllerSaveState: []
 ControllerLoadState: []
@@ -67,3 +69,4 @@ ControllerTeleportToNextRoom: []
 ControllerSwitchAutoLoadState: []
 ControllerSpawnTowerViewer: []
 ControllerToggleFullscreen: []
+ControllerExportRoomTimes: []
