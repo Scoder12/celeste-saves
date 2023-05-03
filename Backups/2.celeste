@@ -2,7 +2,7 @@
 <SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>9568908320000</Time>
+  <Time>9595523860000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>82366</TotalDeaths>
+  <TotalDeaths>82546</TotalDeaths>
   <TotalStrawberries>189</TotalStrawberries>
   <TotalGoldenStrawberries>13</TotalGoldenStrawberries>
-  <TotalJumps>271257</TotalJumps>
-  <TotalWallJumps>89481</TotalWallJumps>
-  <TotalDashes>352171</TotalDashes>
+  <TotalJumps>271850</TotalJumps>
+  <TotalWallJumps>90718</TotalWallJumps>
+  <TotalDashes>353210</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -685,7 +685,7 @@
         </AreaStats>
         <AreaStats ID="20" Cassette="false" SID="SpringCollab2020/0-Lobbies/4-Expert">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="36" TimePlayed="4868460000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="57" TimePlayed="6401690000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1894,7 +1894,7 @@
         </AreaStats>
         <AreaStats ID="87" Cassette="false" SID="SpringCollab2020/4-Expert/ChaotiC">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="36" TimePlayed="2199460000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1960,9 +1960,10 @@
         </AreaStats>
         <AreaStats ID="91" Cassette="false" SID="SpringCollab2020/4-Expert/iamdadbod">
           <Modes>
-            <AreaModeStats TotalStrawberries="1" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="942" TimePlayed="88350870000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="2" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="1065" TimePlayed="111233720000" BestTime="111162150000" BestFullClearTime="0" BestDashes="140" BestDeaths="1065" HeartGem="true">
               <Strawberries>
                 <EntityID Key="berry1:1606" />
+                <EntityID Key="dad3:1212" />
               </Strawberries>
               <Checkpoints />
             </AreaModeStats>
@@ -2130,7 +2131,7 @@
       </Areas>
       <Poem />
       <UnlockedAreas>14</UnlockedAreas>
-      <TotalStrawberries>6</TotalStrawberries>
+      <TotalStrawberries>7</TotalStrawberries>
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/5-Grandmaster">
       <Areas>
@@ -5007,15 +5008,15 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <HasModdedSaveData>true</HasModdedSaveData>
-  <LastArea_Safe ID="91" Mode="Normal" SID="SpringCollab2020/4-Expert/iamdadbod" />
-  <CurrentSession_Safe Level="dad3" Time="88291540000" StartedFromBeginning="true" Deaths="942" Dashes="108" DashesAtLevelStart="108" DeathsInCurrentLevel="235" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="true" ColorGrade="oldsite" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
-    <Area ID="91" Mode="Normal" SID="SpringCollab2020/4-Expert/iamdadbod" />
+  <LastArea_Safe ID="87" Mode="Normal" SID="SpringCollab2020/4-Expert/ChaotiC" />
+  <CurrentSession_Safe Level="ChaotiC_01" Time="2167160000" StartedFromBeginning="true" Deaths="36" Dashes="6" DashesAtLevelStart="6" DeathsInCurrentLevel="36" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+    <Area ID="87" Mode="Normal" SID="SpringCollab2020/4-Expert/ChaotiC" />
     <RespawnPoint>
-      <X>804</X>
-      <Y>184</Y>
+      <X>496</X>
+      <Y>48</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/SC2020_Dadbod_Octo">
+      <Music Event="event:/collab2020/chaotic">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
@@ -5035,23 +5036,13 @@
       <Backpack>true</Backpack>
       <NoRefills>false</NoRefills>
     </Inventory>
-    <Flags>
-      <string>oldentower_dad1_cam01</string>
-    </Flags>
+    <Flags />
     <LevelFlags>
-      <string>dad intro room</string>
-      <string>dad4</string>
-      <string>dad1</string>
-      <string>berry1</string>
-      <string>dad2</string>
-      <string>dad3</string>
+      <string>ChaotiC_00</string>
+      <string>ChaotiC_01</string>
     </LevelFlags>
-    <Strawberries>
-      <EntityID Key="berry1:1606" />
-    </Strawberries>
-    <DoNotLoad>
-      <EntityID Key="berry1:1606" />
-    </DoNotLoad>
+    <Strawberries />
+    <DoNotLoad />
     <Keys />
     <Counters>
       <Counter key="pushBlocksHit" value="0" />
@@ -5064,7 +5055,7 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="110" Cassette="false" SID="SpringCollab2020/4-Expert/iamdadbod">
+    <OldStats ID="87" Cassette="false" SID="SpringCollab2020/4-Expert/ChaotiC">
       <Modes>
         <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
@@ -5081,7 +5072,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>dad3</FurthestSeenLevel>
+    <FurthestSeenLevel>ChaotiC_01</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
     <RestartedFromGolden>false</RestartedFromGolden>
   </CurrentSession_Safe>
