@@ -2,7 +2,7 @@
 <SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>9595523860000</Time>
+  <Time>9602606230000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>82546</TotalDeaths>
+  <TotalDeaths>82635</TotalDeaths>
   <TotalStrawberries>189</TotalStrawberries>
   <TotalGoldenStrawberries>13</TotalGoldenStrawberries>
-  <TotalJumps>271850</TotalJumps>
-  <TotalWallJumps>90718</TotalWallJumps>
-  <TotalDashes>353210</TotalDashes>
+  <TotalJumps>272053</TotalJumps>
+  <TotalWallJumps>90823</TotalWallJumps>
+  <TotalDashes>353538</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -1894,7 +1894,7 @@
         </AreaStats>
         <AreaStats ID="87" Cassette="false" SID="SpringCollab2020/4-Expert/ChaotiC">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="36" TimePlayed="2199460000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="125" TimePlayed="9281830000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -5009,11 +5009,11 @@
   </LevelSetRecycleBin>
   <HasModdedSaveData>true</HasModdedSaveData>
   <LastArea_Safe ID="87" Mode="Normal" SID="SpringCollab2020/4-Expert/ChaotiC" />
-  <CurrentSession_Safe Level="ChaotiC_01" Time="2167160000" StartedFromBeginning="true" Deaths="36" Dashes="6" DashesAtLevelStart="6" DeathsInCurrentLevel="36" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+  <CurrentSession_Safe Level="ChaotiC_01" Time="9237290000" StartedFromBeginning="true" Deaths="125" Dashes="28" DashesAtLevelStart="28" DeathsInCurrentLevel="125" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="87" Mode="Normal" SID="SpringCollab2020/4-Expert/ChaotiC" />
     <RespawnPoint>
-      <X>496</X>
-      <Y>48</Y>
+      <X>1184</X>
+      <Y>40</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/collab2020/chaotic">
