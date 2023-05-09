@@ -15,7 +15,7 @@ SaveExtendedVariants: true
 DeathStatistics: false
 MaxNumberOfDeathData: 2
 TeleportRoomCategory: Any
-RespawnSpeed: 1
+RespawnSpeed: 3
 RestartChapterSpeed: 1
 SkipRestartChapterScreenWipe: false
 AllowPauseDuringDeath: false

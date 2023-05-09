@@ -17,115 +17,79 @@ Facing: Right
 dashCount: 0
 staminaCount: 110
 ShowIndicator: true
-PreviousLevel: c-07
+PreviousLevel: 20
 lockCamera: 0
 LevelInfoCache:
-  FILLER0:
+  00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER1:
+  01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER10:
+  02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER11:
+  03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER12:
+  04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER2:
+  05:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER3:
+  06:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER4:
+  07:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER5:
+  08:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER6:
+  09:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER7:
+  10:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER8:
+  11:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  FILLER9:
+  12:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-01:
+  13:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-02:
+  14:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-03:
+  15:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-04:
+  16:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-05:
+  17:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-06:
+  18:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-07:
+  19:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-08:
+  20:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-01s:
+  21:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-03n:
+  back:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-04w:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  b-05w:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  b-06:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  b-07:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  c-01n:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  c-02n:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  c-03n:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  c-04n:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  c-05w:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  c-06w:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  c-07:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  c-08:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  c-09:
+  end:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
 DebrisLimiter: 0
