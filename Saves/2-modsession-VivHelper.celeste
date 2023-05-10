@@ -17,79 +17,34 @@ Facing: Right
 dashCount: 0
 staminaCount: 110
 ShowIndicator: true
-PreviousLevel: 20
+PreviousLevel: Intro
 lockCamera: 0
 LevelInfoCache:
-  00:
+  1:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  01:
+  2:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  02:
+  3:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  03:
+  4:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  04:
+  B1:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  05:
+  B2:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  06:
+  Filler A:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  07:
+  Intro:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  08:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  09:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  10:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  11:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  12:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  13:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  14:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  15:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  16:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  17:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  18:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  19:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  20:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  21:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  back:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  end:
+  Outro:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
 DebrisLimiter: 0
