@@ -7,7 +7,6 @@ GradientDustImagePath:
 GradientDustScrollSpeed: 0
 CameraCatchupSpeed: 
 MadelineIsSilhouette: false
-AmbienceVolume: 1
 IcePhysicsDisabled: false
 CollectedMultiRoomStrawberrySeeds: []
 PickedUpFlagPickups: []

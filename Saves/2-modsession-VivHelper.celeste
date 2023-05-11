@@ -15,36 +15,12 @@ StoredSpeed:
   Y: 0
 Facing: Right
 dashCount: 0
-staminaCount: 110
+staminaCount: 0
 ShowIndicator: true
-PreviousLevel: Intro
+PreviousLevel: 
 lockCamera: 0
 LevelInfoCache:
   1:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  2:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  3:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  4:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  B1:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  B2:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  Filler A:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  Intro:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  Outro:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
 DebrisLimiter: 0
