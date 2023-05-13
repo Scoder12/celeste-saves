@@ -2,7 +2,7 @@
 <SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>31975810000</Time>
+  <Time>28672540000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,23 +24,25 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>9</UnlockedAreas>
-  <TotalDeaths>96</TotalDeaths>
+  <TotalDeaths>89</TotalDeaths>
   <TotalStrawberries>2</TotalStrawberries>
   <TotalGoldenStrawberries>0</TotalGoldenStrawberries>
-  <TotalJumps>1663</TotalJumps>
-  <TotalWallJumps>317</TotalWallJumps>
-  <TotalDashes>2085</TotalDashes>
+  <TotalJumps>1459</TotalJumps>
+  <TotalWallJumps>329</TotalWallJumps>
+  <TotalDashes>2126</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
   </Flags>
-  <Poem />
+  <Poem>
+    <string>tr</string>
+  </Poem>
   <RevealedChapter9>false</RevealedChapter9>
-  <LastArea ID="5" Mode="Normal" SID="Celeste/5-MirrorTemple" />
+  <LastArea ID="0" Mode="Normal" SID="Celeste/0-Intro" />
   <Areas>
     <AreaStats ID="0" Cassette="false" SID="Celeste/0-Intro">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="0" TimePlayed="304810000" BestTime="289000000" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="0" TimePlayed="306850000" BestTime="291040000" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
           <Checkpoints />
         </AreaModeStats>
@@ -56,10 +58,8 @@
     </AreaStats>
     <AreaStats ID="1" Cassette="false" SID="Celeste/1-ForsakenCity">
       <Modes>
-        <AreaModeStats TotalStrawberries="1" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="2" TimePlayed="975800000" BestTime="954040000" BestFullClearTime="0" BestDashes="63" BestDeaths="2" HeartGem="false">
-          <Strawberries>
-            <EntityID Key="3b:2" />
-          </Strawberries>
+        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="2" TimePlayed="940440000" BestTime="914430000" BestFullClearTime="0" BestDashes="72" BestDeaths="2" HeartGem="false">
+          <Strawberries />
           <Checkpoints>
             <string>6</string>
             <string>9b</string>
@@ -77,7 +77,7 @@
     </AreaStats>
     <AreaStats ID="2" Cassette="false" SID="Celeste/2-OldSite">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="4" TimePlayed="1916750000" BestTime="1878840000" BestFullClearTime="0" BestDashes="135" BestDeaths="4" HeartGem="false">
+        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="7" TimePlayed="1832430000" BestTime="1794520000" BestFullClearTime="0" BestDashes="140" BestDeaths="7" HeartGem="false">
           <Strawberries />
           <Checkpoints>
             <string>3</string>
@@ -96,8 +96,10 @@
     </AreaStats>
     <AreaStats ID="3" Cassette="false" SID="Celeste/3-CelestialResort">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="10" TimePlayed="5001740000" BestTime="4979300000" BestFullClearTime="0" BestDashes="281" BestDeaths="10" HeartGem="false">
-          <Strawberries />
+        <AreaModeStats TotalStrawberries="1" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="20" TimePlayed="4626550000" BestTime="4589320000" BestFullClearTime="0" BestDashes="289" BestDeaths="20" HeartGem="false">
+          <Strawberries>
+            <EntityID Key="00-a:5" />
+          </Strawberries>
           <Checkpoints>
             <string>08-a</string>
             <string>09-d</string>
@@ -116,7 +118,7 @@
     </AreaStats>
     <AreaStats ID="4" Cassette="false" SID="Celeste/4-GoldenRidge">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="15" TimePlayed="3687980000" BestTime="3669960000" BestFullClearTime="0" BestDashes="175" BestDeaths="15" HeartGem="false">
+        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="6" TimePlayed="2787660000" BestTime="2768960000" BestFullClearTime="0" BestDashes="181" BestDeaths="6" HeartGem="false">
           <Strawberries />
           <Checkpoints>
             <string>b-00</string>
@@ -134,20 +136,21 @@
         </AreaModeStats>
       </Modes>
     </AreaStats>
-    <AreaStats ID="5" Cassette="false" SID="Celeste/5-MirrorTemple">
+    <AreaStats ID="5" Cassette="true" SID="Celeste/5-MirrorTemple">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="12" TimePlayed="4833610000" BestTime="4793660000" BestFullClearTime="0" BestDashes="239" BestDeaths="12" HeartGem="false">
+        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1" TimePlayed="1270070000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+          <Strawberries />
+          <Checkpoints>
+            <string>b-00</string>
+          </Checkpoints>
+        </AreaModeStats>
+        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="16" TimePlayed="3135140000" BestTime="3102840000" BestFullClearTime="0" BestDashes="125" BestDeaths="16" HeartGem="true">
           <Strawberries />
           <Checkpoints>
             <string>b-00</string>
             <string>c-00</string>
             <string>d-00</string>
-            <string>e-00</string>
           </Checkpoints>
-        </AreaModeStats>
-        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-          <Strawberries />
-          <Checkpoints />
         </AreaModeStats>
         <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
@@ -157,7 +160,7 @@
     </AreaStats>
     <AreaStats ID="6" Cassette="false" SID="Celeste/6-Reflection">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="24" TimePlayed="6248180000" BestTime="6213840000" BestFullClearTime="0" BestDashes="322" BestDeaths="24" HeartGem="false">
+        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="10" TimePlayed="5128390000" BestTime="5095410000" BestFullClearTime="0" BestDashes="329" BestDeaths="10" HeartGem="false">
           <Strawberries />
           <Checkpoints>
             <string>00</string>
@@ -179,7 +182,7 @@
     </AreaStats>
     <AreaStats ID="7" Cassette="false" SID="Celeste/7-Summit">
       <Modes>
-        <AreaModeStats TotalStrawberries="1" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="28" TimePlayed="9006940000" BestTime="8997080000" BestFullClearTime="0" BestDashes="598" BestDeaths="28" HeartGem="false">
+        <AreaModeStats TotalStrawberries="1" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="27" TimePlayed="8645010000" BestTime="8636000000" BestFullClearTime="0" BestDashes="609" BestDeaths="27" HeartGem="false">
           <Strawberries>
             <EntityID Key="e-02:7" />
           </Strawberries>
@@ -204,7 +207,7 @@
     </AreaStats>
     <AreaStats ID="8" Cassette="false" SID="Celeste/8-Epilogue">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="1" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="1" BestDeaths="0" HeartGem="false">
+        <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="1" BestDeaths="0" HeartGem="false">
           <Strawberries />
           <Checkpoints />
         </AreaModeStats>
@@ -258,9 +261,9 @@
       <UnlockedAreas>9</UnlockedAreas>
       <TotalStrawberries>2</TotalStrawberries>
     </LevelSetStats>
-    <LevelSetStats Name="LostContest/tobyaaa">
+    <LevelSetStats Name="100trap">
       <Areas>
-        <AreaStats ID="11" Cassette="false" SID="LostContest/tobyaaa/getlost">
+        <AreaStats ID="11" Cassette="false" SID="100trap/100trap">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -281,9 +284,9 @@
       <UnlockedAreas>0</UnlockedAreas>
       <TotalStrawberries>0</TotalStrawberries>
     </LevelSetStats>
-    <LevelSetStats Name="Madhunt">
+    <LevelSetStats Name="nameguysdsidespack/0">
       <Areas>
-        <AreaStats ID="12" Cassette="false" SID="Madhunt/01_Forsaken_City">
+        <AreaStats ID="12" Cassette="false" SID="nameguysdsidespack/0/0-Prologue">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -299,7 +302,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="13" Cassette="false" SID="Madhunt/02_Old_Site">
+        <AreaStats ID="13" Cassette="false" SID="nameguysdsidespack/0/1-City">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -315,7 +318,151 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="14" Cassette="false" SID="Madhunt/03_Celestial_Resort">
+        <AreaStats ID="14" Cassette="false" SID="nameguysdsidespack/0/2-Oldsite">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="15" Cassette="false" SID="nameguysdsidespack/0/3-Resort">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="16" Cassette="false" SID="nameguysdsidespack/0/4-Ridge">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="17" Cassette="false" SID="nameguysdsidespack/0/5-Temple">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="18" Cassette="false" SID="nameguysdsidespack/0/6-ReflectionD">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="19" Cassette="false" SID="nameguysdsidespack/0/7-Summit">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="20" Cassette="false" SID="nameguysdsidespack/0/8-Core">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="21" Cassette="false" SID="nameguysdsidespack/0/9-Epilogue">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="22" Cassette="false" SID="nameguysdsidespack/0/10-Farewell">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="23" Cassette="false" SID="nameguysdsidespack/0/11-SecondEpilogue">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -333,12 +480,108 @@
         </AreaStats>
       </Areas>
       <Poem />
-      <UnlockedAreas>2</UnlockedAreas>
+      <UnlockedAreas>0</UnlockedAreas>
       <TotalStrawberries>0</TotalStrawberries>
     </LevelSetStats>
-    <LevelSetStats Name="muntheory/partnership">
+    <LevelSetStats Name="nameguysdsidespack/1">
       <Areas>
-        <AreaStats ID="15" Cassette="false" SID="muntheory/partnership/0">
+        <AreaStats ID="24" Cassette="false" SID="nameguysdsidespack/1/0-PrologueWithDash">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="25" Cassette="false" SID="nameguysdsidespack/1/1-CoreOldMashup">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="26" Cassette="false" SID="nameguysdsidespack/1/2-SummitOldOld">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="27" Cassette="false" SID="nameguysdsidespack/1/3-SummitOld">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="28" Cassette="false" SID="nameguysdsidespack/1/4-ReflectionOld">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="29" Cassette="false" SID="nameguysdsidespack/1/5-ResortOld">
+          <Modes>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries />
+              <Checkpoints />
+            </AreaModeStats>
+          </Modes>
+        </AreaStats>
+        <AreaStats ID="30" Cassette="false" SID="nameguysdsidespack/1/6-FinalGoodbyeOld">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -361,7 +604,7 @@
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/0-Gyms">
       <Areas>
-        <AreaStats ID="16" Cassette="false" SID="SpringCollab2020/0-Gyms/1-Beginner">
+        <AreaStats ID="31" Cassette="false" SID="SpringCollab2020/0-Gyms/1-Beginner">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -377,7 +620,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="17" Cassette="false" SID="SpringCollab2020/0-Gyms/2-Intermediate">
+        <AreaStats ID="32" Cassette="false" SID="SpringCollab2020/0-Gyms/2-Intermediate">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -393,7 +636,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="18" Cassette="false" SID="SpringCollab2020/0-Gyms/3-Advanced">
+        <AreaStats ID="33" Cassette="false" SID="SpringCollab2020/0-Gyms/3-Advanced">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -409,7 +652,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="19" Cassette="false" SID="SpringCollab2020/0-Gyms/4-Expert">
+        <AreaStats ID="34" Cassette="false" SID="SpringCollab2020/0-Gyms/4-Expert">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -425,7 +668,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="20" Cassette="false" SID="SpringCollab2020/0-Gyms/5-Grandmaster">
+        <AreaStats ID="35" Cassette="false" SID="SpringCollab2020/0-Gyms/5-Grandmaster">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -448,7 +691,7 @@
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/0-Lobbies">
       <Areas>
-        <AreaStats ID="21" Cassette="false" SID="SpringCollab2020/0-Lobbies/0-Prologue">
+        <AreaStats ID="36" Cassette="false" SID="SpringCollab2020/0-Lobbies/0-Prologue">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -464,7 +707,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="22" Cassette="false" SID="SpringCollab2020/0-Lobbies/1-Beginner">
+        <AreaStats ID="37" Cassette="false" SID="SpringCollab2020/0-Lobbies/1-Beginner">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -480,7 +723,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="23" Cassette="false" SID="SpringCollab2020/0-Lobbies/2-Intermediate">
+        <AreaStats ID="38" Cassette="false" SID="SpringCollab2020/0-Lobbies/2-Intermediate">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -496,7 +739,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="24" Cassette="false" SID="SpringCollab2020/0-Lobbies/3-Advanced">
+        <AreaStats ID="39" Cassette="false" SID="SpringCollab2020/0-Lobbies/3-Advanced">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -512,7 +755,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="25" Cassette="false" SID="SpringCollab2020/0-Lobbies/4-Expert">
+        <AreaStats ID="40" Cassette="false" SID="SpringCollab2020/0-Lobbies/4-Expert">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -528,7 +771,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="26" Cassette="false" SID="SpringCollab2020/0-Lobbies/5-Grandmaster">
+        <AreaStats ID="41" Cassette="false" SID="SpringCollab2020/0-Lobbies/5-Grandmaster">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -551,7 +794,7 @@
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/1-Beginner">
       <Areas>
-        <AreaStats ID="27" Cassette="false" SID="SpringCollab2020/1-Beginner/Abby">
+        <AreaStats ID="42" Cassette="false" SID="SpringCollab2020/1-Beginner/Abby">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -567,7 +810,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="28" Cassette="false" SID="SpringCollab2020/1-Beginner/Bissy">
+        <AreaStats ID="43" Cassette="false" SID="SpringCollab2020/1-Beginner/Bissy">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -583,7 +826,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="29" Cassette="false" SID="SpringCollab2020/1-Beginner/CANADIAN">
+        <AreaStats ID="44" Cassette="false" SID="SpringCollab2020/1-Beginner/CANADIAN">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -599,7 +842,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="30" Cassette="false" SID="SpringCollab2020/1-Beginner/Cat_in_Box_01">
+        <AreaStats ID="45" Cassette="false" SID="SpringCollab2020/1-Beginner/Cat_in_Box_01">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -615,7 +858,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="31" Cassette="false" SID="SpringCollab2020/1-Beginner/Cookie">
+        <AreaStats ID="46" Cassette="false" SID="SpringCollab2020/1-Beginner/Cookie">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -631,7 +874,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="32" Cassette="false" SID="SpringCollab2020/1-Beginner/Cruor">
+        <AreaStats ID="47" Cassette="false" SID="SpringCollab2020/1-Beginner/Cruor">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -647,7 +890,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="33" Cassette="false" SID="SpringCollab2020/1-Beginner/DanTKO">
+        <AreaStats ID="48" Cassette="false" SID="SpringCollab2020/1-Beginner/DanTKO">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -663,7 +906,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="34" Cassette="false" SID="SpringCollab2020/1-Beginner/Flagpole1up">
+        <AreaStats ID="49" Cassette="false" SID="SpringCollab2020/1-Beginner/Flagpole1up">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -679,7 +922,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="35" Cassette="false" SID="SpringCollab2020/1-Beginner/Ghajestis">
+        <AreaStats ID="50" Cassette="false" SID="SpringCollab2020/1-Beginner/Ghajestis">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -695,7 +938,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="36" Cassette="false" SID="SpringCollab2020/1-Beginner/hennyburgr">
+        <AreaStats ID="51" Cassette="false" SID="SpringCollab2020/1-Beginner/hennyburgr">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -711,7 +954,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="37" Cassette="false" SID="SpringCollab2020/1-Beginner/iamdadbod">
+        <AreaStats ID="52" Cassette="false" SID="SpringCollab2020/1-Beginner/iamdadbod">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -727,7 +970,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="38" Cassette="false" SID="SpringCollab2020/1-Beginner/IsaGoodFriend">
+        <AreaStats ID="53" Cassette="false" SID="SpringCollab2020/1-Beginner/IsaGoodFriend">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -743,7 +986,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="39" Cassette="false" SID="SpringCollab2020/1-Beginner/itsabrody">
+        <AreaStats ID="54" Cassette="false" SID="SpringCollab2020/1-Beginner/itsabrody">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -759,7 +1002,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="40" Cassette="false" SID="SpringCollab2020/1-Beginner/Lichtbaulb">
+        <AreaStats ID="55" Cassette="false" SID="SpringCollab2020/1-Beginner/Lichtbaulb">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -775,7 +1018,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="41" Cassette="false" SID="SpringCollab2020/1-Beginner/Rue">
+        <AreaStats ID="56" Cassette="false" SID="SpringCollab2020/1-Beginner/Rue">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -791,7 +1034,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="42" Cassette="false" SID="SpringCollab2020/1-Beginner/Skeleton">
+        <AreaStats ID="57" Cassette="false" SID="SpringCollab2020/1-Beginner/Skeleton">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -807,7 +1050,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="43" Cassette="false" SID="SpringCollab2020/1-Beginner/Snas">
+        <AreaStats ID="58" Cassette="false" SID="SpringCollab2020/1-Beginner/Snas">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -823,7 +1066,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="44" Cassette="false" SID="SpringCollab2020/1-Beginner/Thegur90">
+        <AreaStats ID="59" Cassette="false" SID="SpringCollab2020/1-Beginner/Thegur90">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -839,7 +1082,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="45" Cassette="false" SID="SpringCollab2020/1-Beginner/ZZ-HeartSide">
+        <AreaStats ID="60" Cassette="false" SID="SpringCollab2020/1-Beginner/ZZ-HeartSide">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -862,7 +1105,7 @@
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/2-Intermediate">
       <Areas>
-        <AreaStats ID="46" Cassette="false" SID="SpringCollab2020/2-Intermediate/aleph_null">
+        <AreaStats ID="61" Cassette="false" SID="SpringCollab2020/2-Intermediate/aleph_null">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -878,7 +1121,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="47" Cassette="false" SID="SpringCollab2020/2-Intermediate/aridai">
+        <AreaStats ID="62" Cassette="false" SID="SpringCollab2020/2-Intermediate/aridai">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -894,7 +1137,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="48" Cassette="false" SID="SpringCollab2020/2-Intermediate/Bissy">
+        <AreaStats ID="63" Cassette="false" SID="SpringCollab2020/2-Intermediate/Bissy">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -910,7 +1153,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="49" Cassette="false" SID="SpringCollab2020/2-Intermediate/Bonicle">
+        <AreaStats ID="64" Cassette="false" SID="SpringCollab2020/2-Intermediate/Bonicle">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -926,7 +1169,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="50" Cassette="false" SID="SpringCollab2020/2-Intermediate/Clover">
+        <AreaStats ID="65" Cassette="false" SID="SpringCollab2020/2-Intermediate/Clover">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -942,7 +1185,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="51" Cassette="false" SID="SpringCollab2020/2-Intermediate/Donker19">
+        <AreaStats ID="66" Cassette="false" SID="SpringCollab2020/2-Intermediate/Donker19">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -958,7 +1201,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="52" Cassette="false" SID="SpringCollab2020/2-Intermediate/Evilleafy">
+        <AreaStats ID="67" Cassette="false" SID="SpringCollab2020/2-Intermediate/Evilleafy">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -974,7 +1217,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="53" Cassette="false" SID="SpringCollab2020/2-Intermediate/GG19">
+        <AreaStats ID="68" Cassette="false" SID="SpringCollab2020/2-Intermediate/GG19">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -990,7 +1233,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="54" Cassette="false" SID="SpringCollab2020/2-Intermediate/Goat">
+        <AreaStats ID="69" Cassette="false" SID="SpringCollab2020/2-Intermediate/Goat">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1006,7 +1249,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="55" Cassette="false" SID="SpringCollab2020/2-Intermediate/Hallow">
+        <AreaStats ID="70" Cassette="false" SID="SpringCollab2020/2-Intermediate/Hallow">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1022,7 +1265,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="56" Cassette="false" SID="SpringCollab2020/2-Intermediate/hennyburgr">
+        <AreaStats ID="71" Cassette="false" SID="SpringCollab2020/2-Intermediate/hennyburgr">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1038,7 +1281,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="57" Cassette="false" SID="SpringCollab2020/2-Intermediate/iamdadbod">
+        <AreaStats ID="72" Cassette="false" SID="SpringCollab2020/2-Intermediate/iamdadbod">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1054,7 +1297,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="58" Cassette="false" SID="SpringCollab2020/2-Intermediate/Lichtbaulb">
+        <AreaStats ID="73" Cassette="false" SID="SpringCollab2020/2-Intermediate/Lichtbaulb">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1070,7 +1313,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="59" Cassette="false" SID="SpringCollab2020/2-Intermediate/Noax">
+        <AreaStats ID="74" Cassette="false" SID="SpringCollab2020/2-Intermediate/Noax">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1086,7 +1329,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="60" Cassette="false" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer">
+        <AreaStats ID="75" Cassette="false" SID="SpringCollab2020/2-Intermediate/Oppen_Heimer">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1102,7 +1345,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="61" Cassette="false" SID="SpringCollab2020/2-Intermediate/phant">
+        <AreaStats ID="76" Cassette="false" SID="SpringCollab2020/2-Intermediate/phant">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1118,7 +1361,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="62" Cassette="false" SID="SpringCollab2020/2-Intermediate/ProXas">
+        <AreaStats ID="77" Cassette="false" SID="SpringCollab2020/2-Intermediate/ProXas">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1134,7 +1377,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="63" Cassette="false" SID="SpringCollab2020/2-Intermediate/Rocketguy2">
+        <AreaStats ID="78" Cassette="false" SID="SpringCollab2020/2-Intermediate/Rocketguy2">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1150,7 +1393,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="64" Cassette="false" SID="SpringCollab2020/2-Intermediate/SilverStar">
+        <AreaStats ID="79" Cassette="false" SID="SpringCollab2020/2-Intermediate/SilverStar">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1166,7 +1409,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="65" Cassette="false" SID="SpringCollab2020/2-Intermediate/Skeleton">
+        <AreaStats ID="80" Cassette="false" SID="SpringCollab2020/2-Intermediate/Skeleton">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1182,7 +1425,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="66" Cassette="false" SID="SpringCollab2020/2-Intermediate/TheAdvertisement">
+        <AreaStats ID="81" Cassette="false" SID="SpringCollab2020/2-Intermediate/TheAdvertisement">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1198,7 +1441,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="67" Cassette="false" SID="SpringCollab2020/2-Intermediate/Thegur90">
+        <AreaStats ID="82" Cassette="false" SID="SpringCollab2020/2-Intermediate/Thegur90">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1214,7 +1457,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="68" Cassette="false" SID="SpringCollab2020/2-Intermediate/ZZ-HeartSide">
+        <AreaStats ID="83" Cassette="false" SID="SpringCollab2020/2-Intermediate/ZZ-HeartSide">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1237,7 +1480,7 @@
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/3-Advanced">
       <Areas>
-        <AreaStats ID="69" Cassette="false" SID="SpringCollab2020/3-Advanced/_sleepie">
+        <AreaStats ID="84" Cassette="false" SID="SpringCollab2020/3-Advanced/_sleepie">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1253,7 +1496,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="70" Cassette="false" SID="SpringCollab2020/3-Advanced/BeefyUncle">
+        <AreaStats ID="85" Cassette="false" SID="SpringCollab2020/3-Advanced/BeefyUncle">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1269,7 +1512,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="71" Cassette="false" SID="SpringCollab2020/3-Advanced/Bissy">
+        <AreaStats ID="86" Cassette="false" SID="SpringCollab2020/3-Advanced/Bissy">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1285,7 +1528,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="72" Cassette="false" SID="SpringCollab2020/3-Advanced/Cookie">
+        <AreaStats ID="87" Cassette="false" SID="SpringCollab2020/3-Advanced/Cookie">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1301,7 +1544,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="73" Cassette="false" SID="SpringCollab2020/3-Advanced/Dozing">
+        <AreaStats ID="88" Cassette="false" SID="SpringCollab2020/3-Advanced/Dozing">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1317,7 +1560,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="74" Cassette="false" SID="SpringCollab2020/3-Advanced/Ezel">
+        <AreaStats ID="89" Cassette="false" SID="SpringCollab2020/3-Advanced/Ezel">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1333,7 +1576,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="75" Cassette="false" SID="SpringCollab2020/3-Advanced/Galaksyz">
+        <AreaStats ID="90" Cassette="false" SID="SpringCollab2020/3-Advanced/Galaksyz">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1349,7 +1592,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="76" Cassette="false" SID="SpringCollab2020/3-Advanced/Holly">
+        <AreaStats ID="91" Cassette="false" SID="SpringCollab2020/3-Advanced/Holly">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1365,7 +1608,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="77" Cassette="false" SID="SpringCollab2020/3-Advanced/iamdadbod">
+        <AreaStats ID="92" Cassette="false" SID="SpringCollab2020/3-Advanced/iamdadbod">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1381,7 +1624,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="78" Cassette="false" SID="SpringCollab2020/3-Advanced/JaThePlayer">
+        <AreaStats ID="93" Cassette="false" SID="SpringCollab2020/3-Advanced/JaThePlayer">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1397,7 +1640,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="79" Cassette="false" SID="SpringCollab2020/3-Advanced/LinjKarma">
+        <AreaStats ID="94" Cassette="false" SID="SpringCollab2020/3-Advanced/LinjKarma">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1413,7 +1656,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="80" Cassette="false" SID="SpringCollab2020/3-Advanced/NeoKat">
+        <AreaStats ID="95" Cassette="false" SID="SpringCollab2020/3-Advanced/NeoKat">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1429,7 +1672,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="81" Cassette="false" SID="SpringCollab2020/3-Advanced/orbittwz">
+        <AreaStats ID="96" Cassette="false" SID="SpringCollab2020/3-Advanced/orbittwz">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1445,7 +1688,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="82" Cassette="false" SID="SpringCollab2020/3-Advanced/Percussive">
+        <AreaStats ID="97" Cassette="false" SID="SpringCollab2020/3-Advanced/Percussive">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1461,7 +1704,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="83" Cassette="false" SID="SpringCollab2020/3-Advanced/RealVet">
+        <AreaStats ID="98" Cassette="false" SID="SpringCollab2020/3-Advanced/RealVet">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1477,7 +1720,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="84" Cassette="false" SID="SpringCollab2020/3-Advanced/Rufus">
+        <AreaStats ID="99" Cassette="false" SID="SpringCollab2020/3-Advanced/Rufus">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1493,7 +1736,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="85" Cassette="false" SID="SpringCollab2020/3-Advanced/Spoopy">
+        <AreaStats ID="100" Cassette="false" SID="SpringCollab2020/3-Advanced/Spoopy">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1509,7 +1752,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="86" Cassette="false" SID="SpringCollab2020/3-Advanced/taco360">
+        <AreaStats ID="101" Cassette="false" SID="SpringCollab2020/3-Advanced/taco360">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1525,7 +1768,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="87" Cassette="false" SID="SpringCollab2020/3-Advanced/Thegur90">
+        <AreaStats ID="102" Cassette="false" SID="SpringCollab2020/3-Advanced/Thegur90">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1541,7 +1784,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="88" Cassette="false" SID="SpringCollab2020/3-Advanced/Tortoise">
+        <AreaStats ID="103" Cassette="false" SID="SpringCollab2020/3-Advanced/Tortoise">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1557,7 +1800,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="89" Cassette="false" SID="SpringCollab2020/3-Advanced/ZZ-HeartSide">
+        <AreaStats ID="104" Cassette="false" SID="SpringCollab2020/3-Advanced/ZZ-HeartSide">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1580,7 +1823,7 @@
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/4-Expert">
       <Areas>
-        <AreaStats ID="90" Cassette="false" SID="SpringCollab2020/4-Expert/Bissy">
+        <AreaStats ID="105" Cassette="false" SID="SpringCollab2020/4-Expert/Bissy">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1596,7 +1839,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="91" Cassette="false" SID="SpringCollab2020/4-Expert/CANADIAN">
+        <AreaStats ID="106" Cassette="false" SID="SpringCollab2020/4-Expert/CANADIAN">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1612,7 +1855,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="92" Cassette="false" SID="SpringCollab2020/4-Expert/ChaotiC">
+        <AreaStats ID="107" Cassette="false" SID="SpringCollab2020/4-Expert/ChaotiC">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1628,7 +1871,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="93" Cassette="false" SID="SpringCollab2020/4-Expert/dahlukeh">
+        <AreaStats ID="108" Cassette="false" SID="SpringCollab2020/4-Expert/dahlukeh">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1644,7 +1887,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="94" Cassette="false" SID="SpringCollab2020/4-Expert/DeathKontrol">
+        <AreaStats ID="109" Cassette="false" SID="SpringCollab2020/4-Expert/DeathKontrol">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1660,7 +1903,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="95" Cassette="false" SID="SpringCollab2020/4-Expert/deskilln">
+        <AreaStats ID="110" Cassette="false" SID="SpringCollab2020/4-Expert/deskilln">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1676,7 +1919,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="96" Cassette="false" SID="SpringCollab2020/4-Expert/iamdadbod">
+        <AreaStats ID="111" Cassette="false" SID="SpringCollab2020/4-Expert/iamdadbod">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1692,7 +1935,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="97" Cassette="false" SID="SpringCollab2020/4-Expert/Indecx">
+        <AreaStats ID="112" Cassette="false" SID="SpringCollab2020/4-Expert/Indecx">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1708,7 +1951,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="98" Cassette="false" SID="SpringCollab2020/4-Expert/Kube">
+        <AreaStats ID="113" Cassette="false" SID="SpringCollab2020/4-Expert/Kube">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1724,7 +1967,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="99" Cassette="false" SID="SpringCollab2020/4-Expert/LethargicDoggo">
+        <AreaStats ID="114" Cassette="false" SID="SpringCollab2020/4-Expert/LethargicDoggo">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1740,7 +1983,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="100" Cassette="false" SID="SpringCollab2020/4-Expert/Mineman">
+        <AreaStats ID="115" Cassette="false" SID="SpringCollab2020/4-Expert/Mineman">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1756,7 +1999,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="101" Cassette="false" SID="SpringCollab2020/4-Expert/Mun">
+        <AreaStats ID="116" Cassette="false" SID="SpringCollab2020/4-Expert/Mun">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1772,7 +2015,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="102" Cassette="false" SID="SpringCollab2020/4-Expert/RadleyMcTuneston">
+        <AreaStats ID="117" Cassette="false" SID="SpringCollab2020/4-Expert/RadleyMcTuneston">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1788,7 +2031,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="103" Cassette="false" SID="SpringCollab2020/4-Expert/Thegur90">
+        <AreaStats ID="118" Cassette="false" SID="SpringCollab2020/4-Expert/Thegur90">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1804,7 +2047,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="104" Cassette="false" SID="SpringCollab2020/4-Expert/Zerex">
+        <AreaStats ID="119" Cassette="false" SID="SpringCollab2020/4-Expert/Zerex">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1820,7 +2063,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="105" Cassette="false" SID="SpringCollab2020/4-Expert/ZZ-HeartSide">
+        <AreaStats ID="120" Cassette="false" SID="SpringCollab2020/4-Expert/ZZ-HeartSide">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1843,7 +2086,7 @@
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/5-Grandmaster">
       <Areas>
-        <AreaStats ID="106" Cassette="false" SID="SpringCollab2020/5-Grandmaster/1nkFa1c0n">
+        <AreaStats ID="121" Cassette="false" SID="SpringCollab2020/5-Grandmaster/1nkFa1c0n">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1859,7 +2102,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="107" Cassette="false" SID="SpringCollab2020/5-Grandmaster/Bissy">
+        <AreaStats ID="122" Cassette="false" SID="SpringCollab2020/5-Grandmaster/Bissy">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1875,7 +2118,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="108" Cassette="false" SID="SpringCollab2020/5-Grandmaster/BobDole">
+        <AreaStats ID="123" Cassette="false" SID="SpringCollab2020/5-Grandmaster/BobDole">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1891,7 +2134,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="109" Cassette="false" SID="SpringCollab2020/5-Grandmaster/CANADIAN">
+        <AreaStats ID="124" Cassette="false" SID="SpringCollab2020/5-Grandmaster/CANADIAN">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1907,7 +2150,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="110" Cassette="false" SID="SpringCollab2020/5-Grandmaster/Cyber">
+        <AreaStats ID="125" Cassette="false" SID="SpringCollab2020/5-Grandmaster/Cyber">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1923,7 +2166,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="111" Cassette="false" SID="SpringCollab2020/5-Grandmaster/DeathKontrol">
+        <AreaStats ID="126" Cassette="false" SID="SpringCollab2020/5-Grandmaster/DeathKontrol">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1939,7 +2182,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="112" Cassette="false" SID="SpringCollab2020/5-Grandmaster/dog">
+        <AreaStats ID="127" Cassette="false" SID="SpringCollab2020/5-Grandmaster/dog">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1955,7 +2198,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="113" Cassette="false" SID="SpringCollab2020/5-Grandmaster/fishtank_overflow">
+        <AreaStats ID="128" Cassette="false" SID="SpringCollab2020/5-Grandmaster/fishtank_overflow">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1971,7 +2214,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="114" Cassette="false" SID="SpringCollab2020/5-Grandmaster/Hydro0">
+        <AreaStats ID="129" Cassette="false" SID="SpringCollab2020/5-Grandmaster/Hydro0">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -1987,7 +2230,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="115" Cassette="false" SID="SpringCollab2020/5-Grandmaster/iamdadbod">
+        <AreaStats ID="130" Cassette="false" SID="SpringCollab2020/5-Grandmaster/iamdadbod">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -2003,7 +2246,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="116" Cassette="false" SID="SpringCollab2020/5-Grandmaster/Problemstrol">
+        <AreaStats ID="131" Cassette="false" SID="SpringCollab2020/5-Grandmaster/Problemstrol">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -2019,7 +2262,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="117" Cassette="false" SID="SpringCollab2020/5-Grandmaster/TheDavSmasher">
+        <AreaStats ID="132" Cassette="false" SID="SpringCollab2020/5-Grandmaster/TheDavSmasher">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -2035,7 +2278,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="118" Cassette="false" SID="SpringCollab2020/5-Grandmaster/Thegur90">
+        <AreaStats ID="133" Cassette="false" SID="SpringCollab2020/5-Grandmaster/Thegur90">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -2051,7 +2294,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="119" Cassette="false" SID="SpringCollab2020/5-Grandmaster/ZZ-HeartSide">
+        <AreaStats ID="134" Cassette="false" SID="SpringCollab2020/5-Grandmaster/ZZ-HeartSide">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -2067,30 +2310,7 @@
             </AreaModeStats>
           </Modes>
         </AreaStats>
-        <AreaStats ID="120" Cassette="false" SID="SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide">
-          <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-              <Strawberries />
-              <Checkpoints />
-            </AreaModeStats>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-              <Strawberries />
-              <Checkpoints />
-            </AreaModeStats>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-              <Strawberries />
-              <Checkpoints />
-            </AreaModeStats>
-          </Modes>
-        </AreaStats>
-      </Areas>
-      <Poem />
-      <UnlockedAreas>0</UnlockedAreas>
-      <TotalStrawberries>0</TotalStrawberries>
-    </LevelSetStats>
-    <LevelSetStats Name="Procedurline">
-      <Areas>
-        <AreaStats ID="121" Cassette="false" SID="Procedurline/pl_demo_map">
+        <AreaStats ID="135" Cassette="false" SID="SpringCollab2020/5-Grandmaster/ZZ-NewHeartSide">
           <Modes>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -2114,5 +2334,5 @@
   </LevelSets>
   <LevelSetRecycleBin />
   <HasModdedSaveData>true</HasModdedSaveData>
-  <LastArea_Safe ID="5" Mode="Normal" SID="Celeste/5-MirrorTemple" />
+  <LastArea_Safe ID="12" Mode="Normal" SID="nameguysdsidespack/0/0-Prologue" />
 </SaveData>

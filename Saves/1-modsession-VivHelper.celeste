@@ -1,18 +1,21 @@
 AlwaysBreakDashBlockDash: 0
 Blackout: false
 CollectedCoins: {}
+FFDistance: 5
+FPDistance: 30
+MakeClose: false
 customDashState: 
 CurrentBooster: 
 savedCBDController: 
 savedHBController: 
 HasSpeedPower: false
 CanAddSpeed: false
-StoredSpeed: &o0
+StoredSpeed:
   X: 0
   Y: 0
 Facing: Right
 dashCount: 0
-staminaCount: 110
+staminaCount: 0
 ShowIndicator: true
 PreviousLevel: 
 lockCamera: 0
@@ -34,9 +37,3 @@ TeleportState: false
 PausedRetryCheck: false
 EnableRefillCancelSpaceIndicator: true
 DisableMapViewArbitrarySpawn: false
-currentRainbowInfo:
-  Colors: 
-  GradientSize: 0
-  GradientSpeed: 0
-  LoopColors: false
-  Center: *o0
