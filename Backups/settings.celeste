@@ -122,6 +122,7 @@
   <Dash>
     <Keyboard>
       <Keys>M</Keys>
+      <Keys>O</Keys>
     </Keyboard>
     <Controller>
       <Buttons>X</Buttons>
@@ -140,6 +141,7 @@
     <Keyboard>
       <Keys>Enter</Keys>
       <Keys>P</Keys>
+      <Keys>O</Keys>
     </Keyboard>
     <Controller>
       <Buttons>Start</Buttons>
