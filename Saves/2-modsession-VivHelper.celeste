@@ -4,6 +4,8 @@ CollectedCoins: {}
 FFDistance: 5
 FPDistance: 30
 MakeClose: false
+demodashDisabler: Off
+mutedEventsAndFlags: {}
 customDashState: 
 CurrentBooster: 
 savedCBDController: 
@@ -17,7 +19,7 @@ Facing: Right
 dashCount: 0
 staminaCount: 110
 ShowIndicator: true
-PreviousLevel: c-01
+PreviousLevel: d-02
 lockCamera: 0
 LevelInfoCache:
   FILLER:
@@ -195,6 +197,9 @@ LevelInfoCache:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
   f-12:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  FILLER23:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
 DebrisLimiter: 0
