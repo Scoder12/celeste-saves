@@ -4,6 +4,8 @@ CollectedCoins: {}
 FFDistance: 5
 FPDistance: 30
 MakeClose: false
+demodashDisabler: Off
+mutedEventsAndFlags: {}
 customDashState: 
 CurrentBooster: 
 savedCBDController: 
@@ -17,9 +19,12 @@ Facing: Right
 dashCount: 0
 staminaCount: 110
 ShowIndicator: true
-PreviousLevel: a-01
+PreviousLevel: f-08
 lockCamera: 0
 LevelInfoCache:
+  FILLER:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
   FILLER0:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
@@ -35,7 +40,40 @@ LevelInfoCache:
   FILLER12:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
+  FILLER13:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  FILLER14:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  FILLER15:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  FILLER16:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  FILLER17:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  FILLER18:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  FILLER19:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
   FILLER2:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  FILLER20:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  FILLER21:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  FILLER22:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  FILLER23:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
   FILLER3:
@@ -59,73 +97,109 @@ LevelInfoCache:
   FILLER9:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-01:
+  a-00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-02:
+  b-01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-03:
+  b-02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-04:
+  b-03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-05:
+  b-04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-06:
+  b-05:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-07:
+  c-01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-08:
+  c-02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-01s:
+  c-03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-03n:
+  c-04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-04w:
+  c-05:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-05w:
+  d-00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-06:
+  d-01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-07:
+  d-02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  c-01n:
+  d-03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  c-02n:
+  d-04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  c-03n:
+  e-01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  c-04n:
+  e-02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  c-05w:
+  e-03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  c-06w:
+  e-04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  c-07:
+  e-05:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  c-08:
+  e-06:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  c-09:
+  e-07:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  f-01:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  f-02:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  f-03:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  f-04:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  f-05:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  f-06:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  f-07:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  f-08:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  f-09:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  f-10:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  f-11:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  f-12:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
 DebrisLimiter: 0

@@ -938,3 +938,5 @@ CombinedRainbowBerries: []
 SpeedBerryPBs: {}
 SpeedberryOptionMessageShown: true
 RevealMap: false
+PauseVisitingPoints: false
+ShowVisitedPoints: false

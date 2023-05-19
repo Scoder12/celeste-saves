@@ -3,3 +3,5 @@ CassetteJumpFix: false
 SummitGems: []
 RedlessBerries: []
 PlayerWasTired: true
+ExpiringDashRemainingTime: 0
+ExpiringDashFlashThreshold: 0
