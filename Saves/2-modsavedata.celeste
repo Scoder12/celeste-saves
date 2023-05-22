@@ -131,7 +131,7 @@
         </AreaStats>
         <AreaStats ID="17" Cassette="false" SID="nameguysdsidespack/0/5-Temple">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1260" TimePlayed="127125150000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1481" TimePlayed="154925590000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints>
                 <string>c-01</string>
@@ -4518,11 +4518,11 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="17" Mode="Normal" SID="nameguysdsidespack/0/5-Temple" />
-  <CurrentSession_Safe Level="f-09" Time="127037770000" StartedFromBeginning="false" Deaths="1260" Dashes="544" DashesAtLevelStart="544" DeathsInCurrentLevel="53" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0.0004501295" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+  <CurrentSession_Safe Level="f-12" Time="154819850000" StartedFromBeginning="false" Deaths="1481" Dashes="570" DashesAtLevelStart="570" DeathsInCurrentLevel="59" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0.0004501295" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="17" Mode="Normal" SID="nameguysdsidespack/0/5-Temple" />
     <RespawnPoint>
-      <X>15672</X>
-      <Y>-1728</Y>
+      <X>18464</X>
+      <Y>-1688</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/music/remix/05_mirror_temple">
@@ -4586,6 +4586,9 @@
       <string>f-07</string>
       <string>f-08</string>
       <string>f-09</string>
+      <string>f-10</string>
+      <string>f-11</string>
+      <string>f-12</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad>
@@ -4604,6 +4607,12 @@
       <EntityID Key="f-05:10002604" />
       <EntityID Key="f-07:9313" />
       <EntityID Key="f-09:10000277" />
+      <EntityID Key="f-10:10002521" />
+      <EntityID Key="f-11:10000162" />
+      <EntityID Key="f-12:35130" />
+      <EntityID Key="f-12:35153" />
+      <EntityID Key="f-12:35154" />
+      <EntityID Key="f-12:41074" />
     </DoNotLoad>
     <Keys />
     <Counters>
@@ -4634,7 +4643,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>f-09</FurthestSeenLevel>
+    <FurthestSeenLevel>f-12</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
     <RestartedFromGolden>false</RestartedFromGolden>
   </CurrentSession_Safe>
