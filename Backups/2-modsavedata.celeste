@@ -152,7 +152,7 @@
         </AreaStats>
         <AreaStats ID="18" Cassette="false" SID="nameguysdsidespack/0/6-ReflectionD">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="707" TimePlayed="59379130000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1055" TimePlayed="82657060000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints>
                 <string>a-05</string>
@@ -4521,11 +4521,11 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="18" Mode="Normal" SID="nameguysdsidespack/0/6-ReflectionD" />
-  <CurrentSession_Safe Level="a-09" Time="19834410000" StartedFromBeginning="false" Deaths="293" Dashes="26" DashesAtLevelStart="26" DeathsInCurrentLevel="27" InArea="true" StartCheckpoint="a-05" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
+  <CurrentSession_Safe Level="a-11" Time="43106220000" StartedFromBeginning="false" Deaths="641" Dashes="35" DashesAtLevelStart="35" DeathsInCurrentLevel="300" InArea="true" StartCheckpoint="a-05" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
     <Area ID="18" Mode="Normal" SID="nameguysdsidespack/0/6-ReflectionD" />
     <RespawnPoint>
-      <X>1776</X>
-      <Y>-2912</Y>
+      <X>3440</X>
+      <Y>-3008</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/music/lvl6/main">
@@ -4558,6 +4558,8 @@
       <string>a-07</string>
       <string>a-08</string>
       <string>a-09</string>
+      <string>a-10</string>
+      <string>a-11</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
@@ -4592,7 +4594,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>a-09</FurthestSeenLevel>
+    <FurthestSeenLevel>a-11</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
     <RestartedFromGolden>false</RestartedFromGolden>
   </CurrentSession_Safe>
