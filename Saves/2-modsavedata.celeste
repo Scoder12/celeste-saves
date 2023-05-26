@@ -152,10 +152,11 @@
         </AreaStats>
         <AreaStats ID="18" Cassette="false" SID="nameguysdsidespack/0/6-ReflectionD">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1055" TimePlayed="82657060000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1747" TimePlayed="144691760000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints>
                 <string>a-05</string>
+                <string>b-00</string>
               </Checkpoints>
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
@@ -4521,19 +4522,19 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="18" Mode="Normal" SID="nameguysdsidespack/0/6-ReflectionD" />
-  <CurrentSession_Safe Level="a-11" Time="43106220000" StartedFromBeginning="false" Deaths="641" Dashes="35" DashesAtLevelStart="35" DeathsInCurrentLevel="300" InArea="true" StartCheckpoint="a-05" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
+  <CurrentSession_Safe Level="b-09" Time="105128680000" StartedFromBeginning="false" Deaths="1333" Dashes="112" DashesAtLevelStart="112" DeathsInCurrentLevel="165" InArea="true" StartCheckpoint="a-05" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
     <Area ID="18" Mode="Normal" SID="nameguysdsidespack/0/6-ReflectionD" />
     <RespawnPoint>
-      <X>3440</X>
-      <Y>-3008</Y>
+      <X>8512</X>
+      <Y>3848</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/music/lvl6/main">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
-          <MEP Key="layer3" Value="0" />
-          <MEP Key="layer4" Value="0" />
+          <MEP Key="layer3" Value="1" />
+          <MEP Key="layer4" Value="1" />
           <MEP Key="layer6" Value="0" />
         </Parameters>
       </Music>
@@ -4560,6 +4561,18 @@
       <string>a-09</string>
       <string>a-10</string>
       <string>a-11</string>
+      <string>a-12</string>
+      <string>a-13</string>
+      <string>b-00</string>
+      <string>b-01</string>
+      <string>b-02</string>
+      <string>b-03</string>
+      <string>b-04</string>
+      <string>b-05</string>
+      <string>b-06</string>
+      <string>b-07</string>
+      <string>b-08</string>
+      <string>b-09</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
@@ -4594,7 +4607,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>a-11</FurthestSeenLevel>
+    <FurthestSeenLevel>b-09</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
     <RestartedFromGolden>false</RestartedFromGolden>
   </CurrentSession_Safe>
