@@ -2,7 +2,7 @@
 <SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>10358378800000</Time>
+  <Time>10367607420000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>90303</TotalDeaths>
+  <TotalDeaths>90392</TotalDeaths>
   <TotalStrawberries>189</TotalStrawberries>
   <TotalGoldenStrawberries>13</TotalGoldenStrawberries>
-  <TotalJumps>288313</TotalJumps>
-  <TotalWallJumps>99557</TotalWallJumps>
-  <TotalDashes>379336</TotalDashes>
+  <TotalJumps>288497</TotalJumps>
+  <TotalWallJumps>99625</TotalWallJumps>
+  <TotalDashes>379798</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -675,11 +675,12 @@
         </AreaStats>
         <AreaStats ID="18" Cassette="false" SID="nameguysdsidespack/0/6-ReflectionD">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1808" TimePlayed="154415760000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1897" TimePlayed="163644380000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints>
                 <string>a-05</string>
                 <string>b-00</string>
+                <string>boss-01</string>
               </Checkpoints>
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
@@ -5046,14 +5047,14 @@
   </LevelSetRecycleBin>
   <HasModdedSaveData>true</HasModdedSaveData>
   <LastArea_Safe ID="18" Mode="Normal" SID="nameguysdsidespack/0/6-ReflectionD" />
-  <CurrentSession_Safe Level="b-09" Time="114834320000" StartedFromBeginning="false" Deaths="1394" Dashes="112" DashesAtLevelStart="112" DeathsInCurrentLevel="226" InArea="true" StartCheckpoint="a-05" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
+  <CurrentSession_Safe Level="boss-01" Time="124038460000" StartedFromBeginning="false" Deaths="1483" Dashes="204" DashesAtLevelStart="204" DeathsInCurrentLevel="19" InArea="true" StartCheckpoint="a-05" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="0.05" BloomBaseAdd="-3" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="18" Mode="Normal" SID="nameguysdsidespack/0/6-ReflectionD" />
     <RespawnPoint>
-      <X>8512</X>
-      <Y>3848</Y>
+      <X>12656</X>
+      <Y>6648</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/music/lvl6/main">
+      <Music Event="event:/music/lvl2/phone_loop">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
@@ -5097,9 +5098,29 @@
       <string>b-07</string>
       <string>b-08</string>
       <string>b-09</string>
+      <string>b-10</string>
+      <string>b-11</string>
+      <string>b-11s</string>
+      <string>b-12</string>
+      <string>b-13</string>
+      <string>boss-01</string>
     </LevelFlags>
     <Strawberries />
-    <DoNotLoad />
+    <DoNotLoad>
+      <EntityID Key="b-10:3418" />
+      <EntityID Key="b-11:2591" />
+      <EntityID Key="b-13:5959" />
+      <EntityID Key="b-13:6813" />
+      <EntityID Key="b-13:5515" />
+      <EntityID Key="b-13:3151" />
+      <EntityID Key="b-13:8588" />
+      <EntityID Key="b-13:7543" />
+      <EntityID Key="b-13:7503" />
+      <EntityID Key="b-13:7872" />
+      <EntityID Key="b-13:5452" />
+      <EntityID Key="b-13:6928" />
+      <EntityID Key="b-13:5244" />
+    </DoNotLoad>
     <Keys />
     <Counters>
       <Counter key="pushBlocksHit" value="0" />
@@ -5131,7 +5152,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>b-09</FurthestSeenLevel>
+    <FurthestSeenLevel>boss-01</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
     <RestartedFromGolden>false</RestartedFromGolden>
   </CurrentSession_Safe>
