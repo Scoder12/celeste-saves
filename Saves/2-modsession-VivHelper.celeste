@@ -19,7 +19,7 @@ Facing: Right
 dashCount: 0
 staminaCount: 110
 ShowIndicator: true
-PreviousLevel: b-13
+PreviousLevel: boss-02
 lockCamera: 0
 LevelInfoCache:
   FILLER0:

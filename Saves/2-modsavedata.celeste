@@ -152,7 +152,7 @@
         </AreaStats>
         <AreaStats ID="18" Cassette="false" SID="nameguysdsidespack/0/6-ReflectionD">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1897" TimePlayed="163644380000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="2098" TimePlayed="180552920000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints>
                 <string>a-05</string>
@@ -4523,14 +4523,14 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="18" Mode="Normal" SID="nameguysdsidespack/0/6-ReflectionD" />
-  <CurrentSession_Safe Level="boss-01" Time="124038460000" StartedFromBeginning="false" Deaths="1483" Dashes="204" DashesAtLevelStart="204" DeathsInCurrentLevel="19" InArea="true" StartCheckpoint="a-05" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="0.05" BloomBaseAdd="-3" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+  <CurrentSession_Safe Level="boss-03" Time="140940880000" StartedFromBeginning="false" Deaths="1684" Dashes="223" DashesAtLevelStart="223" DeathsInCurrentLevel="79" InArea="true" StartCheckpoint="a-05" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="0.05" BloomBaseAdd="-3" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="18" Mode="Normal" SID="nameguysdsidespack/0/6-ReflectionD" />
     <RespawnPoint>
-      <X>12656</X>
-      <Y>6648</Y>
+      <X>14192</X>
+      <Y>6584</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/music/lvl2/phone_loop">
+      <Music Event="event:/music/lvl6/badeline_fight">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
@@ -4580,6 +4580,8 @@
       <string>b-12</string>
       <string>b-13</string>
       <string>boss-01</string>
+      <string>boss-02</string>
+      <string>boss-03</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad>
@@ -4628,7 +4630,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>boss-01</FurthestSeenLevel>
+    <FurthestSeenLevel>boss-03</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
     <RestartedFromGolden>false</RestartedFromGolden>
   </CurrentSession_Safe>
