@@ -25,16 +25,17 @@ UseKeyboardForTextInput: true
 AutoUpdateModsOnStartup: false
 WarnOnEverestYamlErrors: false
 DiscordRichPresence: true
-DiscordLib: ''
-DiscordID: ''
-DiscordTextInMenu: "\U0001F4CB Menu"
-DiscordTextInGame: "\U0001F5FB ((area)) \U0001F4FC ((side))"
-DiscordSubtextInGame: "((deaths)) x \U0001F480 | ((strawberries)) x \U0001F353"
+DiscordShowIcon: true
+DiscordShowMap: true
+DiscordShowSide: true
+DiscordShowRoom: false
+DiscordShowBerries: true
+DiscordShowDeaths: true
 DebugRCPort: 32270
 QuickRestart: 
 ShowManualTextOnDebugMap: true
 CodeReload_WIP: false
-CurrentVersion: 1.3761.0
+CurrentVersion: 1.4000.0
 CurrentBranch: stable
 LogLevels: {}
 MenuPageUp:
