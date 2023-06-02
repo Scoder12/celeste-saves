@@ -35,7 +35,7 @@ DebugRCPort: 32270
 QuickRestart: 
 ShowManualTextOnDebugMap: true
 CodeReload_WIP: false
-CurrentVersion: 1.3971.0
+CurrentVersion: 1.4000.0
 CurrentBranch: stable
 LogLevels: {}
 MenuPageUp:
