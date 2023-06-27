@@ -159,9 +159,11 @@
         </AreaStats>
         <AreaStats ID="19" Cassette="false" SID="nameguysdsidespack/0/7-Summit">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="183" TimePlayed="6263480000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="184" TimePlayed="6330120000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
-              <Checkpoints />
+              <Checkpoints>
+                <string>b-01</string>
+              </Checkpoints>
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -4385,11 +4387,11 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="19" Mode="Normal" SID="nameguysdsidespack/0/7-Summit" />
-  <CurrentSession_Safe Level="a-04" Time="5890160000" StartedFromBeginning="false" Deaths="177" Dashes="39" DashesAtLevelStart="39" DeathsInCurrentLevel="1" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="oldsite" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
+  <CurrentSession_Safe Level="b-01" Time="5950680000" StartedFromBeginning="false" Deaths="178" Dashes="39" DashesAtLevelStart="39" DeathsInCurrentLevel="2" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="oldsite" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
     <Area ID="19" Mode="Normal" SID="nameguysdsidespack/0/7-Summit" />
     <RespawnPoint>
-      <X>4064</X>
-      <Y>-32</Y>
+      <X>4192</X>
+      <Y>-1072</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/music/remix/07_summit">
@@ -4424,6 +4426,7 @@
       <string>a-02</string>
       <string>a-03</string>
       <string>a-04</string>
+      <string>b-01</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
@@ -4456,7 +4459,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>a-04</FurthestSeenLevel>
+    <FurthestSeenLevel>b-01</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
     <RestartedFromGolden>false</RestartedFromGolden>
   </CurrentSession_Safe>

@@ -2,7 +2,7 @@
 <SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>613780580000</Time>
+  <Time>613847220000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,7 +24,7 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>10424</TotalDeaths>
+  <TotalDeaths>10425</TotalDeaths>
   <TotalStrawberries>0</TotalStrawberries>
   <TotalGoldenStrawberries>0</TotalGoldenStrawberries>
   <TotalJumps>10538</TotalJumps>
@@ -409,9 +409,11 @@
         </AreaStats>
         <AreaStats ID="19" Cassette="false" SID="nameguysdsidespack/0/7-Summit">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="183" TimePlayed="6263480000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="184" TimePlayed="6330120000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
-              <Checkpoints />
+              <Checkpoints>
+                <string>b-01</string>
+              </Checkpoints>
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
@@ -4636,11 +4638,11 @@
   </LevelSetRecycleBin>
   <HasModdedSaveData>true</HasModdedSaveData>
   <LastArea_Safe ID="19" Mode="Normal" SID="nameguysdsidespack/0/7-Summit" />
-  <CurrentSession_Safe Level="a-04" Time="5890160000" StartedFromBeginning="false" Deaths="177" Dashes="39" DashesAtLevelStart="39" DeathsInCurrentLevel="1" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="oldsite" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
+  <CurrentSession_Safe Level="b-01" Time="5950680000" StartedFromBeginning="false" Deaths="178" Dashes="39" DashesAtLevelStart="39" DeathsInCurrentLevel="2" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="oldsite" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
     <Area ID="19" Mode="Normal" SID="nameguysdsidespack/0/7-Summit" />
     <RespawnPoint>
-      <X>4064</X>
-      <Y>-32</Y>
+      <X>4192</X>
+      <Y>-1072</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/music/remix/07_summit">
@@ -4675,6 +4677,7 @@
       <string>a-02</string>
       <string>a-03</string>
       <string>a-04</string>
+      <string>b-01</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
@@ -4707,7 +4710,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>a-04</FurthestSeenLevel>
+    <FurthestSeenLevel>b-01</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
     <RestartedFromGolden>false</RestartedFromGolden>
   </CurrentSession_Safe>
