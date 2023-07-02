@@ -1,4 +1,4 @@
-DebugModeInEverest: false
+DebugModeInEverest: true
 LaunchWithFMODLiveUpdateInEverest: false
 LaunchWithoutIntro: true
 ShowModOptionsInGame: true
