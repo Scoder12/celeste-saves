@@ -19,34 +19,40 @@ Facing: Right
 dashCount: 0
 staminaCount: 110
 ShowIndicator: true
-PreviousLevel: Zerex_05
+PreviousLevel: b-03
 lockCamera: 0
 LevelInfoCache:
-  Zerex_01:
+  FILLER_00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Zerex_02:
+  FILLER_01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Zerex_03:
+  FILLER_02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Zerex_04:
+  a-00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Zerex_05:
+  a-01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Zerex_05b:
+  b-00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Zerex_06:
+  b-01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Zerex_07:
+  b-02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Zerex_FILLER1:
+  b-03:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-04:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-05:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
 DebrisLimiter: 0

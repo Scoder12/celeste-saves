@@ -1,4 +1,4 @@
-DebugModeInEverest: true
+DebugModeInEverest: false
 LaunchWithFMODLiveUpdateInEverest: false
 LaunchWithoutIntro: true
 ShowModOptionsInGame: true
@@ -35,7 +35,7 @@ DebugRCPort: 32270
 QuickRestart: 
 ShowManualTextOnDebugMap: true
 CodeReload_WIP: false
-CurrentVersion: 1.3971.0
+CurrentVersion: 1.4030.0
 CurrentBranch: stable
 LogLevels: {}
 MenuPageUp:
