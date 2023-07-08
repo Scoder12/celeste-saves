@@ -1,6 +1,6 @@
 Enable: true
 RestartChapterAfterGoldenDeath: false
-PreventRestartChapter: true
+PreventRestartChapter: false
 EnableAfterCheckpoint: 1
 GoldenDeath: true
 DisplayType: Icon

@@ -4,6 +4,8 @@ CollectedCoins: {}
 FFDistance: 5
 FPDistance: 30
 MakeClose: false
+demodashDisabler: Off
+mutedEventsAndFlags: {}
 customDashState: 
 CurrentBooster: 
 savedCBDController: 

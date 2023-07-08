@@ -40,7 +40,7 @@
       <Areas>
         <AreaStats ID="12" Cassette="false" SID="DeathKontrol/UltraSkool">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="2724" TimePlayed="157744360000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="2997" TimePlayed="172021640000" BestTime="7605970000" BestFullClearTime="0" BestDashes="56" BestDeaths="153" HeartGem="true">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -55,7 +55,9 @@
           </Modes>
         </AreaStats>
       </Areas>
-      <Poem />
+      <Poem>
+        <string>deathkontrol_ultraskool_a</string>
+      </Poem>
       <UnlockedAreas>0</UnlockedAreas>
       <TotalStrawberries>0</TotalStrawberries>
     </LevelSetStats>
@@ -565,7 +567,7 @@
         </AreaStats>
         <AreaStats ID="41" Cassette="false" SID="SpringCollab2020/0-Lobbies/4-Expert">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="85" TimePlayed="11481800000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="92" TimePlayed="13494600000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1981,7 +1983,7 @@
         </AreaStats>
         <AreaStats ID="120" Cassette="false" SID="SpringCollab2020/4-Expert/Zerex">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="441" TimePlayed="23664000000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="463" TimePlayed="25003430000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4532,15 +4534,15 @@
       <TotalStrawberries>0</TotalStrawberries>
     </LevelSetStats>
   </LevelSetRecycleBin>
-  <LastArea_Safe ID="12" Mode="Normal" SID="DeathKontrol/UltraSkool" />
-  <CurrentSession_Safe Level="b-04" Time="9898930000" StartedFromBeginning="true" Deaths="196" Dashes="39" DashesAtLevelStart="39" DeathsInCurrentLevel="144" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
-    <Area ID="12" Mode="Normal" SID="DeathKontrol/UltraSkool" />
+  <LastArea_Safe ID="120" Mode="Normal" SID="SpringCollab2020/4-Expert/Zerex" />
+  <CurrentSession_Safe Level="Zerex_06" Time="24958890000" StartedFromBeginning="true" Deaths="463" Dashes="64" DashesAtLevelStart="64" DeathsInCurrentLevel="37" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="true" LightingAlphaAdd="0" BloomBaseAdd="2.5" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+    <Area ID="120" Mode="Normal" SID="SpringCollab2020/4-Expert/Zerex" />
     <RespawnPoint>
-      <X>8664</X>
-      <Y>624</Y>
+      <X>2984</X>
+      <Y>-616</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/new_content/music/lvl10/part03">
+      <Music Event="event:/collab2020/zerex">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
@@ -4549,7 +4551,7 @@
           <MEP Key="layer6" Value="0" />
         </Parameters>
       </Music>
-      <Ambience Event="event:/env/amb/05_interior_dark">
+      <Ambience Event="event:/env/amb/01_main">
         <Parameters />
       </Ambience>
       <AmbienceVolume xsi:nil="true" />
@@ -4563,20 +4565,21 @@
     <Flags>
       <string>VH_Photosensitive</string>
       <string>VivHelper/IsPlayerAlive</string>
+      <string>StopFastRestartFlag</string>
+      <string>SpeedrunTool_SavedSate</string>
     </Flags>
     <LevelFlags>
-      <string>a-01</string>
-      <string>b-00</string>
-      <string>b-01</string>
-      <string>b-02</string>
-      <string>b-03</string>
-      <string>b-04</string>
+      <string>Zerex_01</string>
+      <string>Zerex_02</string>
+      <string>Zerex_03</string>
+      <string>Zerex_04</string>
+      <string>Zerex_05</string>
+      <string>Zerex_06</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad />
     <Keys />
     <Counters>
-      <Counter key="blackhole_strength" value="0" />
       <Counter key="pushBlocksHit" value="0" />
     </Counters>
     <SummitGems>
@@ -4587,9 +4590,9 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="12" Cassette="false" SID="DeathKontrol/UltraSkool">
+    <OldStats ID="120" Cassette="false" SID="SpringCollab2020/4-Expert/Zerex">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="2528" TimePlayed="147833700000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
           <Checkpoints />
         </AreaModeStats>
@@ -4604,7 +4607,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>b-04</FurthestSeenLevel>
+    <FurthestSeenLevel>Zerex_06</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
     <RestartedFromGolden>false</RestartedFromGolden>
   </CurrentSession_Safe>
