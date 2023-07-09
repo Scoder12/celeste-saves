@@ -19,34 +19,49 @@ Facing: Right
 dashCount: 0
 staminaCount: 110
 ShowIndicator: true
-PreviousLevel: Zerex_05
+PreviousLevel: Kube_1
 lockCamera: 0
 LevelInfoCache:
-  Zerex_01:
+  Kube_1:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Zerex_02:
+  Kube_2:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Zerex_03:
+  Kube_2x:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Zerex_04:
+  Kube_3:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Zerex_05:
+  Kube_3x:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Zerex_05b:
+  Kube_4:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Zerex_06:
+  Kube_5:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Zerex_07:
+  Kube_5a:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Zerex_FILLER1:
+  Kube_5x:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Kube_6:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Kube_6x:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Kube_7:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Kube_b1:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  Kube_b2:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
 DebrisLimiter: 0

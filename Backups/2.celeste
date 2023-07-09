@@ -2,7 +2,7 @@
 <SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>11640842140000</Time>
+  <Time>11736700890000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>101669</TotalDeaths>
+  <TotalDeaths>102803</TotalDeaths>
   <TotalStrawberries>193</TotalStrawberries>
   <TotalGoldenStrawberries>17</TotalGoldenStrawberries>
-  <TotalJumps>332450</TotalJumps>
-  <TotalWallJumps>112617</TotalWallJumps>
-  <TotalDashes>447255</TotalDashes>
+  <TotalJumps>334627</TotalJumps>
+  <TotalWallJumps>113012</TotalWallJumps>
+  <TotalDashes>449356</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -1097,7 +1097,7 @@
         </AreaStats>
         <AreaStats ID="41" Cassette="false" SID="SpringCollab2020/0-Lobbies/4-Expert">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="92" TimePlayed="13494600000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="105" TimePlayed="16701140000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -2407,8 +2407,10 @@
         </AreaStats>
         <AreaStats ID="114" Cassette="false" SID="SpringCollab2020/4-Expert/Kube">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="24" TimePlayed="2442220000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-              <Strawberries />
+            <AreaModeStats TotalStrawberries="1" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="313" TimePlayed="37902180000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries>
+                <EntityID Key="Kube_3:1406" />
+              </Strawberries>
               <Checkpoints />
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
@@ -2477,9 +2479,11 @@
         </AreaStats>
         <AreaStats ID="118" Cassette="false" SID="SpringCollab2020/4-Expert/RadleyMcTuneston">
           <Modes>
-            <AreaModeStats TotalStrawberries="1" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="146" TimePlayed="11104230000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="3" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="763" TimePlayed="56200470000" BestTime="45057820000" BestFullClearTime="0" BestDashes="95" BestDeaths="617" HeartGem="true">
               <Strawberries>
                 <EntityID Key="?3:702" />
+                <EntityID Key="?6:560" />
+                <EntityID Key="?s:642" />
               </Strawberries>
               <Checkpoints />
             </AreaModeStats>
@@ -2513,7 +2517,7 @@
         </AreaStats>
         <AreaStats ID="120" Cassette="false" SID="SpringCollab2020/4-Expert/Zerex">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="463" TimePlayed="25003430000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="678" TimePlayed="37099440000" BestTime="37048780000" BestFullClearTime="0" BestDashes="91" BestDeaths="678" HeartGem="true">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -2545,8 +2549,8 @@
         </AreaStats>
       </Areas>
       <Poem />
-      <UnlockedAreas>14</UnlockedAreas>
-      <TotalStrawberries>9</TotalStrawberries>
+      <UnlockedAreas>15</UnlockedAreas>
+      <TotalStrawberries>12</TotalStrawberries>
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/5-Grandmaster">
       <Areas>
@@ -5065,15 +5069,15 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <HasModdedSaveData>true</HasModdedSaveData>
-  <LastArea_Safe ID="120" Mode="Normal" SID="SpringCollab2020/4-Expert/Zerex" />
-  <CurrentSession_Safe Level="Zerex_06" Time="24958890000" StartedFromBeginning="true" Deaths="463" Dashes="64" DashesAtLevelStart="64" DeathsInCurrentLevel="37" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="true" LightingAlphaAdd="0" BloomBaseAdd="2.5" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
-    <Area ID="120" Mode="Normal" SID="SpringCollab2020/4-Expert/Zerex" />
+  <LastArea_Safe ID="114" Mode="Normal" SID="SpringCollab2020/4-Expert/Kube" />
+  <CurrentSession_Safe Level="Kube_4" Time="35415420000" StartedFromBeginning="true" Deaths="289" Dashes="70" DashesAtLevelStart="70" DeathsInCurrentLevel="56" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="credits" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+    <Area ID="114" Mode="Normal" SID="SpringCollab2020/4-Expert/Kube" />
     <RespawnPoint>
-      <X>2984</X>
-      <Y>-616</Y>
+      <X>332</X>
+      <Y>344</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/collab2020/zerex">
+      <Music Event="event:/SC2020_Kube_Collab">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
@@ -5082,7 +5086,7 @@
           <MEP Key="layer6" Value="0" />
         </Parameters>
       </Music>
-      <Ambience Event="event:/env/amb/01_main">
+      <Ambience Event="event:/env/amb/06_lake">
         <Parameters />
       </Ambience>
       <AmbienceVolume xsi:nil="true" />
@@ -5096,21 +5100,28 @@
     <Flags>
       <string>VH_Photosensitive</string>
       <string>VivHelper/IsPlayerAlive</string>
+      <string>bird_fly_away_Kube_1</string>
+      <string>switches_Kube_2</string>
       <string>StopFastRestartFlag</string>
       <string>SpeedrunTool_SavedSate</string>
     </Flags>
     <LevelFlags>
-      <string>Zerex_01</string>
-      <string>Zerex_02</string>
-      <string>Zerex_03</string>
-      <string>Zerex_04</string>
-      <string>Zerex_05</string>
-      <string>Zerex_06</string>
+      <string>Kube_1</string>
+      <string>Kube_2</string>
+      <string>Kube_3</string>
+      <string>Kube_4</string>
     </LevelFlags>
-    <Strawberries />
-    <DoNotLoad />
+    <Strawberries>
+      <EntityID Key="Kube_3:1406" />
+    </Strawberries>
+    <DoNotLoad>
+      <EntityID Key="Kube_3:1406" />
+      <EntityID Key="Kube_3:70" />
+      <EntityID Key="Kube_1:27" />
+    </DoNotLoad>
     <Keys />
     <Counters>
+      <Counter key="blackhole_strength" value="0" />
       <Counter key="pushBlocksHit" value="0" />
     </Counters>
     <SummitGems>
@@ -5121,9 +5132,9 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="120" Cassette="false" SID="SpringCollab2020/4-Expert/Zerex">
+    <OldStats ID="114" Cassette="false" SID="SpringCollab2020/4-Expert/Kube">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="24" TimePlayed="2442220000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
           <Checkpoints />
         </AreaModeStats>
@@ -5138,7 +5149,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>Zerex_06</FurthestSeenLevel>
+    <FurthestSeenLevel>Kube_4</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
     <RestartedFromGolden>false</RestartedFromGolden>
   </CurrentSession_Safe>
