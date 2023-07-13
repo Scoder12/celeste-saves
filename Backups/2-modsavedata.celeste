@@ -199,7 +199,7 @@
         </AreaStats>
         <AreaStats ID="20" Cassette="false" SID="nameguysdsidespack/0/7-Summit">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="4125" TimePlayed="290344190000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="4447" TimePlayed="319643860000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints>
                 <string>b-01</string>
@@ -567,7 +567,7 @@
         </AreaStats>
         <AreaStats ID="41" Cassette="false" SID="SpringCollab2020/0-Lobbies/4-Expert">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="105" TimePlayed="16701140000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="114" TimePlayed="18925250000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1760,7 +1760,7 @@
         </AreaStats>
         <AreaStats ID="107" Cassette="false" SID="SpringCollab2020/4-Expert/CANADIAN">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="390" TimePlayed="21832250000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1861,8 +1861,11 @@
         </AreaStats>
         <AreaStats ID="113" Cassette="false" SID="SpringCollab2020/4-Expert/Indecx">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-              <Strawberries />
+            <AreaModeStats TotalStrawberries="2" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="981" TimePlayed="48838450000" BestTime="48793910000" BestFullClearTime="0" BestDashes="78" BestDeaths="981" HeartGem="true">
+              <Strawberries>
+                <EntityID Key="2b:4" />
+                <EntityID Key="5:92" />
+              </Strawberries>
               <Checkpoints />
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
@@ -1877,9 +1880,10 @@
         </AreaStats>
         <AreaStats ID="114" Cassette="false" SID="SpringCollab2020/4-Expert/Kube">
           <Modes>
-            <AreaModeStats TotalStrawberries="1" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="313" TimePlayed="37902180000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="2" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="937" TimePlayed="73311820000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries>
                 <EntityID Key="Kube_3:1406" />
+                <EntityID Key="Kube_5a:1407" />
               </Strawberries>
               <Checkpoints />
             </AreaModeStats>
@@ -2020,7 +2024,7 @@
       </Areas>
       <Poem />
       <UnlockedAreas>15</UnlockedAreas>
-      <TotalStrawberries>12</TotalStrawberries>
+      <TotalStrawberries>15</TotalStrawberries>
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/5-Grandmaster">
       <Areas>
@@ -4538,15 +4542,15 @@
       <TotalStrawberries>0</TotalStrawberries>
     </LevelSetStats>
   </LevelSetRecycleBin>
-  <LastArea_Safe ID="114" Mode="Normal" SID="SpringCollab2020/4-Expert/Kube" />
-  <CurrentSession_Safe Level="Kube_4" Time="35415420000" StartedFromBeginning="true" Deaths="289" Dashes="70" DashesAtLevelStart="70" DeathsInCurrentLevel="56" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="credits" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
-    <Area ID="114" Mode="Normal" SID="SpringCollab2020/4-Expert/Kube" />
+  <LastArea_Safe ID="20" Mode="Normal" SID="nameguysdsidespack/0/7-Summit" />
+  <CurrentSession_Safe Level="d-01" Time="29281310000" StartedFromBeginning="false" Deaths="322" Dashes="0" DashesAtLevelStart="0" DeathsInCurrentLevel="320" InArea="true" StartCheckpoint="d-01" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="oldsite" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+    <Area ID="20" Mode="Normal" SID="nameguysdsidespack/0/7-Summit" />
     <RespawnPoint>
-      <X>332</X>
-      <Y>344</Y>
+      <X>10608</X>
+      <Y>-6968</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/SC2020_Kube_Collab">
+      <Music Event="event:/music/remix/07_summit">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
@@ -4555,42 +4559,30 @@
           <MEP Key="layer6" Value="0" />
         </Parameters>
       </Music>
-      <Ambience Event="event:/env/amb/06_lake">
+      <Ambience Event="event:/env/amb/01_main">
         <Parameters />
       </Ambience>
       <AmbienceVolume xsi:nil="true" />
     </Audio>
     <Inventory>
-      <Dashes>1</Dashes>
+      <Dashes>2</Dashes>
       <DreamDash>true</DreamDash>
-      <Backpack>true</Backpack>
+      <Backpack>false</Backpack>
       <NoRefills>false</NoRefills>
     </Inventory>
     <Flags>
       <string>VH_Photosensitive</string>
       <string>VivHelper/IsPlayerAlive</string>
-      <string>bird_fly_away_Kube_1</string>
-      <string>switches_Kube_2</string>
       <string>StopFastRestartFlag</string>
       <string>SpeedrunTool_SavedSate</string>
     </Flags>
     <LevelFlags>
-      <string>Kube_1</string>
-      <string>Kube_2</string>
-      <string>Kube_3</string>
-      <string>Kube_4</string>
+      <string>d-01</string>
     </LevelFlags>
-    <Strawberries>
-      <EntityID Key="Kube_3:1406" />
-    </Strawberries>
-    <DoNotLoad>
-      <EntityID Key="Kube_3:1406" />
-      <EntityID Key="Kube_3:70" />
-      <EntityID Key="Kube_1:27" />
-    </DoNotLoad>
+    <Strawberries />
+    <DoNotLoad />
     <Keys />
     <Counters>
-      <Counter key="blackhole_strength" value="0" />
       <Counter key="pushBlocksHit" value="0" />
     </Counters>
     <SummitGems>
@@ -4601,11 +4593,15 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="114" Cassette="false" SID="SpringCollab2020/4-Expert/Kube">
+    <OldStats ID="20" Cassette="false" SID="nameguysdsidespack/0/7-Summit">
       <Modes>
-        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="24" TimePlayed="2442220000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+        <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="4125" TimePlayed="290344190000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
-          <Checkpoints />
+          <Checkpoints>
+            <string>b-01</string>
+            <string>c-01</string>
+            <string>d-01</string>
+          </Checkpoints>
         </AreaModeStats>
         <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
@@ -4618,7 +4614,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>Kube_4</FurthestSeenLevel>
+    <FurthestSeenLevel>d-01</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
     <RestartedFromGolden>false</RestartedFromGolden>
   </CurrentSession_Safe>

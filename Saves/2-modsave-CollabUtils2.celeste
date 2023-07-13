@@ -671,6 +671,179 @@ SessionsPerLevel:
       <BeatBestTime>false</BeatBestTime>
       <RestartedFromGolden>false</RestartedFromGolden>
     </Session>
+  SpringCollab2020/4-Expert/Kube: >-
+    <?xml version="1.0"?>
+
+    <Session xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Level="Kube_b1" Time="70806700000" StartedFromBeginning="true" Deaths="913" Dashes="125" DashesAtLevelStart="125" DeathsInCurrentLevel="237" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="credits" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+      <Area ID="114" Mode="Normal" SID="SpringCollab2020/4-Expert/Kube" />
+      <RespawnPoint>
+        <X>2088</X>
+        <Y>-184</Y>
+      </RespawnPoint>
+      <Audio>
+        <Music Event="event:/SC2020_Kube_Collab">
+          <Parameters>
+            <MEP Key="layer1" Value="1" />
+            <MEP Key="layer2" Value="1" />
+            <MEP Key="layer3" Value="0" />
+            <MEP Key="layer4" Value="1" />
+            <MEP Key="layer6" Value="0" />
+          </Parameters>
+        </Music>
+        <Ambience Event="event:/env/amb/06_lake">
+          <Parameters />
+        </Ambience>
+        <AmbienceVolume xsi:nil="true" />
+      </Audio>
+      <Inventory>
+        <Dashes>2</Dashes>
+        <DreamDash>true</DreamDash>
+        <Backpack>true</Backpack>
+        <NoRefills>false</NoRefills>
+      </Inventory>
+      <Flags>
+        <string>VH_Photosensitive</string>
+        <string>VivHelper/IsPlayerAlive</string>
+        <string>bird_fly_away_Kube_1</string>
+        <string>switches_Kube_2</string>
+        <string>StopFastRestartFlag</string>
+        <string>SpeedrunTool_SavedSate</string>
+        <string>torch_Kube_4:485</string>
+        <string>torch_Kube_4:498</string>
+        <string>torch_Kube_4:510</string>
+        <string>torch_Kube_4:495</string>
+        <string>torch_Kube_5:511</string>
+      </Flags>
+      <LevelFlags>
+        <string>Kube_1</string>
+        <string>Kube_2</string>
+        <string>Kube_3</string>
+        <string>Kube_4</string>
+        <string>Kube_5</string>
+        <string>Kube_5a</string>
+        <string>Kube_6</string>
+        <string>Kube_7</string>
+        <string>Kube_b1</string>
+      </LevelFlags>
+      <Strawberries>
+        <EntityID Key="Kube_3:1406" />
+        <EntityID Key="Kube_5a:1407" />
+      </Strawberries>
+      <DoNotLoad>
+        <EntityID Key="Kube_3:1406" />
+        <EntityID Key="Kube_3:70" />
+        <EntityID Key="Kube_1:27" />
+        <EntityID Key="Kube_5a:1407" />
+      </DoNotLoad>
+      <Keys />
+      <Counters>
+        <Counter key="blackhole_strength" value="3" />
+        <Counter key="pushBlocksHit" value="0" />
+      </Counters>
+      <SummitGems>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+      </SummitGems>
+      <OldStats ID="114" Cassette="false" SID="SpringCollab2020/4-Expert/Kube">
+        <Modes>
+          <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="24" TimePlayed="2442220000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <Strawberries />
+            <Checkpoints />
+          </AreaModeStats>
+          <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <Strawberries />
+            <Checkpoints />
+          </AreaModeStats>
+          <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <Strawberries />
+            <Checkpoints />
+          </AreaModeStats>
+        </Modes>
+      </OldStats>
+      <UnlockedCSide>false</UnlockedCSide>
+      <FurthestSeenLevel>Kube_b1</FurthestSeenLevel>
+      <BeatBestTime>false</BeatBestTime>
+      <RestartedFromGolden>false</RestartedFromGolden>
+    </Session>
+  SpringCollab2020/4-Expert/CANADIAN: >-
+    <?xml version="1.0"?>
+
+    <Session xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Level="2b" Time="21793830000" StartedFromBeginning="true" Deaths="390" Dashes="259" DashesAtLevelStart="259" DeathsInCurrentLevel="376" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+      <Area ID="107" Mode="Normal" SID="SpringCollab2020/4-Expert/CANADIAN" />
+      <RespawnPoint>
+        <X>920</X>
+        <Y>576</Y>
+      </RespawnPoint>
+      <Audio>
+        <Music Event="event:/SC2020_Canadian_Expert">
+          <Parameters>
+            <MEP Key="layer1" Value="1" />
+            <MEP Key="layer2" Value="1" />
+            <MEP Key="layer3" Value="0" />
+            <MEP Key="layer4" Value="1" />
+            <MEP Key="layer6" Value="0" />
+          </Parameters>
+        </Music>
+        <Ambience Event="event:/env/amb/01_main">
+          <Parameters />
+        </Ambience>
+        <AmbienceVolume xsi:nil="true" />
+      </Audio>
+      <Inventory>
+        <Dashes>1</Dashes>
+        <DreamDash>true</DreamDash>
+        <Backpack>false</Backpack>
+        <NoRefills>false</NoRefills>
+      </Inventory>
+      <Flags>
+        <string>VH_Photosensitive</string>
+        <string>VivHelper/IsPlayerAlive</string>
+        <string>StopFastRestartFlag</string>
+        <string>SpeedrunTool_SavedSate</string>
+      </Flags>
+      <LevelFlags>
+        <string>1</string>
+        <string>2b</string>
+      </LevelFlags>
+      <Strawberries />
+      <DoNotLoad />
+      <Keys />
+      <Counters>
+        <Counter key="pushBlocksHit" value="0" />
+      </Counters>
+      <SummitGems>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+      </SummitGems>
+      <OldStats ID="107" Cassette="false" SID="SpringCollab2020/4-Expert/CANADIAN">
+        <Modes>
+          <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <Strawberries />
+            <Checkpoints />
+          </AreaModeStats>
+          <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <Strawberries />
+            <Checkpoints />
+          </AreaModeStats>
+          <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <Strawberries />
+            <Checkpoints />
+          </AreaModeStats>
+        </Modes>
+      </OldStats>
+      <UnlockedCSide>false</UnlockedCSide>
+      <FurthestSeenLevel>2b</FurthestSeenLevel>
+      <BeatBestTime>false</BeatBestTime>
+      <RestartedFromGolden>false</RestartedFromGolden>
+    </Session>
 ModSessionsPerLevel:
   SpringCollab2020/3-Advanced/Dozing: {}
   SpringCollab2020/3-Advanced/Spoopy: {}
@@ -681,6 +854,8 @@ ModSessionsPerLevel:
   SpringCollab2020/3-Advanced/JaThePlayer: {}
   StrawberryJam2021/3-Advanced/Indecx: {}
   SpringCollab2020/4-Expert/ChaotiC: {}
+  SpringCollab2020/4-Expert/Kube: {}
+  SpringCollab2020/4-Expert/CANADIAN: {}
 ModSessionsPerLevelBinary:
   SpringCollab2020/3-Advanced/Dozing:
     Everest: V2hhdGV2ZXJFbHNlQ291bnQ6IDEzMzcKQXR0YWNoZWREZWNhbHM6IFtdCg==
@@ -831,6 +1006,38 @@ ModSessionsPerLevelBinary:
     ExtendedVariantMode: VmFyaWFudHNFbmFibGVkVmlhVHJpZ2dlcjoge30KVmFyaWFudHNPdmVycmlkZW5CeVVzZXI6IFtdCkV4dGVuZGVkVmFyaWFudHNXZXJlVXNlZDogZmFsc2UKRGFzaENvdW50T25MYXRlc3RSZXNwYXduOiAwCkV4dGVuZGVkVmFyaWFudHNEaXNwbGF5ZWRPblNjcmVlblZpYVRyaWdnZXI6IGZhbHNlCk92ZXJyaWRkZW5WYXJpYW50c0luUm9vbToge30KUmV2ZXJ0T25MZWF2ZVZhcmlhbnRzQWN0aXZlOiB7fQo=
     FrostHelper: TGlnaHRuaW5nQ29sb3JBOiAKTGlnaHRuaW5nQ29sb3JCOiAKTGlnaHRuaW5nRmlsbENvbG9yOiBmZmZmZmYKTGlnaHRuaW5nRmlsbENvbG9yTXVsdGlwbGllcjogCkJsb29tQ29sb3I6CiAgQjogMjU1CiAgRzogMjU1CiAgUjogMjU1CiAgQTogMjU1CiAgUGFja2VkVmFsdWU6IDQyOTQ5NjcyOTUKUmFpbmJvd0Jsb29tOiBmYWxzZQpTb2Z0RG9Ob3RMb2FkOiBbXQo=
     SpringCollab2020: QWN0aXZlU3BlZWRCYXNlZE11c2ljUGFyYW1zOiB7fQpJY2VQaHlzaWNzRGlzYWJsZWQ6IGZhbHNlCkNvbGxlY3RlZE11bHRpUm9vbVN0cmF3YmVycnlTZWVkczogW10KTWFkZWxpbmVJc1NpbGhvdWV0dGU6IGZhbHNlCkxpZ2h0U291cmNlc0Rpc2FibGVkOiBmYWxzZQpTcGlrZUp1bXBUaHJvdWdoSG9va2VkOiBmYWxzZQo=
+  SpringCollab2020/4-Expert/Kube:
+    Everest: V2hhdGV2ZXJFbHNlQ291bnQ6IDEzMzcKQXR0YWNoZWREZWNhbHM6IFtdCg==
+    AdventureHelper: RHJlYW1CbG9ja3NUb0NvbWJpbmU6IFtdCkRyZWFtQmxvY2tzTm90VG9Db21iaW5lOiBbXQo=
+    CherryHelper: SGFzU2hhZG93RGFzaDogZmFsc2UKU2hhZG93RGFzaEFjdGl2ZTogZmFsc2UKU2FmZUZyb21Sb3Q6IGZhbHNlCg==
+    CommunalHelper: VHJhY2tJbml0aWFsU3RhdGU6IE9uCkNhc3NldHRlSnVtcEZpeDogZmFsc2UKU3VtbWl0R2VtczogW10KUmVkbGVzc0JlcnJpZXM6IFtdClBsYXllcldhc1RpcmVkOiBmYWxzZQpFeHBpcmluZ0Rhc2hSZW1haW5pbmdUaW1lOiAwCkV4cGlyaW5nRGFzaEZsYXNoVGhyZXNob2xkOiAwCg==
+    DJMapHelper: TGFzdE5vUmVmaWxsczogCkxhc3RPdmVycmlkZUhhaXJDb2xvcjogCkJhZGVsaW5lUHJvdGVjdG9yQ29uZmlnOiAKRGVmZWF0ZWRCb3NzOiBmYWxzZQo=
+    FactoryHelper: QmF0dGVyaWVzOiBbXQpQZXJtYW5lbnRseVJlbW92ZWRBY3RpdmF0b3JEYXNoQmxvY2tzOiBbXQpTcGVjaWFsQm94UG9zaXRpb246IApPcmlnaW5hbFNlc3Npb246IApTcGVjaWFsQm94TGV2ZWw6IAo=
+    MoreDasheline: T3ZlcnJpZGVIYWlyQ29sb3JzOiB7fQo=
+    MaxHelpingHand: QWN0aXZlU3BlZWRCYXNlZE11c2ljUGFyYW1zOiB7fQpCbG9vbVN0cmVndGg6IApSYWluYm93U3Bpbm5lckN1cnJlbnRDb2xvcnM6IApTZWVrZXJCYXJyaWVyQ3VycmVudENvbG9yczogCkdsYXNzQmxvY2tDdXJyZW50U2V0dGluZ3M6IApHcmFkaWVudER1c3RJbWFnZVBhdGg6IApHcmFkaWVudER1c3RTY3JvbGxTcGVlZDogMApDYW1lcmFDYXRjaHVwU3BlZWQ6IApNYWRlbGluZUlzU2lsaG91ZXR0ZTogZmFsc2UKSWNlUGh5c2ljc0Rpc2FibGVkOiBmYWxzZQpDb2xsZWN0ZWRNdWx0aVJvb21TdHJhd2JlcnJ5U2VlZHM6IFtdClBpY2tlZFVwRmxhZ1BpY2t1cHM6IFtdCk1hZGVsaW5lSGFzUG9ueXRhaWw6IGZhbHNlCg==
+    ShroomHelper: YmVmb3JlUmVmaWxsRGFzaENvdW50OiAwCmJyb2tlRGFzaExpbWl0SW5Sb29tOiBmYWxzZQpkYXNoZWRUd2ljZTogdHJ1ZQo=
+    VortexHelper: U2Vzc2lvblN3aXRjaEJsb2NrQ29sb3I6IEJsdWUK
+    IsaGrabBag: VmFyaWFudHNfU2F2ZToKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAK
+    ExtendedVariantMode: VmFyaWFudHNFbmFibGVkVmlhVHJpZ2dlcjoge30KVmFyaWFudHNPdmVycmlkZW5CeVVzZXI6IFtdCkV4dGVuZGVkVmFyaWFudHNXZXJlVXNlZDogZmFsc2UKRGFzaENvdW50T25MYXRlc3RSZXNwYXduOiAyCkV4dGVuZGVkVmFyaWFudHNEaXNwbGF5ZWRPblNjcmVlblZpYVRyaWdnZXI6IGZhbHNlCk92ZXJyaWRkZW5WYXJpYW50c0luUm9vbToge30KUmV2ZXJ0T25MZWF2ZVZhcmlhbnRzQWN0aXZlOiB7fQo=
+    FrostHelper: TGlnaHRuaW5nQ29sb3JBOiAKTGlnaHRuaW5nQ29sb3JCOiAKTGlnaHRuaW5nRmlsbENvbG9yOiBmZmZmZmYKTGlnaHRuaW5nRmlsbENvbG9yTXVsdGlwbGllcjogCkJsb29tQ29sb3I6CiAgQjogMjU1CiAgRzogMjU1CiAgUjogMjU1CiAgQTogMjU1CiAgUGFja2VkVmFsdWU6IDQyOTQ5NjcyOTUKUmFpbmJvd0Jsb29tOiBmYWxzZQpTb2Z0RG9Ob3RMb2FkOiBbXQo=
+    SpringCollab2020: QWN0aXZlU3BlZWRCYXNlZE11c2ljUGFyYW1zOiB7fQpJY2VQaHlzaWNzRGlzYWJsZWQ6IGZhbHNlCkNvbGxlY3RlZE11bHRpUm9vbVN0cmF3YmVycnlTZWVkczogW10KTWFkZWxpbmVJc1NpbGhvdWV0dGU6IGZhbHNlCkxpZ2h0U291cmNlc0Rpc2FibGVkOiBmYWxzZQpTcGlrZUp1bXBUaHJvdWdoSG9va2VkOiBmYWxzZQo=
+    VivHelper: QWx3YXlzQnJlYWtEYXNoQmxvY2tEYXNoOiAwCkJsYWNrb3V0OiBmYWxzZQpDb2xsZWN0ZWRDb2luczoge30KRkZEaXN0YW5jZTogNQpGUERpc3RhbmNlOiAzMApNYWtlQ2xvc2U6IGZhbHNlCmRlbW9kYXNoRGlzYWJsZXI6IE9mZgptdXRlZEV2ZW50c0FuZEZsYWdzOiB7fQpjdXN0b21EYXNoU3RhdGU6IApDdXJyZW50Qm9vc3RlcjogCnNhdmVkQ0JEQ29udHJvbGxlcjogCnNhdmVkSEJDb250cm9sbGVyOiAKSGFzU3BlZWRQb3dlcjogZmFsc2UKQ2FuQWRkU3BlZWQ6IGZhbHNlClN0b3JlZFNwZWVkOgogIFg6IDAKICBZOiAwCkZhY2luZzogUmlnaHQKZGFzaENvdW50OiAwCnN0YW1pbmFDb3VudDogMTEwClNob3dJbmRpY2F0b3I6IHRydWUKUHJldmlvdXNMZXZlbDogS3ViZV83CmxvY2tDYW1lcmE6IDAKTGV2ZWxJbmZvQ2FjaGU6CiAgS3ViZV8xOgogICAgTm9SZXNldFJlc3Bhd25zOiB7fQogICAgSW50ZXJSb29tUmVzcGF3blNldDoge30KICBLdWJlXzI6CiAgICBOb1Jlc2V0UmVzcGF3bnM6IHt9CiAgICBJbnRlclJvb21SZXNwYXduU2V0OiB7fQogIEt1YmVfMng6CiAgICBOb1Jlc2V0UmVzcGF3bnM6IHt9CiAgICBJbnRlclJvb21SZXNwYXduU2V0OiB7fQogIEt1YmVfMzoKICAgIE5vUmVzZXRSZXNwYXduczoge30KICAgIEludGVyUm9vbVJlc3Bhd25TZXQ6IHt9CiAgS3ViZV8zeDoKICAgIE5vUmVzZXRSZXNwYXduczoge30KICAgIEludGVyUm9vbVJlc3Bhd25TZXQ6IHt9CiAgS3ViZV80OgogICAgTm9SZXNldFJlc3Bhd25zOiB7fQogICAgSW50ZXJSb29tUmVzcGF3blNldDoge30KICBLdWJlXzU6CiAgICBOb1Jlc2V0UmVzcGF3bnM6IHt9CiAgICBJbnRlclJvb21SZXNwYXduU2V0OiB7fQogIEt1YmVfNWE6CiAgICBOb1Jlc2V0UmVzcGF3bnM6IHt9CiAgICBJbnRlclJvb21SZXNwYXduU2V0OiB7fQogIEt1YmVfNXg6CiAgICBOb1Jlc2V0UmVzcGF3bnM6IHt9CiAgICBJbnRlclJvb21SZXNwYXduU2V0OiB7fQogIEt1YmVfNjoKICAgIE5vUmVzZXRSZXNwYXduczoge30KICAgIEludGVyUm9vbVJlc3Bhd25TZXQ6IHt9CiAgS3ViZV82eDoKICAgIE5vUmVzZXRSZXNwYXduczoge30KICAgIEludGVyUm9vbVJlc3Bhd25TZXQ6IHt9CiAgS3ViZV83OgogICAgTm9SZXNldFJlc3Bhd25zOiB7fQogICAgSW50ZXJSb29tUmVzcGF3blNldDoge30KICBLdWJlX2IxOgogICAgTm9SZXNldFJlc3Bhd25zOiB7fQogICAgSW50ZXJSb29tUmVzcGF3blNldDoge30KICBLdWJlX2IyOgogICAgTm9SZXNldFJlc3Bhd25zOiB7fQogICAgSW50ZXJSb29tUmVzcGF3blNldDoge30KRGVicmlzTGltaXRlcjogMApUZWxlcG9ydFN0YXRlOiBmYWxzZQpQYXVzZWRSZXRyeUNoZWNrOiBmYWxzZQpFbmFibGVSZWZpbGxDYW5jZWxTcGFjZUluZGljYXRvcjogdHJ1ZQpEaXNhYmxlTWFwVmlld0FyYml0cmFyeVNwYXduOiBmYWxzZQo=
+  SpringCollab2020/4-Expert/CANADIAN:
+    Everest: V2hhdGV2ZXJFbHNlQ291bnQ6IDEzMzcKQXR0YWNoZWREZWNhbHM6IFtdCg==
+    AdventureHelper: RHJlYW1CbG9ja3NUb0NvbWJpbmU6IFtdCkRyZWFtQmxvY2tzTm90VG9Db21iaW5lOiBbXQo=
+    CherryHelper: SGFzU2hhZG93RGFzaDogZmFsc2UKU2hhZG93RGFzaEFjdGl2ZTogZmFsc2UKU2FmZUZyb21Sb3Q6IGZhbHNlCg==
+    CommunalHelper: VHJhY2tJbml0aWFsU3RhdGU6IE9uCkNhc3NldHRlSnVtcEZpeDogZmFsc2UKU3VtbWl0R2VtczogW10KUmVkbGVzc0JlcnJpZXM6IFtdClBsYXllcldhc1RpcmVkOiB0cnVlCkV4cGlyaW5nRGFzaFJlbWFpbmluZ1RpbWU6IDAKRXhwaXJpbmdEYXNoRmxhc2hUaHJlc2hvbGQ6IDAK
+    DJMapHelper: TGFzdE5vUmVmaWxsczogCkxhc3RPdmVycmlkZUhhaXJDb2xvcjogCkJhZGVsaW5lUHJvdGVjdG9yQ29uZmlnOiAKRGVmZWF0ZWRCb3NzOiBmYWxzZQo=
+    FactoryHelper: QmF0dGVyaWVzOiBbXQpQZXJtYW5lbnRseVJlbW92ZWRBY3RpdmF0b3JEYXNoQmxvY2tzOiBbXQpTcGVjaWFsQm94UG9zaXRpb246IApPcmlnaW5hbFNlc3Npb246IApTcGVjaWFsQm94TGV2ZWw6IAo=
+    MoreDasheline: T3ZlcnJpZGVIYWlyQ29sb3JzOiB7fQo=
+    MaxHelpingHand: QWN0aXZlU3BlZWRCYXNlZE11c2ljUGFyYW1zOiB7fQpCbG9vbVN0cmVndGg6IApSYWluYm93U3Bpbm5lckN1cnJlbnRDb2xvcnM6IApTZWVrZXJCYXJyaWVyQ3VycmVudENvbG9yczogCkdsYXNzQmxvY2tDdXJyZW50U2V0dGluZ3M6IApHcmFkaWVudER1c3RJbWFnZVBhdGg6IApHcmFkaWVudER1c3RTY3JvbGxTcGVlZDogMApDYW1lcmFDYXRjaHVwU3BlZWQ6IApNYWRlbGluZUlzU2lsaG91ZXR0ZTogZmFsc2UKSWNlUGh5c2ljc0Rpc2FibGVkOiBmYWxzZQpDb2xsZWN0ZWRNdWx0aVJvb21TdHJhd2JlcnJ5U2VlZHM6IFtdClBpY2tlZFVwRmxhZ1BpY2t1cHM6IFtdCk1hZGVsaW5lSGFzUG9ueXRhaWw6IGZhbHNlCg==
+    ShroomHelper: YmVmb3JlUmVmaWxsRGFzaENvdW50OiAwCmJyb2tlRGFzaExpbWl0SW5Sb29tOiBmYWxzZQpkYXNoZWRUd2ljZTogZmFsc2UK
+    VortexHelper: U2Vzc2lvblN3aXRjaEJsb2NrQ29sb3I6IEJsdWUK
+    IsaGrabBag: VmFyaWFudHNfU2F2ZToKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAK
+    ExtendedVariantMode: VmFyaWFudHNFbmFibGVkVmlhVHJpZ2dlcjoge30KVmFyaWFudHNPdmVycmlkZW5CeVVzZXI6IFtdCkV4dGVuZGVkVmFyaWFudHNXZXJlVXNlZDogZmFsc2UKRGFzaENvdW50T25MYXRlc3RSZXNwYXduOiAxCkV4dGVuZGVkVmFyaWFudHNEaXNwbGF5ZWRPblNjcmVlblZpYVRyaWdnZXI6IGZhbHNlCk92ZXJyaWRkZW5WYXJpYW50c0luUm9vbToge30KUmV2ZXJ0T25MZWF2ZVZhcmlhbnRzQWN0aXZlOiB7fQo=
+    FrostHelper: TGlnaHRuaW5nQ29sb3JBOiAKTGlnaHRuaW5nQ29sb3JCOiAKTGlnaHRuaW5nRmlsbENvbG9yOiBmZmZmZmYKTGlnaHRuaW5nRmlsbENvbG9yTXVsdGlwbGllcjogCkJsb29tQ29sb3I6CiAgQjogMjU1CiAgRzogMjU1CiAgUjogMjU1CiAgQTogMjU1CiAgUGFja2VkVmFsdWU6IDQyOTQ5NjcyOTUKUmFpbmJvd0Jsb29tOiBmYWxzZQpTb2Z0RG9Ob3RMb2FkOiBbXQo=
+    SpringCollab2020: QWN0aXZlU3BlZWRCYXNlZE11c2ljUGFyYW1zOiB7fQpJY2VQaHlzaWNzRGlzYWJsZWQ6IGZhbHNlCkNvbGxlY3RlZE11bHRpUm9vbVN0cmF3YmVycnlTZWVkczogW10KTWFkZWxpbmVJc1NpbGhvdWV0dGU6IGZhbHNlCkxpZ2h0U291cmNlc0Rpc2FibGVkOiBmYWxzZQpTcGlrZUp1bXBUaHJvdWdoSG9va2VkOiBmYWxzZQo=
+    VivHelper: QWx3YXlzQnJlYWtEYXNoQmxvY2tEYXNoOiAwCkJsYWNrb3V0OiBmYWxzZQpDb2xsZWN0ZWRDb2luczoge30KRkZEaXN0YW5jZTogNQpGUERpc3RhbmNlOiAzMApNYWtlQ2xvc2U6IGZhbHNlCmRlbW9kYXNoRGlzYWJsZXI6IE9mZgptdXRlZEV2ZW50c0FuZEZsYWdzOiB7fQpjdXN0b21EYXNoU3RhdGU6IApDdXJyZW50Qm9vc3RlcjogCnNhdmVkQ0JEQ29udHJvbGxlcjogCnNhdmVkSEJDb250cm9sbGVyOiAKSGFzU3BlZWRQb3dlcjogZmFsc2UKQ2FuQWRkU3BlZWQ6IGZhbHNlClN0b3JlZFNwZWVkOgogIFg6IDAKICBZOiAwCkZhY2luZzogUmlnaHQKZGFzaENvdW50OiAwCnN0YW1pbmFDb3VudDogMTEwClNob3dJbmRpY2F0b3I6IHRydWUKUHJldmlvdXNMZXZlbDogMQpsb2NrQ2FtZXJhOiAwCkxldmVsSW5mb0NhY2hlOgogIDE6CiAgICBOb1Jlc2V0UmVzcGF3bnM6IHt9CiAgICBJbnRlclJvb21SZXNwYXduU2V0OiB7fQogIDJiOgogICAgTm9SZXNldFJlc3Bhd25zOiB7fQogICAgSW50ZXJSb29tUmVzcGF3blNldDoge30KICAzOgogICAgTm9SZXNldFJlc3Bhd25zOiB7fQogICAgSW50ZXJSb29tUmVzcGF3blNldDoge30KICA0OgogICAgTm9SZXNldFJlc3Bhd25zOiB7fQogICAgSW50ZXJSb29tUmVzcGF3blNldDoge30KICA1YjoKICAgIE5vUmVzZXRSZXNwYXduczoge30KICAgIEludGVyUm9vbVJlc3Bhd25TZXQ6IHt9CiAgNjoKICAgIE5vUmVzZXRSZXNwYXduczoge30KICAgIEludGVyUm9vbVJlc3Bhd25TZXQ6IHt9CiAgNzoKICAgIE5vUmVzZXRSZXNwYXduczoge30KICAgIEludGVyUm9vbVJlc3Bhd25TZXQ6IHt9CkRlYnJpc0xpbWl0ZXI6IDAKVGVsZXBvcnRTdGF0ZTogZmFsc2UKUGF1c2VkUmV0cnlDaGVjazogZmFsc2UKRW5hYmxlUmVmaWxsQ2FuY2VsU3BhY2VJbmRpY2F0b3I6IHRydWUKRGlzYWJsZU1hcFZpZXdBcmJpdHJhcnlTcGF3bjogZmFsc2UK
 VisitedLobbyPositions:
   StrawberryJam2021/0-Lobbies/3-Advanced.a01: AQAAEgAAAFUBFwFcAQ8BVQEHAUcBCAE4AQYBLgEHAT8B+AA1AfkAIgH/ACsB+AA8Ac8APAHEACYB4wAsAdgANAG9ACsBwwAfAcMAFQG/AAEAAAABNA==
   StrawberryJam2021/0-Lobbies/1-Beginner.sj2021beginnerlobby: AQAAYAAAAOsBOwDjAZAA5wFEAOMBTgDfAT4A2QGRAN0BPwDVAV8A1AFVANMBPgDTAVAAzQGQANEBXwDOAXsAyQFEAMIBkADHAWUAxgFvAMYBUADDAVAAvwGEAMIBUQC+AYUAvgF3AL4BWgC8AWYAtwGNALwBTwC1AYAAtwFNALUBbwC2AVEArgFlAKsBTgCoAXwAngF+AKABTwCYAUgAkwF/AI4BRgCIAYIAgwFMAH4BewB3AWcAdAF6AHYBVQBpAYIAagF2AGwBYQBsAVYAagFrAGMBUABXAU8ASQFNADwBTgAyAUwAIgFPABcBUAANAVMAAwFPAPQAUADzAGIA6QBpAOsAVwDlAE4A3wBmANYALQDUAC4A1wA4ANoASQDWADkA1QBrAMwAMADJACwA0QBCAM8AQgDMAGYAxABGAMIAYQC6AEcAswBjAK0AQACpAF8AoAA6AKAAVQCXAEQAlgBcAI0AQQCTAFAAggBEAHIATACJAE8AdQBPAH8ATwB+AFQAfgBUAAIAAAABMgEz
