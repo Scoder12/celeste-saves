@@ -2,6 +2,6 @@ TrackInitialState: On
 CassetteJumpFix: false
 SummitGems: []
 RedlessBerries: []
-PlayerWasTired: false
+PlayerWasTired: true
 ExpiringDashRemainingTime: 0
 ExpiringDashFlashThreshold: 0
