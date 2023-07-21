@@ -19,19 +19,28 @@ Facing: Right
 dashCount: 0
 staminaCount: 0
 ShowIndicator: true
-PreviousLevel: 
+PreviousLevel: 0
 lockCamera: 0
 LevelInfoCache:
-  bridge:
+  -1:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  inside:
+  0:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  outside:
+  0b:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  secret:
+  1:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  2:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  3:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  x1:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
 DebrisLimiter: 0
