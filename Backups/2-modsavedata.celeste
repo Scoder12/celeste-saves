@@ -568,7 +568,7 @@
         </AreaStats>
         <AreaStats ID="41" Cassette="false" SID="SpringCollab2020/0-Lobbies/4-Expert">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="117" TimePlayed="19283100000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="175" TimePlayed="31033500000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1761,8 +1761,10 @@
         </AreaStats>
         <AreaStats ID="107" Cassette="false" SID="SpringCollab2020/4-Expert/CANADIAN">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="390" TimePlayed="21832250000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-              <Strawberries />
+            <AreaModeStats TotalStrawberries="1" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="2643" TimePlayed="150353100000" BestTime="150302440000" BestFullClearTime="0" BestDashes="1001" BestDeaths="2643" HeartGem="true">
+              <Strawberries>
+                <EntityID Key="3:796" />
+              </Strawberries>
               <Checkpoints />
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
@@ -1777,7 +1779,7 @@
         </AreaStats>
         <AreaStats ID="108" Cassette="false" SID="SpringCollab2020/4-Expert/ChaotiC">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="127" TimePlayed="9449280000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="180" TimePlayed="12525600000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -1811,8 +1813,10 @@
         </AreaStats>
         <AreaStats ID="110" Cassette="false" SID="SpringCollab2020/4-Expert/DeathKontrol">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
-              <Strawberries />
+            <AreaModeStats TotalStrawberries="1" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="1607" TimePlayed="124467370000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+              <Strawberries>
+                <EntityID Key="a-01:1200" />
+              </Strawberries>
               <Checkpoints />
             </AreaModeStats>
             <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
@@ -1827,10 +1831,11 @@
         </AreaStats>
         <AreaStats ID="111" Cassette="false" SID="SpringCollab2020/4-Expert/deskilln">
           <Modes>
-            <AreaModeStats TotalStrawberries="2" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="123" TimePlayed="11274740000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="3" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="345" TimePlayed="31058320000" BestTime="30869110000" BestFullClearTime="0" BestDashes="164" BestDeaths="345" HeartGem="true">
               <Strawberries>
                 <EntityID Key="Deskilln_01b:840" />
                 <EntityID Key="Deskilln_01:586" />
+                <EntityID Key="Deskilln_02:712" />
               </Strawberries>
               <Checkpoints />
             </AreaModeStats>
@@ -1884,7 +1889,7 @@
         </AreaStats>
         <AreaStats ID="114" Cassette="false" SID="SpringCollab2020/4-Expert/Kube">
           <Modes>
-            <AreaModeStats TotalStrawberries="2" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="937" TimePlayed="73311820000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="2" Completed="true" SingleRunCompleted="true" FullClear="false" Deaths="1845" TimePlayed="136855100000" BestTime="134337740000" BestFullClearTime="0" BestDashes="153" BestDeaths="1821" HeartGem="true">
               <Strawberries>
                 <EntityID Key="Kube_3:1406" />
                 <EntityID Key="Kube_5a:1407" />
@@ -2028,7 +2033,7 @@
       </Areas>
       <Poem />
       <UnlockedAreas>15</UnlockedAreas>
-      <TotalStrawberries>17</TotalStrawberries>
+      <TotalStrawberries>20</TotalStrawberries>
     </LevelSetStats>
     <LevelSetStats Name="SpringCollab2020/5-Grandmaster">
       <Areas>
@@ -4546,15 +4551,15 @@
       <TotalStrawberries>0</TotalStrawberries>
     </LevelSetStats>
   </LevelSetRecycleBin>
-  <LastArea_Safe ID="111" Mode="Normal" SID="SpringCollab2020/4-Expert/deskilln" />
-  <CurrentSession_Safe Level="Deskilln_01" Time="11242440000" StartedFromBeginning="true" Deaths="123" Dashes="74" DashesAtLevelStart="74" DeathsInCurrentLevel="51" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="hot" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="false">
-    <Area ID="111" Mode="Normal" SID="SpringCollab2020/4-Expert/deskilln" />
+  <LastArea_Safe ID="108" Mode="Normal" SID="SpringCollab2020/4-Expert/ChaotiC" />
+  <CurrentSession_Safe Level="ChaotiC_01" Time="12468820000" StartedFromBeginning="true" Deaths="180" Dashes="40" DashesAtLevelStart="40" DeathsInCurrentLevel="180" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="true">
+    <Area ID="108" Mode="Normal" SID="SpringCollab2020/4-Expert/ChaotiC" />
     <RespawnPoint>
-      <X>688</X>
-      <Y>56</Y>
+      <X>2088</X>
+      <Y>16</Y>
     </RespawnPoint>
     <Audio>
-      <Music Event="event:/SC2020_Deskilln_Collab">
+      <Music Event="event:/collab2020/chaotic">
         <Parameters>
           <MEP Key="layer1" Value="1" />
           <MEP Key="layer2" Value="1" />
@@ -4563,7 +4568,7 @@
           <MEP Key="layer6" Value="0" />
         </Parameters>
       </Music>
-      <Ambience Event="event:/env/amb/09_main">
+      <Ambience Event="event:/env/amb/01_main">
         <Parameters />
       </Ambience>
       <AmbienceVolume xsi:nil="true" />
@@ -4576,24 +4581,16 @@
     </Inventory>
     <Flags>
       <string>VH_Photosensitive</string>
-      <string>VivHelper/IsPlayerAlive</string>
       <string>StopFastRestartFlag</string>
       <string>SpeedrunTool_SavedSate</string>
+      <string>VivHelper/IsPlayerAlive</string>
     </Flags>
     <LevelFlags>
-      <string>Deskilln_Intro</string>
-      <string>Deskilln_00</string>
-      <string>Deskilln_01</string>
-      <string>Deskilln_01b</string>
+      <string>ChaotiC_00</string>
+      <string>ChaotiC_01</string>
     </LevelFlags>
-    <Strawberries>
-      <EntityID Key="Deskilln_01b:840" />
-      <EntityID Key="Deskilln_01:586" />
-    </Strawberries>
-    <DoNotLoad>
-      <EntityID Key="Deskilln_01b:840" />
-      <EntityID Key="Deskilln_01:586" />
-    </DoNotLoad>
+    <Strawberries />
+    <DoNotLoad />
     <Keys />
     <Counters>
       <Counter key="pushBlocksHit" value="0" />
@@ -4606,7 +4603,7 @@
       <boolean>false</boolean>
       <boolean>false</boolean>
     </SummitGems>
-    <OldStats ID="111" Cassette="false" SID="SpringCollab2020/4-Expert/deskilln">
+    <OldStats ID="87" Cassette="false" SID="SpringCollab2020/4-Expert/ChaotiC">
       <Modes>
         <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
           <Strawberries />
@@ -4623,7 +4620,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>Deskilln_01b</FurthestSeenLevel>
+    <FurthestSeenLevel>ChaotiC_01</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
     <RestartedFromGolden>false</RestartedFromGolden>
   </CurrentSession_Safe>

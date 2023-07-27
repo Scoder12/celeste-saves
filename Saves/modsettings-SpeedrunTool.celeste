@@ -6,6 +6,7 @@ TimeSummitFlag: true
 TimeHeartCassette: true
 AutoResetRoomTimer: true
 DisplayRoomGold: true
+RoomTimerExportType: Clipboard
 AutoLoadStateAfterDeath: true
 AutoClearStateOnScreenTransition: false
 FreezeAfterLoadStateType: On

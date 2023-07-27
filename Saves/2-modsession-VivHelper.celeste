@@ -1,11 +1,11 @@
 AlwaysBreakDashBlockDash: 0
 Blackout: false
 CollectedCoins: {}
+OverrideTempleFallX: 
 FFDistance: 5
 FPDistance: 30
 MakeClose: false
 demodashDisabler: Off
-mutedEventsAndFlags: {}
 customDashState: 
 CurrentBooster: 
 savedCBDController: 
@@ -19,49 +19,67 @@ Facing: Right
 dashCount: 0
 staminaCount: 110
 ShowIndicator: true
-PreviousLevel: Deskilln_01b
+PreviousLevel: 
 lockCamera: 0
 LevelInfoCache:
-  Deskilln_00:
+  1:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Deskilln_01:
+  ChaotiC_00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Deskilln_01b:
+  ChaotiC_01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Deskilln_02:
+  ChaotiC_01_berry:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Deskilln_03:
+  ChaotiC_02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Deskilln_04:
+  ChaotiC_02_berry:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Deskilln_Filler1:
+  ChaotiC_03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Deskilln_Filler2:
+  ChaotiC_04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Deskilln_Filler3:
+  ChaotiC_05:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Deskilln_Filler4:
+  ChaotiC_filler_01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Deskilln_Filler5:
+  ChaotiC_filler_02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Deskilln_Filler6:
+  ChaotiC_filler_03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Deskilln_Intro:
+  ChaotiC_filler_04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Deskilln_Outro:
+  ChaotiC_filler_05:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  ChaotiC_filler_06:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  ChaotiC_filler_07:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  ChaotiC_filler_08:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  ChaotiC_filler_09:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  ChaotiC_filler_10:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  ChaotiC_outro:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
 DebrisLimiter: 0
@@ -69,3 +87,4 @@ TeleportState: false
 PausedRetryCheck: false
 EnableRefillCancelSpaceIndicator: true
 DisableMapViewArbitrarySpawn: false
+DisableNeutralsOnHoldable: false
