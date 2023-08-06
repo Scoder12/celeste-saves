@@ -19,67 +19,37 @@ Facing: Right
 dashCount: 0
 staminaCount: 110
 ShowIndicator: true
-PreviousLevel: 
+PreviousLevel: ExHS_01
 lockCamera: 0
 LevelInfoCache:
-  1:
+  ExHS_01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ChaotiC_00:
+  ExHS_02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ChaotiC_01:
+  ExHS_03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ChaotiC_01_berry:
+  ExHS_04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ChaotiC_02:
+  ExHS_05:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ChaotiC_02_berry:
+  ExHS_06:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ChaotiC_03:
+  ExHS_07:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ChaotiC_04:
+  ExHS_FILLER_01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ChaotiC_05:
+  ExHS_Intro:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ChaotiC_filler_01:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  ChaotiC_filler_02:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  ChaotiC_filler_03:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  ChaotiC_filler_04:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  ChaotiC_filler_05:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  ChaotiC_filler_06:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  ChaotiC_filler_07:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  ChaotiC_filler_08:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  ChaotiC_filler_09:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  ChaotiC_filler_10:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  ChaotiC_outro:
+  ExHS_Outro:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
 DebrisLimiter: 0

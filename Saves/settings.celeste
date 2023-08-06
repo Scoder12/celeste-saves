@@ -11,7 +11,7 @@
   <Rumble>true</Rumble>
   <GrabMode>Hold</GrabMode>
   <CrouchDashMode>Press</CrouchDashMode>
-  <MusicVolume>0</MusicVolume>
+  <MusicVolume>6</MusicVolume>
   <SFXVolume>6</SFXVolume>
   <SpeedrunClock>File</SpeedrunClock>
   <LastSaveFile>0</LastSaveFile>

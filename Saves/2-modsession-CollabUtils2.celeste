@@ -1,7 +1,7 @@
 LobbySID: SpringCollab2020/0-Lobbies/4-Expert
 LobbyRoom: 1
-LobbySpawnPointX: 872
-LobbySpawnPointY: 816
+LobbySpawnPointX: -240
+LobbySpawnPointY: 136
 GymExitMapSID: 
 GymExitSaveAllowed: false
 SaveAndReturnToLobbyAllowed: true
