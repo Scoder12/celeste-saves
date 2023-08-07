@@ -1,0 +1,11 @@
+VoicePack: JeffSteitzer
+AnnounceHyperdash: false
+AnnounceWavedash: false
+AnnounceUltradash: false
+AnnounceCornerboost: false
+AnnounceSuperdash: false
+AnnounceWallbounce: false
+AnnounceDemodash: false
+AnnounceNeutralJump: false
+AnnounceFastBubble: false
+AnnounceOther: false

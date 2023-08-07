@@ -1,11 +1,11 @@
 AlwaysBreakDashBlockDash: 0
 Blackout: false
 CollectedCoins: {}
+OverrideTempleFallX: 
 FFDistance: 5
 FPDistance: 30
 MakeClose: false
 demodashDisabler: Off
-mutedEventsAndFlags: {}
 customDashState: 
 CurrentBooster: 
 savedCBDController: 
@@ -19,121 +19,82 @@ Facing: Right
 dashCount: 0
 staminaCount: 110
 ShowIndicator: true
-PreviousLevel: 3
+PreviousLevel: d-00
 lockCamera: 0
 LevelInfoCache:
-  1:
+  a-00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  10:
+  a-01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  10a:
+  a-02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  10z:
+  b-00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  10zb:
+  b-01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  11:
+  b-02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  11z:
+  b-03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  12:
+  b-04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  12a:
+  b-05:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  12z:
+  b-06:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  2:
+  b-07:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  3:
+  b-08:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  3b:
+  b-09:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  4:
+  c-00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  5:
+  c-01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  5a:
+  c-02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  5z:
+  c-03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  6:
+  c-04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  6a:
+  d-00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  6b:
+  d-01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  6c:
+  d-02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  6z:
+  d-03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  6zb:
+  d-04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  7:
+  d-05:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  7a:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  7z:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  7zb:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  8:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  8b:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  8z:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  8zb:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  9:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  9b:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  9c:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  9z:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  end:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  s0:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  s1:
+  start:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
 DebrisLimiter: 0
@@ -141,3 +102,4 @@ TeleportState: false
 PausedRetryCheck: false
 EnableRefillCancelSpaceIndicator: true
 DisableMapViewArbitrarySpawn: false
+DisableNeutralsOnHoldable: false
