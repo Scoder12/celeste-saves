@@ -2,7 +2,7 @@
 <SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Version>1.4.0.0</Version>
   <Name>Madeline</Name>
-  <Time>12882757420000</Time>
+  <Time>12972088170000</Time>
   <LastSave>0001-01-01T00:00:00</LastSave>
   <CheatMode>false</CheatMode>
   <AssistMode>false</AssistMode>
@@ -24,12 +24,12 @@
   </Assists>
   <TheoSisterName>Alex</TheoSisterName>
   <UnlockedAreas>10</UnlockedAreas>
-  <TotalDeaths>118576</TotalDeaths>
+  <TotalDeaths>120302</TotalDeaths>
   <TotalStrawberries>193</TotalStrawberries>
   <TotalGoldenStrawberries>17</TotalGoldenStrawberries>
-  <TotalJumps>358030</TotalJumps>
-  <TotalWallJumps>122723</TotalWallJumps>
-  <TotalDashes>497098</TotalDashes>
+  <TotalJumps>360085</TotalJumps>
+  <TotalWallJumps>122949</TotalWallJumps>
+  <TotalDashes>500280</TotalDashes>
   <Flags>
     <string>MetTheo</string>
     <string>TheoKnowsName</string>
@@ -2494,7 +2494,7 @@
         </AreaStats>
         <AreaStats ID="119" Cassette="false" SID="SpringCollab2020/4-Expert/ZZ-HeartSide">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="2161" TimePlayed="103706630000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="3887" TimePlayed="193037380000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -5085,11 +5085,11 @@
   </LevelSetRecycleBin>
   <HasModdedSaveData>true</HasModdedSaveData>
   <LastArea_Safe ID="119" Mode="Normal" SID="SpringCollab2020/4-Expert/ZZ-HeartSide" />
-  <CurrentSession_Safe Level="ExHS_04" Time="103616190000" StartedFromBeginning="true" Deaths="2161" Dashes="183" DashesAtLevelStart="176" DeathsInCurrentLevel="188" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="true">
+  <CurrentSession_Safe Level="ExHS_06" Time="192904100000" StartedFromBeginning="true" Deaths="3887" Dashes="236" DashesAtLevelStart="236" DeathsInCurrentLevel="70" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="oldsite" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="119" Mode="Normal" SID="SpringCollab2020/4-Expert/ZZ-HeartSide" />
     <RespawnPoint>
-      <X>8024</X>
-      <Y>2208</Y>
+      <X>12920</X>
+      <Y>2168</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/collab2020/heartside_expert">
@@ -5114,7 +5114,6 @@
     </Inventory>
     <Flags>
       <string>VH_Photosensitive</string>
-      <string>VivHelper/IsPlayerAlive</string>
       <string>summit_checkpoint_8</string>
       <string>StopFastRestartFlag</string>
       <string>SpeedrunTool_SavedSate</string>
@@ -5123,6 +5122,27 @@
       <string>experthscore</string>
       <string>summit_checkpoint_5</string>
       <string>summit_checkpoint_4</string>
+      <string>torch_ExHS_04:2129</string>
+      <string>torch_ExHS_04:4248</string>
+      <string>VivHelper/IsPlayerAlive</string>
+      <string>torch_ExHS_04:4108</string>
+      <string>torch_ExHS_04:4245</string>
+      <string>torch_ExHS_04:4246</string>
+      <string>torch_ExHS_04:4247</string>
+      <string>torch_ExHS_04:4107</string>
+      <string>torch_ExHS_04:4242</string>
+      <string>torch_ExHS_04:4243</string>
+      <string>torch_ExHS_04:4244</string>
+      <string>torch_ExHS_04:2074</string>
+      <string>torch_ExHS_04:4249</string>
+      <string>torch_ExHS_04:2064</string>
+      <string>torch_ExHS_04:2079</string>
+      <string>torch_ExHS_04:4250</string>
+      <string>torch_ExHS_04:4252</string>
+      <string>torch_ExHS_04:2126</string>
+      <string>torch_ExHS_04:2128</string>
+      <string>summit_checkpoint_3</string>
+      <string>summit_checkpoint_2</string>
     </Flags>
     <LevelFlags>
       <string>ExHS_Intro</string>
@@ -5130,6 +5150,8 @@
       <string>ExHS_02</string>
       <string>ExHS_03</string>
       <string>ExHS_04</string>
+      <string>ExHS_05</string>
+      <string>ExHS_06</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad>
@@ -5166,7 +5188,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>ExHS_04</FurthestSeenLevel>
+    <FurthestSeenLevel>ExHS_06</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
     <RestartedFromGolden>false</RestartedFromGolden>
   </CurrentSession_Safe>
