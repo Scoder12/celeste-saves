@@ -1964,7 +1964,7 @@
         </AreaStats>
         <AreaStats ID="119" Cassette="false" SID="SpringCollab2020/4-Expert/ZZ-HeartSide">
           <Modes>
-            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="3887" TimePlayed="193037380000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="4861" TimePlayed="236643910000" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
               <Strawberries />
               <Checkpoints />
             </AreaModeStats>
@@ -4554,11 +4554,11 @@
     </LevelSetStats>
   </LevelSetRecycleBin>
   <LastArea_Safe ID="119" Mode="Normal" SID="SpringCollab2020/4-Expert/ZZ-HeartSide" />
-  <CurrentSession_Safe Level="ExHS_06" Time="192904100000" StartedFromBeginning="true" Deaths="3887" Dashes="236" DashesAtLevelStart="236" DeathsInCurrentLevel="70" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="oldsite" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="true">
+  <CurrentSession_Safe Level="ExHS_07" Time="236498390000" StartedFromBeginning="true" Deaths="4861" Dashes="282" DashesAtLevelStart="268" DeathsInCurrentLevel="597" InArea="true" FirstLevel="false" Cassette="false" HeartGem="false" Dreaming="false" ColorGrade="none" LightingAlphaAdd="0" BloomBaseAdd="0.4" DarkRoomAlpha="0.75" CoreMode="Hot" GrabbedGolden="false" HitCheckpoint="true">
     <Area ID="119" Mode="Normal" SID="SpringCollab2020/4-Expert/ZZ-HeartSide" />
     <RespawnPoint>
-      <X>12920</X>
-      <Y>2168</Y>
+      <X>15200</X>
+      <Y>1576</Y>
     </RespawnPoint>
     <Audio>
       <Music Event="event:/collab2020/heartside_expert">
@@ -4612,6 +4612,9 @@
       <string>torch_ExHS_04:2128</string>
       <string>summit_checkpoint_3</string>
       <string>summit_checkpoint_2</string>
+      <string>dadbod_exp_heartside</string>
+      <string>summit_checkpoint_1</string>
+      <string>cold</string>
     </Flags>
     <LevelFlags>
       <string>ExHS_Intro</string>
@@ -4621,6 +4624,7 @@
       <string>ExHS_04</string>
       <string>ExHS_05</string>
       <string>ExHS_06</string>
+      <string>ExHS_07</string>
     </LevelFlags>
     <Strawberries />
     <DoNotLoad>
@@ -4657,7 +4661,7 @@
       </Modes>
     </OldStats>
     <UnlockedCSide>false</UnlockedCSide>
-    <FurthestSeenLevel>ExHS_06</FurthestSeenLevel>
+    <FurthestSeenLevel>ExHS_07</FurthestSeenLevel>
     <BeatBestTime>false</BeatBestTime>
     <RestartedFromGolden>false</RestartedFromGolden>
   </CurrentSession_Safe>
