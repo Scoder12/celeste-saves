@@ -19,91 +19,58 @@ Facing: Right
 dashCount: 0
 staminaCount: 110
 ShowIndicator: true
-PreviousLevel: d-02
+PreviousLevel: 10
 lockCamera: 0
 LevelInfoCache:
-  a-00:
+  00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-01:
+  01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-02:
+  01b:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-03:
+  02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-04:
+  02b:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-05:
+  03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-06:
+  04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-00:
+  05:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-01:
+  06:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-02:
+  07:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-03:
+  08:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-04:
+  08b:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-05:
+  09:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-06:
+  10:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-07:
+  11:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-08:
+  end:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-10:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  c-00:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  c-01:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  c-02:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  c-03:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  c-04:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  d-00:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  d-01:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  d-02:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  d-03:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  d-04:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  d-05:
+  start:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
 DebrisLimiter: 0

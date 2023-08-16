@@ -19,37 +19,43 @@ Facing: Right
 dashCount: 0
 staminaCount: 110
 ShowIndicator: true
-PreviousLevel: ExHS_06
+PreviousLevel: 1nkFa1c0n_01
 lockCamera: 0
 LevelInfoCache:
-  ExHS_01:
+  1nkFa1c0n_00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ExHS_02:
+  1nkFa1c0n_01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ExHS_03:
+  1nkFa1c0n_02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ExHS_04:
+  1nkFa1c0n_03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ExHS_05:
+  1nkFa1c0n_04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ExHS_06:
+  1nkFa1c0n_FILLER0:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ExHS_07:
+  1nkFa1c0n_FILLER1:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ExHS_FILLER_01:
+  1nkFa1c0n_FILLER2:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ExHS_Intro:
+  1nkFa1c0n_FILLER3:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  ExHS_Outro:
+  1nkFa1c0n_berry:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  1nkFa1c0n_end:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  end-granny:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
 DebrisLimiter: 0
