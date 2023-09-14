@@ -6,6 +6,7 @@ OpenedMiniHeartDoors: []
 CombinedRainbowBerries: []
 SpeedBerryPBs: {}
 SpeedberryOptionMessageShown: false
+CompletedWarpPedestalSIDs: []
 RevealMap: false
 PauseVisitingPoints: false
 ShowVisitedPoints: false

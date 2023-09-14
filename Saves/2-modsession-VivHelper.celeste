@@ -19,43 +19,37 @@ Facing: Right
 dashCount: 0
 staminaCount: 110
 ShowIndicator: true
-PreviousLevel: 1nkFa1c0n_01
+PreviousLevel: Bissy_00
 lockCamera: 0
 LevelInfoCache:
-  1nkFa1c0n_00:
+  Bissy_00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  1nkFa1c0n_01:
+  Bissy_01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  1nkFa1c0n_02:
+  Bissy_02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  1nkFa1c0n_03:
+  Bissy_03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  1nkFa1c0n_04:
+  Bissy_04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  1nkFa1c0n_FILLER0:
+  Bissy_05:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  1nkFa1c0n_FILLER1:
+  FILLER_00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  1nkFa1c0n_FILLER2:
+  FILLER_01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  1nkFa1c0n_FILLER3:
+  FILLER_02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  1nkFa1c0n_berry:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  1nkFa1c0n_end:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  end-granny:
+  FILLER_03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
 DebrisLimiter: 0
