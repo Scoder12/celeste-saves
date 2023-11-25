@@ -1,11 +1,14 @@
+dashPowerupManager: 
 AlwaysBreakDashBlockDash: 0
 Blackout: false
 CollectedCoins: {}
 OverrideTempleFallX: 
+StallScreenWipe: false
 FFDistance: 5
 FPDistance: 30
 MakeClose: false
 demodashDisabler: Off
+OrangeSpeed: 220
 customDashState: 
 CurrentBooster: 
 savedCBDController: 

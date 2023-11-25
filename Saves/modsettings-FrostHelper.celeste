@@ -1,3 +1,4 @@
 HookLazyLoading: true
 FastShapeDraw: false
 NoRespawnGC: false
+DebugMapCulling: false

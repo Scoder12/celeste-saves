@@ -1,11 +1,14 @@
+dashPowerupManager: 
 AlwaysBreakDashBlockDash: 0
 Blackout: false
 CollectedCoins: {}
 OverrideTempleFallX: 
+StallScreenWipe: false
 FFDistance: 5
 FPDistance: 30
 MakeClose: false
 demodashDisabler: Off
+OrangeSpeed: 220
 customDashState: 
 CurrentBooster: 
 savedCBDController: 
@@ -19,37 +22,34 @@ Facing: Right
 dashCount: 0
 staminaCount: 110
 ShowIndicator: true
-PreviousLevel: Bissy_00
+PreviousLevel: 
 lockCamera: 0
 LevelInfoCache:
-  Bissy_00:
+  0:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Bissy_01:
+  1:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Bissy_02:
+  1b:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Bissy_03:
+  2:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Bissy_04:
+  3:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  Bissy_05:
+  4:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  5:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  6:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
   FILLER_00:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  FILLER_01:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  FILLER_02:
-    NoResetRespawns: {}
-    InterRoomRespawnSet: {}
-  FILLER_03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
 DebrisLimiter: 0

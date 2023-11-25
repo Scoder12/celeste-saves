@@ -10,3 +10,4 @@ BloomColor:
   PackedValue: 4294967295
 RainbowBloom: false
 SoftDoNotLoad: []
+PersistentIceKeys: []

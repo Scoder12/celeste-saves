@@ -21,3 +21,10 @@ ActivateFlagController:
   Keys:
   - Z
   MouseButtons: []
+DeployElytra:
+  Buttons:
+  - LeftShoulder
+  Keys:
+  - W
+  MouseButtons: []
+RequireGrabToPush: true

@@ -25,6 +25,7 @@ FixCoreRefillDashAfterTeleport: true
 PopupMessageStyle: Tooltip
 AreaCompleteEnableTimerType: Off
 Hotkeys: true
+UnlockCamera: true
 KeyboardToggleHotkeys: []
 KeyboardSaveState:
 - OemSemicolon
