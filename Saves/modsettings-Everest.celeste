@@ -35,8 +35,8 @@ DebugRCPort: 32270
 QuickRestart: 
 ShowManualTextOnDebugMap: true
 CodeReload_WIP: false
-CurrentVersion: 1.4030.0
-CurrentBranch: stable
+CurrentVersion: 1.4436.0
+CurrentBranch: updater_src_stable
 LogLevels: {}
 MenuPageUp:
   Buttons: []
@@ -45,6 +45,11 @@ MenuPageUp:
 MenuPageDown:
   Buttons: []
   Keys: []
+  MouseButtons: []
+ToggleDebugConsole:
+  Buttons: []
+  Keys:
+  - OemTilde
   MouseButtons: []
 DebugConsole:
   Buttons: []

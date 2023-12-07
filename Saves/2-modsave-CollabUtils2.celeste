@@ -1149,6 +1149,75 @@ SessionsPerLevel:
       <BeatBestTime>false</BeatBestTime>
       <RestartedFromGolden>false</RestartedFromGolden>
     </Session>
+  SpringCollab2020/5-Grandmaster/BobDole: >-
+    <?xml version="1.0"?>
+
+    <Session xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Level="0" Time="45220000" StartedFromBeginning="true" Deaths="1" Dashes="0" DashesAtLevelStart="0" DeathsInCurrentLevel="528" InArea="true" FirstLevel="true" Cassette="false" HeartGem="false" Dreaming="false" LightingAlphaAdd="0" BloomBaseAdd="0" DarkRoomAlpha="0.75" CoreMode="None" GrabbedGolden="false" HitCheckpoint="false">
+      <Area ID="123" Mode="Normal" SID="SpringCollab2020/5-Grandmaster/BobDole" />
+      <RespawnPoint>
+        <X>-1352</X>
+        <Y>192</Y>
+      </RespawnPoint>
+      <Audio>
+        <Music Event="event:/SC2020_BobDole_Dustforce">
+          <Parameters>
+            <MEP Key="layer6" Value="0" />
+            <MEP Key="layer3" Value="0" />
+          </Parameters>
+        </Music>
+        <Ambience Event="event:/env/amb/01_main">
+          <Parameters />
+        </Ambience>
+        <AmbienceVolume xsi:nil="true" />
+      </Audio>
+      <Inventory>
+        <Dashes>1</Dashes>
+        <DreamDash>true</DreamDash>
+        <Backpack>true</Backpack>
+        <NoRefills>false</NoRefills>
+      </Inventory>
+      <Flags>
+        <string>VivHelper/IsPlayerAlive</string>
+        <string>VH_Photosensitive</string>
+      </Flags>
+      <LevelFlags>
+        <string>0</string>
+      </LevelFlags>
+      <Strawberries />
+      <DoNotLoad />
+      <Keys />
+      <Counters>
+        <Counter key="pushBlocksHit" value="0" />
+      </Counters>
+      <SummitGems>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+        <boolean>false</boolean>
+      </SummitGems>
+      <OldStats ID="122" Cassette="false" SID="SpringCollab2020/5-Grandmaster/BobDole">
+        <Modes>
+          <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <Strawberries />
+            <Checkpoints />
+          </AreaModeStats>
+          <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <Strawberries />
+            <Checkpoints />
+          </AreaModeStats>
+          <AreaModeStats TotalStrawberries="0" Completed="false" SingleRunCompleted="false" FullClear="false" Deaths="0" TimePlayed="0" BestTime="0" BestFullClearTime="0" BestDashes="0" BestDeaths="0" HeartGem="false">
+            <Strawberries />
+            <Checkpoints />
+          </AreaModeStats>
+        </Modes>
+      </OldStats>
+      <UnlockedCSide>false</UnlockedCSide>
+      <FurthestSeenLevel>0</FurthestSeenLevel>
+      <BeatBestTime>false</BeatBestTime>
+      <RestartedFromGolden>false</RestartedFromGolden>
+    </Session>
 ModSessionsPerLevel:
   SpringCollab2020/3-Advanced/Dozing: {}
   SpringCollab2020/3-Advanced/Spoopy: {}
@@ -1165,6 +1234,7 @@ ModSessionsPerLevel:
   SpringCollab2020/5-Grandmaster/Bissy: {}
   SpringCollab2020/5-Grandmaster/Thegur90: {}
   SpringCollab2020/5-Grandmaster/Hydro0: {}
+  SpringCollab2020/5-Grandmaster/BobDole: {}
 ModSessionsPerLevelBinary:
   SpringCollab2020/3-Advanced/Dozing:
     Everest: V2hhdGV2ZXJFbHNlQ291bnQ6IDEzMzcKQXR0YWNoZWREZWNhbHM6IFtdCg==
@@ -1416,6 +1486,22 @@ ModSessionsPerLevelBinary:
     MaxHelpingHand: QWN0aXZlU3BlZWRCYXNlZE11c2ljUGFyYW1zOiB7fQpCbG9vbVN0cmVndGg6IApSYWluYm93U3Bpbm5lckN1cnJlbnRDb2xvcnM6IApTZWVrZXJCYXJyaWVyQ3VycmVudENvbG9yczogCkdsYXNzQmxvY2tDdXJyZW50U2V0dGluZ3M6IApHcmFkaWVudER1c3RJbWFnZVBhdGg6IApHcmFkaWVudER1c3RTY3JvbGxTcGVlZDogMApDYW1lcmFDYXRjaHVwU3BlZWQ6IApNYWRlbGluZUlzU2lsaG91ZXR0ZTogZmFsc2UKSWNlUGh5c2ljc0Rpc2FibGVkOiBmYWxzZQpDb2xsZWN0ZWRNdWx0aVJvb21TdHJhd2JlcnJ5U2VlZHM6IFtdClBpY2tlZFVwRmxhZ1BpY2t1cHM6IFtdCk1hZGVsaW5lSGFzUG9ueXRhaWw6IGZhbHNlCg==
     SpringCollab2020: QWN0aXZlU3BlZWRCYXNlZE11c2ljUGFyYW1zOiB7fQpJY2VQaHlzaWNzRGlzYWJsZWQ6IGZhbHNlCkNvbGxlY3RlZE11bHRpUm9vbVN0cmF3YmVycnlTZWVkczogW10KTWFkZWxpbmVJc1NpbGhvdWV0dGU6IGZhbHNlCkxpZ2h0U291cmNlc0Rpc2FibGVkOiBmYWxzZQpTcGlrZUp1bXBUaHJvdWdoSG9va2VkOiBmYWxzZQo=
     VivHelper: ZGFzaFBvd2VydXBNYW5hZ2VyOiAKQWx3YXlzQnJlYWtEYXNoQmxvY2tEYXNoOiAwCkJsYWNrb3V0OiBmYWxzZQpDb2xsZWN0ZWRDb2luczoge30KT3ZlcnJpZGVUZW1wbGVGYWxsWDogClN0YWxsU2NyZWVuV2lwZTogZmFsc2UKRkZEaXN0YW5jZTogNQpGUERpc3RhbmNlOiAzMApNYWtlQ2xvc2U6IGZhbHNlCmRlbW9kYXNoRGlzYWJsZXI6IE9mZgpPcmFuZ2VTcGVlZDogMjIwCmN1c3RvbURhc2hTdGF0ZTogCkN1cnJlbnRCb29zdGVyOiAKc2F2ZWRDQkRDb250cm9sbGVyOiAKc2F2ZWRIQkNvbnRyb2xsZXI6IApIYXNTcGVlZFBvd2VyOiBmYWxzZQpDYW5BZGRTcGVlZDogZmFsc2UKU3RvcmVkU3BlZWQ6CiAgWDogMAogIFk6IDAKRmFjaW5nOiBSaWdodApkYXNoQ291bnQ6IDAKc3RhbWluYUNvdW50OiAxMTAKU2hvd0luZGljYXRvcjogdHJ1ZQpQcmV2aW91c0xldmVsOiBoeWRyb18wMApsb2NrQ2FtZXJhOiAwCkxldmVsSW5mb0NhY2hlOgogIGZpbGxlcjE6CiAgICBOb1Jlc2V0UmVzcGF3bnM6IHt9CiAgICBJbnRlclJvb21SZXNwYXduU2V0OiB7fQogIGh5ZHJvXzAwOgogICAgTm9SZXNldFJlc3Bhd25zOiB7fQogICAgSW50ZXJSb29tUmVzcGF3blNldDoge30KICBoeWRyb18wMToKICAgIE5vUmVzZXRSZXNwYXduczoge30KICAgIEludGVyUm9vbVJlc3Bhd25TZXQ6IHt9CiAgaHlkcm9fMDI6CiAgICBOb1Jlc2V0UmVzcGF3bnM6IHt9CiAgICBJbnRlclJvb21SZXNwYXduU2V0OiB7fQogIGh5ZHJvXzAzOgogICAgTm9SZXNldFJlc3Bhd25zOiB7fQogICAgSW50ZXJSb29tUmVzcGF3blNldDoge30KICBoeWRyb19iZXJyeToKICAgIE5vUmVzZXRSZXNwYXduczoge30KICAgIEludGVyUm9vbVJlc3Bhd25TZXQ6IHt9CiAgaHlkcm9fb3V0cm86CiAgICBOb1Jlc2V0UmVzcGF3bnM6IHt9CiAgICBJbnRlclJvb21SZXNwYXduU2V0OiB7fQpEZWJyaXNMaW1pdGVyOiAwClRlbGVwb3J0U3RhdGU6IGZhbHNlClBhdXNlZFJldHJ5Q2hlY2s6IGZhbHNlCkVuYWJsZVJlZmlsbENhbmNlbFNwYWNlSW5kaWNhdG9yOiB0cnVlCkRpc2FibGVNYXBWaWV3QXJiaXRyYXJ5U3Bhd246IGZhbHNlCkRpc2FibGVOZXV0cmFsc09uSG9sZGFibGU6IGZhbHNlCg==
+  SpringCollab2020/5-Grandmaster/BobDole:
+    Everest: V2hhdGV2ZXJFbHNlQ291bnQ6IDEzMzcKQXR0YWNoZWREZWNhbHM6IFtdCg==
+    AdventureHelper: RHJlYW1CbG9ja3NUb0NvbWJpbmU6IFtdCkRyZWFtQmxvY2tzTm90VG9Db21iaW5lOiBbXQo=
+    CherryHelper: SGFzU2hhZG93RGFzaDogZmFsc2UKU2hhZG93RGFzaEFjdGl2ZTogZmFsc2UKU2FmZUZyb21Sb3Q6IGZhbHNlCg==
+    CommunalHelper: VHJhY2tJbml0aWFsU3RhdGU6IE9uCkNhc3NldHRlSnVtcEZpeDogZmFsc2UKU3VtbWl0R2VtczogW10KUmVkbGVzc0JlcnJpZXM6IFtdClBsYXllcldhc1RpcmVkOiBmYWxzZQpFeHBpcmluZ0Rhc2hSZW1haW5pbmdUaW1lOiAwCkV4cGlyaW5nRGFzaEZsYXNoVGhyZXNob2xkOiAwCkNhbkRlcGxveUVseXRyYTogZmFsc2UK
+    DJMapHelper: TGFzdE5vUmVmaWxsczogCkxhc3RPdmVycmlkZUhhaXJDb2xvcjogCkJhZGVsaW5lUHJvdGVjdG9yQ29uZmlnOiAKRGVmZWF0ZWRCb3NzOiBmYWxzZQo=
+    FactoryHelper: QmF0dGVyaWVzOiBbXQpQZXJtYW5lbnRseVJlbW92ZWRBY3RpdmF0b3JEYXNoQmxvY2tzOiBbXQpTcGVjaWFsQm94UG9zaXRpb246IApPcmlnaW5hbFNlc3Npb246IApTcGVjaWFsQm94TGV2ZWw6IAo=
+    MoreDasheline: T3ZlcnJpZGVIYWlyQ29sb3JzOiB7fQo=
+    ShroomHelper: YmVmb3JlUmVmaWxsRGFzaENvdW50OiAwCmJyb2tlRGFzaExpbWl0SW5Sb29tOiBmYWxzZQpkYXNoZWRUd2ljZTogZmFsc2UK
+    VortexHelper: U2Vzc2lvblN3aXRjaEJsb2NrQ29sb3I6IEJsdWUK
+    IsaGrabBag: VmFyaWFudHNfU2F2ZToKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAKLSAK
+    ExtendedVariantMode: VmFyaWFudHNFbmFibGVkVmlhVHJpZ2dlcjoge30KVmFyaWFudHNPdmVycmlkZW5CeVVzZXI6IFtdCkV4dGVuZGVkVmFyaWFudHNXZXJlVXNlZDogZmFsc2UKRGFzaENvdW50T25MYXRlc3RSZXNwYXduOiAxCkV4dGVuZGVkVmFyaWFudHNEaXNwbGF5ZWRPblNjcmVlblZpYVRyaWdnZXI6IGZhbHNlCk92ZXJyaWRkZW5WYXJpYW50c0luUm9vbToge30KUmV2ZXJ0T25MZWF2ZVZhcmlhbnRzQWN0aXZlOiB7fQo=
+    FrostHelper: TGlnaHRuaW5nQ29sb3JBOiAKTGlnaHRuaW5nQ29sb3JCOiAKTGlnaHRuaW5nRmlsbENvbG9yOiBmZmZmZmYKTGlnaHRuaW5nRmlsbENvbG9yTXVsdGlwbGllcjogCkJsb29tQ29sb3I6CiAgQjogMjU1CiAgRzogMjU1CiAgUjogMjU1CiAgQTogMjU1CiAgUGFja2VkVmFsdWU6IDQyOTQ5NjcyOTUKUmFpbmJvd0Jsb29tOiBmYWxzZQpTb2Z0RG9Ob3RMb2FkOiBbXQpQZXJzaXN0ZW50SWNlS2V5czogW10K
+    MaxHelpingHand: QWN0aXZlU3BlZWRCYXNlZE11c2ljUGFyYW1zOiB7fQpCbG9vbVN0cmVndGg6IApSYWluYm93U3Bpbm5lckN1cnJlbnRDb2xvcnM6IApTZWVrZXJCYXJyaWVyQ3VycmVudENvbG9yczogCkdsYXNzQmxvY2tDdXJyZW50U2V0dGluZ3M6IApHcmFkaWVudER1c3RJbWFnZVBhdGg6IApHcmFkaWVudER1c3RTY3JvbGxTcGVlZDogMApDYW1lcmFDYXRjaHVwU3BlZWQ6IApNYWRlbGluZUlzU2lsaG91ZXR0ZTogZmFsc2UKSWNlUGh5c2ljc0Rpc2FibGVkOiBmYWxzZQpDb2xsZWN0ZWRNdWx0aVJvb21TdHJhd2JlcnJ5U2VlZHM6IFtdClBpY2tlZFVwRmxhZ1BpY2t1cHM6IFtdCk1hZGVsaW5lSGFzUG9ueXRhaWw6IGZhbHNlCg==
+    SpringCollab2020: QWN0aXZlU3BlZWRCYXNlZE11c2ljUGFyYW1zOiB7fQpJY2VQaHlzaWNzRGlzYWJsZWQ6IGZhbHNlCkNvbGxlY3RlZE11bHRpUm9vbVN0cmF3YmVycnlTZWVkczogW10KTWFkZWxpbmVJc1NpbGhvdWV0dGU6IHRydWUKTGlnaHRTb3VyY2VzRGlzYWJsZWQ6IHRydWUKU3Bpa2VKdW1wVGhyb3VnaEhvb2tlZDogZmFsc2UK
+    VivHelper: ZGFzaFBvd2VydXBNYW5hZ2VyOiAKQWx3YXlzQnJlYWtEYXNoQmxvY2tEYXNoOiAwCkJsYWNrb3V0OiBmYWxzZQpDb2xsZWN0ZWRDb2luczoge30KT3ZlcnJpZGVUZW1wbGVGYWxsWDogClN0YWxsU2NyZWVuV2lwZTogZmFsc2UKRkZEaXN0YW5jZTogNQpGUERpc3RhbmNlOiAzMApNYWtlQ2xvc2U6IGZhbHNlCmRlbW9kYXNoRGlzYWJsZXI6IE9mZgpPcmFuZ2VTcGVlZDogMjIwCmN1c3RvbURhc2hTdGF0ZTogCkN1cnJlbnRCb29zdGVyOiAKc2F2ZWRDQkRDb250cm9sbGVyOiAKc2F2ZWRIQkNvbnRyb2xsZXI6IApIYXNTcGVlZFBvd2VyOiBmYWxzZQpDYW5BZGRTcGVlZDogZmFsc2UKU3RvcmVkU3BlZWQ6CiAgWDogMAogIFk6IDAKRmFjaW5nOiBSaWdodApkYXNoQ291bnQ6IDAKc3RhbWluYUNvdW50OiAxMTAKU2hvd0luZGljYXRvcjogdHJ1ZQpQcmV2aW91c0xldmVsOiAKbG9ja0NhbWVyYTogMApMZXZlbEluZm9DYWNoZToKICAwOgogICAgTm9SZXNldFJlc3Bhd25zOiB7fQogICAgSW50ZXJSb29tUmVzcGF3blNldDoge30KICAxOgogICAgTm9SZXNldFJlc3Bhd25zOiB7fQogICAgSW50ZXJSb29tUmVzcGF3blNldDoge30KICAxYjoKICAgIE5vUmVzZXRSZXNwYXduczoge30KICAgIEludGVyUm9vbVJlc3Bhd25TZXQ6IHt9CiAgMjoKICAgIE5vUmVzZXRSZXNwYXduczoge30KICAgIEludGVyUm9vbVJlc3Bhd25TZXQ6IHt9CiAgMzoKICAgIE5vUmVzZXRSZXNwYXduczoge30KICAgIEludGVyUm9vbVJlc3Bhd25TZXQ6IHt9CiAgNDoKICAgIE5vUmVzZXRSZXNwYXduczoge30KICAgIEludGVyUm9vbVJlc3Bhd25TZXQ6IHt9CiAgNToKICAgIE5vUmVzZXRSZXNwYXduczoge30KICAgIEludGVyUm9vbVJlc3Bhd25TZXQ6IHt9CiAgNjoKICAgIE5vUmVzZXRSZXNwYXduczoge30KICAgIEludGVyUm9vbVJlc3Bhd25TZXQ6IHt9CiAgRklMTEVSXzAwOgogICAgTm9SZXNldFJlc3Bhd25zOiB7fQogICAgSW50ZXJSb29tUmVzcGF3blNldDoge30KRGVicmlzTGltaXRlcjogMApUZWxlcG9ydFN0YXRlOiBmYWxzZQpQYXVzZWRSZXRyeUNoZWNrOiBmYWxzZQpFbmFibGVSZWZpbGxDYW5jZWxTcGFjZUluZGljYXRvcjogdHJ1ZQpEaXNhYmxlTWFwVmlld0FyYml0cmFyeVNwYXduOiBmYWxzZQpEaXNhYmxlTmV1dHJhbHNPbkhvbGRhYmxlOiBmYWxzZQo=
 VisitedLobbyPositions:
   StrawberryJam2021/0-Lobbies/3-Advanced.a01: AQAAEgAAAFUBFwFcAQ8BVQEHAUcBCAE4AQYBLgEHAT8B+AA1AfkAIgH/ACsB+AA8Ac8APAHEACYB4wAsAdgANAG9ACsBwwAfAcMAFQG/AAEAAAABNA==
   StrawberryJam2021/0-Lobbies/1-Beginner.sj2021beginnerlobby: AQAAYAAAAOsBOwDjAZAA5wFEAOMBTgDfAT4A2QGRAN0BPwDVAV8A1AFVANMBPgDTAVAAzQGQANEBXwDOAXsAyQFEAMIBkADHAWUAxgFvAMYBUADDAVAAvwGEAMIBUQC+AYUAvgF3AL4BWgC8AWYAtwGNALwBTwC1AYAAtwFNALUBbwC2AVEArgFlAKsBTgCoAXwAngF+AKABTwCYAUgAkwF/AI4BRgCIAYIAgwFMAH4BewB3AWcAdAF6AHYBVQBpAYIAagF2AGwBYQBsAVYAagFrAGMBUABXAU8ASQFNADwBTgAyAUwAIgFPABcBUAANAVMAAwFPAPQAUADzAGIA6QBpAOsAVwDlAE4A3wBmANYALQDUAC4A1wA4ANoASQDWADkA1QBrAMwAMADJACwA0QBCAM8AQgDMAGYAxABGAMIAYQC6AEcAswBjAK0AQACpAF8AoAA6AKAAVQCXAEQAlgBcAI0AQQCTAFAAggBEAHIATACJAE8AdQBPAH8ATwB+AFQAfgBUAAIAAAABMgEz

@@ -1,7 +1,7 @@
-LobbySID: SpringCollab2020/0-Lobbies/5-Grandmaster
-LobbyRoom: 1
-LobbySpawnPointX: 2468
-LobbySpawnPointY: 504
+LobbySID: 
+LobbyRoom: 
+LobbySpawnPointX: 0
+LobbySpawnPointY: 0
 GymExitMapSID: 
 GymExitSaveAllowed: false
-SaveAndReturnToLobbyAllowed: true
+SaveAndReturnToLobbyAllowed: false
