@@ -11,7 +11,7 @@ ExpiringDashRemainingTime: 0
 ExpiringDashFlashThreshold: 0
 DashSequenceDisplay: 
 RainDensityData:
-  Density: 1
+  Density: 0.200000003
   StartDensity: 1
-  EndDensity: 1
-  Duration: 0
+  EndDensity: 0.200000003
+  Duration: 0.00999999978

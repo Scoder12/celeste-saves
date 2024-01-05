@@ -27,4 +27,5 @@ DeployElytra:
   Keys:
   - W
   MouseButtons: []
+ElytraMode: Hold
 RequireGrabToPush: true

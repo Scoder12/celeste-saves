@@ -1,7 +1,7 @@
 Enable: true
 RestartChapterAfterGoldenDeath: false
 PreventRestartChapter: false
-EnableAfterCheckpoint: 3
+EnableAfterCheckpoint: 1
 GoldenDeath: true
 DisplayType: Icon
 MakeGoldenStrawberriesTransparentIfClose: true

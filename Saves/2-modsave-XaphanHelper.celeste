@@ -3,6 +3,8 @@ GlobalFlags:
 - StrawberryJam2021/0-Lobbies_Ch0_sj2021_adv_gym_bubble
 - StrawberryJam2021/0-Lobbies_Ch0_sj2021_beg_gym_bubble
 - StrawberryJam2021/0-Lobbies_Ch0_sj2021_exp_gym_bubble
+- StrawberryJam2021/0-Lobbies_Ch0_sj2021_int_gym_bubble
+- StrawberryJam2021/0-Lobbies_Ch0_sj2021_gm_gym_bubble
 WatchedCutscenes: []
 VisitedChapters: []
 VisitedRooms: []
@@ -64,11 +66,13 @@ CountdownSpawn: &o0
   Y: 0
 CountdownIntroType: false
 CountdownUseLevelWipe: false
+CountdownHideFlag: ''
+CountdownEventsFlags: ''
 TeleportFromElevator: false
 DestinationRoom: ''
 Spawn: *o0
 Wipe: ''
-WipeDuration: 1.35000002
+WipeDuration: 1.3500000238418579
 ConsiderBeginning: false
 SavedChapter: {}
 SavedRoom: {}
@@ -92,10 +96,34 @@ AmmoCollected: []
 IgnoreSavedChapter: false
 IgnoreSavedRoom: false
 CSideUnlocked: []
-LastPlayedSide: 0
+LastPlayedSide: 1
 Checkpoints: []
+CanDisplayAchievementsPopups: false
+Achievements: []
+startAsDrone:
+  StrawberryJam2021/3-Advanced: false
+  StrawberryJam2021/0-Lobbies: false
+droneStartChapter:
+  StrawberryJam2021/3-Advanced: 0
+  StrawberryJam2021/0-Lobbies: 0
+droneStartRoom:
+  StrawberryJam2021/3-Advanced: ''
+  StrawberryJam2021/0-Lobbies: ''
+droneStartSpawn:
+  StrawberryJam2021/3-Advanced: *o0
+  StrawberryJam2021/0-Lobbies: *o0
+droneCurrentSpawn:
+  StrawberryJam2021/3-Advanced: *o0
+  StrawberryJam2021/0-Lobbies: *o0
+fakePlayerFacing:
+  StrawberryJam2021/3-Advanced: 0
+  StrawberryJam2021/0-Lobbies: 0
+fakePlayerPosition:
+  StrawberryJam2021/3-Advanced: *o0
+  StrawberryJam2021/0-Lobbies: *o0
 CurrentSubArea: ''
 SpeedrunMode: false
 BagUIId1: 0
 BagUIId2: 0
 LoadedPlayer: false
+SoCMVer: 0

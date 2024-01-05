@@ -21,6 +21,8 @@ WhitelistFullOverride:
 OpenErrorLogOnCrash: true
 InputGui: ''
 MainMenuMode: ''
+CompatibilityMode: None
+D3D11UseExclusiveFullscreen: false
 UseKeyboardForTextInput: true
 AutoUpdateModsOnStartup: false
 WarnOnEverestYamlErrors: false
@@ -35,7 +37,9 @@ DebugRCPort: 32270
 QuickRestart: 
 ShowManualTextOnDebugMap: true
 CodeReload_WIP: false
-CurrentVersion: 1.4436.0
+UseInGameCrashHandler: true
+CrashHandlerAlwaysTeabag: false
+CurrentVersion: 1.4465.0
 CurrentBranch: updater_src_stable
 LogLevels: {}
 MenuPageUp:
