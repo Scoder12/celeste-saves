@@ -20,9 +20,9 @@ StoredSpeed:
   Y: 0
 Facing: Right
 dashCount: 0
-staminaCount: 0
+staminaCount: 110
 ShowIndicator: true
-PreviousLevel: 
+PreviousLevel: d-02
 lockCamera: 0
 LevelInfoCache:
   a-00:

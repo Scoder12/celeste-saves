@@ -14,7 +14,7 @@ ShowHints: {}
 ProgressMode: {}
 WorldMapProgressMode: {}
 UnlockedWarps: []
-SpeedrunModeUnlockedWarps: []
+GoldenStrawberryUnlockedWarps: []
 PowerGripInactive: []
 ClimbingKitInactive: []
 SpiderMagnetInactive: []
@@ -48,13 +48,13 @@ GravityJacketInactive: []
 ScrewAttackInactive: []
 SpaceJumpInactive: []
 StaminaUpgrades: []
-SpeedrunModeStaminaUpgrades: []
+GoldenStrawberryStaminaUpgrades: []
 DroneMissilesUpgrades: []
-SpeedrunModeDroneMissilesUpgrades: []
+GoldenStrawberryDroneMissilesUpgrades: []
 DroneSuperMissilesUpgrades: []
-SpeedrunModeDroneSuperMissilesUpgrades: []
+GoldenStrawberryDroneSuperMissilesUpgrades: []
 DroneFireRateUpgrades: []
-SpeedrunModeDroneFireRateUpgrades: []
+GoldenStrawberryDroneFireRateUpgrades: []
 CountdownCurrentTime: -1
 CountdownShake: false
 CountdownExplode: false
@@ -103,26 +103,32 @@ Achievements: []
 startAsDrone:
   StrawberryJam2021/3-Advanced: false
   StrawberryJam2021/0-Lobbies: false
+  Celeste: false
 droneStartChapter:
   StrawberryJam2021/3-Advanced: 0
   StrawberryJam2021/0-Lobbies: 0
+  Celeste: 0
 droneStartRoom:
   StrawberryJam2021/3-Advanced: ''
   StrawberryJam2021/0-Lobbies: ''
+  Celeste: ''
 droneStartSpawn:
   StrawberryJam2021/3-Advanced: *o0
   StrawberryJam2021/0-Lobbies: *o0
+  Celeste: *o0
 droneCurrentSpawn:
   StrawberryJam2021/3-Advanced: *o0
   StrawberryJam2021/0-Lobbies: *o0
+  Celeste: *o0
 fakePlayerFacing:
   StrawberryJam2021/3-Advanced: 0
   StrawberryJam2021/0-Lobbies: 0
+  Celeste: 0
 fakePlayerPosition:
   StrawberryJam2021/3-Advanced: *o0
   StrawberryJam2021/0-Lobbies: *o0
+  Celeste: *o0
 CurrentSubArea: ''
-SpeedrunMode: false
 BagUIId1: 0
 BagUIId2: 0
 LoadedPlayer: false
