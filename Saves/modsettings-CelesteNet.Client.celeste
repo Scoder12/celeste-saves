@@ -14,7 +14,7 @@ Debug:
 InGame:
   Interactions: false
   Entities: ON
-  OtherPlayerOpacity: 18
+  OtherPlayerOpacity: 11
   Sounds: ON
   SoundVolume: 8
 InGameHUD:

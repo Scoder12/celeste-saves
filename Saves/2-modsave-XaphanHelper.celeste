@@ -96,38 +96,47 @@ AmmoCollected: []
 IgnoreSavedChapter: false
 IgnoreSavedRoom: false
 CSideUnlocked: []
-LastPlayedSide: 1
+LastPlayedSide: 0
 Checkpoints: []
-CanDisplayAchievementsPopups: false
+CanDisplayPopups: false
 Achievements: []
+LorebookEntries: []
+LorebookEntriesRead: []
 startAsDrone:
   StrawberryJam2021/3-Advanced: false
-  StrawberryJam2021/0-Lobbies: false
-  Celeste: false
+  StrawberryJam2021/1-Beginner: false
+  StrawberryJam2021/4-Expert: false
+  nameguysdsidespack/0: false
 droneStartChapter:
   StrawberryJam2021/3-Advanced: 0
-  StrawberryJam2021/0-Lobbies: 0
-  Celeste: 0
+  StrawberryJam2021/1-Beginner: 0
+  StrawberryJam2021/4-Expert: 0
+  nameguysdsidespack/0: 0
 droneStartRoom:
   StrawberryJam2021/3-Advanced: ''
-  StrawberryJam2021/0-Lobbies: ''
-  Celeste: ''
+  StrawberryJam2021/1-Beginner: ''
+  StrawberryJam2021/4-Expert: ''
+  nameguysdsidespack/0: ''
 droneStartSpawn:
   StrawberryJam2021/3-Advanced: *o0
-  StrawberryJam2021/0-Lobbies: *o0
-  Celeste: *o0
+  StrawberryJam2021/1-Beginner: *o0
+  StrawberryJam2021/4-Expert: *o0
+  nameguysdsidespack/0: *o0
 droneCurrentSpawn:
   StrawberryJam2021/3-Advanced: *o0
-  StrawberryJam2021/0-Lobbies: *o0
-  Celeste: *o0
+  StrawberryJam2021/1-Beginner: *o0
+  StrawberryJam2021/4-Expert: *o0
+  nameguysdsidespack/0: *o0
 fakePlayerFacing:
   StrawberryJam2021/3-Advanced: 0
-  StrawberryJam2021/0-Lobbies: 0
-  Celeste: 0
+  StrawberryJam2021/1-Beginner: 0
+  StrawberryJam2021/4-Expert: 0
+  nameguysdsidespack/0: 0
 fakePlayerPosition:
   StrawberryJam2021/3-Advanced: *o0
-  StrawberryJam2021/0-Lobbies: *o0
-  Celeste: *o0
+  StrawberryJam2021/1-Beginner: *o0
+  StrawberryJam2021/4-Expert: *o0
+  nameguysdsidespack/0: *o0
 CurrentSubArea: ''
 BagUIId1: 0
 BagUIId2: 0

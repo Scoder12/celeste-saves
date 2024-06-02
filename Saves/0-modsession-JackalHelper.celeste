@@ -7,11 +7,11 @@ HasPowerDash: false
 lastBird: 0
 lastAltBird: 0
 color:
-  B: 195
-  G: 0
-  R: 8
+  B: 0
+  G: 32
+  R: 204
   A: 204
-  PackedValue: 3435331592
+  PackedValue: 3422560460
 dashQueue: false
 grappleStored: false
 inStaminaZone: false

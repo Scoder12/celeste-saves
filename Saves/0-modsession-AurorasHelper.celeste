@@ -1,0 +1,17 @@
+currentTimers: {}
+rememberedRandomFlagTriggers: {}
+pauseMusicWhenPaused: false
+CurrentMusicPosition: 0
+isValidMusicPosition: false
+CurrentMusicChannel: 
+forcedSpeed: 90
+isInFakeModeState: false
+isForcedMovement: false
+trailColor:
+  B: 255
+  G: 255
+  R: 255
+  A: 255
+  PackedValue: 4294967295
+isHorizontalCollisionDeadly: false
+SpawnBlockedIDs: 

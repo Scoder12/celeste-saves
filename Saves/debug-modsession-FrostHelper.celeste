@@ -9,4 +9,7 @@ BloomColor:
   A: 255
   PackedValue: 4294967295
 RainbowBloom: false
+NextDashSpeed: 
+NextSuperJumpSpeed: 
 SoftDoNotLoad: []
+PersistentIceKeys: []

@@ -16,3 +16,10 @@ keyIceNodes: {}
 introCarsToReset: []
 introCarEntityDatas: {}
 introCarOffsets: {}
+BombTimerActive: false
+BombTimerStartPos:
+  X: 0
+  Y: 0
+BombTimerStartLevel: 
+BombTimerStartKeys: []
+BombTimerRemovedEntities: []

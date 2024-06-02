@@ -9,7 +9,7 @@ ShowHints: {}
 ProgressMode: {}
 WorldMapProgressMode: {}
 UnlockedWarps: []
-SpeedrunModeUnlockedWarps: []
+GoldenStrawberryUnlockedWarps: []
 PowerGripInactive: []
 ClimbingKitInactive: []
 SpiderMagnetInactive: []
@@ -25,7 +25,9 @@ EtherealDashInactive: []
 PortableStationInactive: []
 PulseRadarInactive: []
 DashBootsInactive: []
-HoverBootsInactive: []
+HoverJetInactive: []
+MissilesModuleInactive: []
+SuperMissilesModuleInactive: []
 SpazerInactive: []
 PlasmaBeamInactive: []
 MorphingBallInactive: []
@@ -41,9 +43,13 @@ GravityJacketInactive: []
 ScrewAttackInactive: []
 SpaceJumpInactive: []
 StaminaUpgrades: []
-SpeedrunModeStaminaUpgrades: []
+GoldenStrawberryStaminaUpgrades: []
+DroneMissilesUpgrades: []
+GoldenStrawberryDroneMissilesUpgrades: []
+DroneSuperMissilesUpgrades: []
+GoldenStrawberryDroneSuperMissilesUpgrades: []
 DroneFireRateUpgrades: []
-SpeedrunModeDroneFireRateUpgrades: []
+GoldenStrawberryDroneFireRateUpgrades: []
 CountdownCurrentTime: -1
 CountdownShake: false
 CountdownExplode: false
@@ -55,11 +61,13 @@ CountdownSpawn: &o0
   Y: 0
 CountdownIntroType: false
 CountdownUseLevelWipe: false
+CountdownHideFlag: ''
+CountdownEventsFlags: ''
 TeleportFromElevator: false
 DestinationRoom: ''
 Spawn: *o0
 Wipe: ''
-WipeDuration: 1.35000002
+WipeDuration: 1.3500000238418579
 ConsiderBeginning: false
 SavedChapter: {}
 SavedRoom: {}
@@ -74,9 +82,6 @@ SavedTime: {}
 SavedFromBeginning: {}
 SavedSesionFlags: {}
 SavedSessionStrawberries: {}
-VisitedLobbyMapTiles: []
-GeneratedVisitedLobbyMapTiles: []
-GeneratedVisitedLobbyMapTiles2: []
 MaxHealth: {}
 MaxMissiles: {}
 MaxSuperMissiles: {}
@@ -88,8 +93,24 @@ IgnoreSavedRoom: false
 CSideUnlocked: []
 LastPlayedSide: 1
 Checkpoints: []
+CanDisplayAchievementsPopups: false
+Achievements: []
+startAsDrone:
+  Celeste: false
+droneStartChapter:
+  Celeste: 0
+droneStartRoom:
+  Celeste: ''
+droneStartSpawn:
+  Celeste: *o0
+droneCurrentSpawn:
+  Celeste: *o0
+fakePlayerFacing:
+  Celeste: 0
+fakePlayerPosition:
+  Celeste: *o0
 CurrentSubArea: ''
-SpeedrunMode: false
 BagUIId1: 0
 BagUIId2: 0
 LoadedPlayer: false
+SoCMVer: 0

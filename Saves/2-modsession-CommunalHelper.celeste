@@ -1,4 +1,5 @@
 TrackInitialState: On
+TrackInitialMoveMode: ForwardForce
 CassetteJumpFix: false
 SummitGems: []
 RedlessBerries: []

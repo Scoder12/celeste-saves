@@ -7,8 +7,8 @@ inBoundsAlready: false
 usingSkin: false
 inBoundsAny: false
 skinName: ''
-CornerBerryWillFlyAway: true
-CornerBerryFlewAway: true
+CornerBerryWillFlyAway: false
+CornerBerryFlewAway: false
 HasShroomDash: false
 lastEdward: 0
 ShroomDashActive: false

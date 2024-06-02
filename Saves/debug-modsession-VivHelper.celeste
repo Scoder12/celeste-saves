@@ -1,11 +1,14 @@
+dashPowerupManager: 
 AlwaysBreakDashBlockDash: 0
 Blackout: false
 CollectedCoins: {}
 OverrideTempleFallX: 
+StallScreenWipe: false
 FFDistance: 5
 FPDistance: 30
 MakeClose: false
 demodashDisabler: Off
+OrangeSpeed: 220
 customDashState: 
 CurrentBooster: 
 savedCBDController: 
@@ -17,21 +20,123 @@ StoredSpeed:
   Y: 0
 Facing: Right
 dashCount: 0
-staminaCount: 110
+staminaCount: 0
 ShowIndicator: true
-PreviousLevel: d-00
+PreviousLevel: 
 lockCamera: 0
 LevelInfoCache:
-  a-00:
+  00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-01:
+  01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  a-02:
+  02:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  02b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  03:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  04:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  04b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  04c:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  04d:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  04e:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  05:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  06:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  07:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  08a:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  08b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  09:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  10a:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  10b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  11:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  12a:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  12b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  13:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  14a:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  14b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  15:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  16a:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  16b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  17:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  18a:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  18b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  19:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  20:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  after-00:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  after-01:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  after-02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
   b-00:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-00b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  b-00c:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
   b-01:
@@ -40,58 +145,73 @@ LevelInfoCache:
   b-02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
+  b-02b:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
   b-03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-04:
+  boss-00:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-05:
+  boss-01:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-06:
+  boss-02:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-07:
+  boss-03:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-08:
+  boss-04:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  b-09:
+  boss-05:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  c-00:
+  boss-06:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  c-01:
+  boss-07:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  c-02:
+  boss-08:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  c-03:
+  boss-09:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  c-04:
+  boss-10:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  d-00:
+  boss-11:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  d-01:
+  boss-12:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  d-02:
+  boss-13:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  d-03:
+  boss-14:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  d-04:
+  boss-15:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
-  d-05:
+  boss-16:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  boss-17:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  boss-18:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  boss-19:
+    NoResetRespawns: {}
+    InterRoomRespawnSet: {}
+  boss-20:
     NoResetRespawns: {}
     InterRoomRespawnSet: {}
   start:

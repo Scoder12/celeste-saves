@@ -1,4 +1,4 @@
-DebugModeInEverest: true
+DebugModeInEverest: false
 LaunchWithFMODLiveUpdateInEverest: false
 LaunchWithoutIntro: true
 ShowModOptionsInGame: true
@@ -39,7 +39,7 @@ ShowManualTextOnDebugMap: true
 CodeReload_WIP: false
 UseInGameCrashHandler: true
 CrashHandlerAlwaysTeabag: false
-CurrentVersion: 1.4465.0
+CurrentVersion: 1.4783.0
 CurrentBranch: updater_src_stable
 LogLevels: {}
 MenuPageUp:

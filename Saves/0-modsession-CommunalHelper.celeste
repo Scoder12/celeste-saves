@@ -6,3 +6,6 @@ PlayerWasTired: false
 ExpiringDashRemainingTime: 0
 ExpiringDashFlashThreshold: 0
 CanDeployElytra: false
+GasTimer: 0
+VisualAddition: 
+OshiroBsideTimer: false

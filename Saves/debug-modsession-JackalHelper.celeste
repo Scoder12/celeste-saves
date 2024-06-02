@@ -7,13 +7,13 @@ HasPowerDash: false
 lastBird: 0
 lastAltBird: 0
 color:
-  B: 0
-  G: 153
-  R: 204
+  B: 128
+  G: 0
+  R: 75
   A: 204
-  PackedValue: 3422591436
+  PackedValue: 3430940747
 dashQueue: false
 grappleStored: false
 inStaminaZone: false
-regrabTimer: 0.200000003
+regrabTimer: 0.20000000298023224
 currentHBNodes: 

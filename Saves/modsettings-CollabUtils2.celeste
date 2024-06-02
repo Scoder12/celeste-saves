@@ -27,4 +27,3 @@ HideSpeedBerryTimerDuringGameplay: false
 DisplayEndScreenForAllMaps: false
 BestTimeToDisplayInJournal: SpeedBerry
 SaveByDefaultWhenReturningToLobby: true
-NewLobbyMapKeybindsNotified: false
